@@ -25,7 +25,7 @@ google_analytics_key: "UA-92890640-1"
 colors:
   black:     '#111111'
   white:     '#000000'
-  gray:      '#f7c824'
+  gray:      '#fafafa'
   blue:      '#00baff'
   yellow:    '#f7c824'
 
