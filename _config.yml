@@ -1,0 +1,36 @@
+---
+
+port: 4000
+host: 0.0.0.0
+safe: false
+
+
+### site serving configuration ###
+exclude: [CNAME, README.md, .gitignore]
+permalink : /:year
+timezone: null
+lsi: false
+markdown: kramdown
+
+
+### content configuration ###
+title:       "Terremoto CDMX - Equipo Humanitario de Codeando México"
+keywords:    "terremoto, cdmx, mexico, tecnologia"
+description: "Tecnología de respuesta rápida ante el terremoto de CDMX"
+source_link: "https://odd17.codeandomexico.org"
+favicon:     "img/favicon.ico"
+touch_icon:  "img/apple-icon.png"
+google_analytics_key: "UA-92890640-1"
+
+
+### template colors, used site-wide via css ###
+colors:
+  black:     '#111111'
+  white:     '#000000'
+  gray:      '#f7c824'
+  blue:      '#00baff'
+  yellow:    '#f7c824'
+
+kramdown:
+  auto_ids:  false
+
