@@ -53,17 +53,15 @@ La conversación y coordinación de las tareas las estamos llevando en el Slack 
 ## Como correr el repositorio en local
 
 Para correr el proyecto en local necesitas
-[Ruby](https://www.ruby-lang.org/es/) y
+[Ruby](https://www.ruby-lang.org/es/) mayor de 1.9 y
 [RubyGems](https://rubygems.org/pages/download/).
 
-```
-# Instrucciones para Linux y OSX
 
-gem install jekyll
-jekyll serve
-# ...
-#    Server address: http://0.0.0.0:4000
-#  Server running... press ctrl-c to stop.
+### Instrucciones para Linux y OSX
+
+```
+$ gem install jekyll
+$ jekyll serve
 ```
 
 El sistema estará disponible en http://127.0.0.1:4000/
