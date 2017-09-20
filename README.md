@@ -30,11 +30,25 @@ La conversación y coordinación de las tareas las estamos llevando en el Slack 
 * Revisa la lista de [tareas pendientes](https://github.com/CodeandoMexico/terremoto-cdmx/issues) e identifica una tarea que no esté asignada y puedas realizar.
 * Agrega información que creas útil en [este documento](https://docs.google.com/document/d/1QVBq6UZ4JA24HceiTwUWfbcz3ZA3SxueOymXsnp43Ug/edit#).
 
-#### Tenemos tres equipos coordinandose en el Slack de Codeando México para mantener el sitio web
+#### Equipos coordinando sitio web mediante Slack
 
-1. Equipo contenido en `#sismomx-contenido`: Recibe documento de referencia y crea secciones ya terminadas. Agregarlas a los issues en el repositorio Github.
-2. Equipo Diseño en `#sismomx-diseño`: Recibe documento de referencia y crea diseño agregandolo a issues en el repositorio de Github.
-3. Equipo Desarrollo en `#sismomx-desarrollo`: Recibe issues del repositorio de GitHub y crea Pull Requests con las soluciones.
+* Contenido coordinando en `#sismomx-contenido`
+    * Mantener actualizado el [documento de referencia](https://docs.google.com/document/d/1QVBq6UZ4JA24HceiTwUWfbcz3ZA3SxueOymXsnp43Ug/edit#)
+    * Priorizar la información que deba integrarse al sitio web.
+    * Redactar los copies que deben publicarse en el sitio web.
+    * Mantener y actualizar el documento de preguntas frecuentes.
+    * Definir accionables para cada perfil (Quiero Ayudar, Necesito Ayuda).
+    * Output: Documento para el equipo de diseño con la información (copies) del sitio web.
+* Diseño coordinando en `#sismomx-diseño`
+    * Elaborar la arquitectura de información del sitio web (a partir del documento de output del equipo de Contenido).
+    * Elaborar una propuesta de mejor para el diseño (interfaz) del sitio web (mockups).
+    * Output: Issues detallados en el repositorio de GitHub.
+* Desarrollo coordinando en `#sismomx-desarrollo`
+    * Implementar mockups en el sitio web.
+    * Publicar contenido el sitio web a partir de los issues en el repositorio.
+    * Mantener el README del repositorio.
+    * Onboarding a desarrolladores que se quieran sumar al desarrollo del sitio web.
+
 
 
 ### Investigación, información y/o documentación
