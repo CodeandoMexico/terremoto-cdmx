@@ -26,7 +26,7 @@ colors:
   black:     '#333333'
   white:     '#ffffff'
   gray:      '#fafafa'
-  blue:      '#00baff'
+  blue:      '#f3476d'
   yellow:    '#f7c824'
 
 kramdown:
