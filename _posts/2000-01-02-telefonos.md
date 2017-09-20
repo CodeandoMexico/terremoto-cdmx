@@ -1,7 +1,7 @@
 ---
-title: "Why"
-bg: blue
-color: white
+title: "Teléfonos"
+bg: gray
+color: black
 fa-icon: check-square-o
 ---
 

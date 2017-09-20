@@ -68,9 +68,16 @@ hr {
 .center { text-align: center; }
 .left, .container .left { text-align: left; }
 
-.container h1, .container h2, .container h3, .container h4 {
+.container h1 {
   margin-bottom: 20px;
+  font-weight: bold;
   text-align: center;
+  padding: 0 4%;
+}
+
+.container h2, .container h3, .container h4 {
+  margin-bottom: 20px;
+  text-align: left;
   padding: 0 4%;
 }
 .container p, .container ol, .container ul {
@@ -111,8 +118,8 @@ hr {
 
 /* ----- top menu ----- */
 
-{% assign navborder = 3 %}
-{% assign navborder_active = 6 %}
+{% assign navborder = 1 %}
+{% assign navborder_active = 3 %}
 
 nav {
   font-size:15px;
@@ -170,7 +177,7 @@ nav ul li:hover, nav ul li.active {
   display:block;
   width:100%;
   min-height:300px;
-  padding:210px 0;
+  padding: 50px 0;
   background:url(img/bgnoise.png);
   /* generated noise from noisetexturegenerator.com */
 }
@@ -189,58 +196,6 @@ nav ul li:hover, nav ul li.active {
 }
 #footer .container p { font-size:13px; margin:0; }
 
-.subtlecircle {
-  text-align:center;
-  z-index:3;
-  border-radius:50%;
-  -moz-border-radius:50%;
-  -webkit-border-radius:50%;
-  box-shadow: 0px 1px 15px rgba(0,0,0,0.05);
-  background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAFCAYAAACNbyblAAAAF0lEQVQIHWP8//+/MQMaYELjg7kUCgIASm8DOqGzfp8AAAAASUVORK5CYII=);
-}
-
-.sectiondivider {
-  width:270px;
-  height:270px;
-  padding:15px;
-  position:absolute;
-  top:-135px;
-  left:50%;
-  margin-left:-135px;
-}
-
-.sectiondivider img {
-  width:200px;
-  height:240px;
-  position: static;
-  margin-top: -20px;
-}
-
-.sectiondivider .fa-stack {
-  font-size: 130px;
-  position: static;
-  margin-top: -8px;
-}
-.sectiondivider .fa-circle { color: #fff; }
-
-.sectiondivider h5 {
-  font-size:15px;
-  font-weight:700;
-  text-transform:uppercase;
-  position:absolute;
-  bottom:50px;
-  left:auto;
-  text-align:center;
-  display:block;
-  z-index:6;
-  width:240px;
-}
-
-.sectiondivider.imaged {
-  text-shadow: 1px 1px 3px #333;
-}
-
-
 .columned {
   -webkit-column-count: 3;
   -moz-column-count:    3;
@@ -256,54 +211,6 @@ nav ul li:hover, nav ul li.active {
 }
 .longlist { font-size: 14px !important; }
 .longlist li { margin-bottom: 3px; }
-
-
-
-/* ----- fork on github banner ----- */
-#forkongithub a {
-  color:#fff;
-  text-decoration:none;
-  font-family:arial,sans-serif;
-  text-align:center;
-  font-weight:700;
-  font-size:1rem;
-  line-height:2rem;
-  position:relative;
-  transition:.5s;
-  padding:5px 40px;
-}
-#forkongithub a::before, #forkongithub a::after {
-  content:""; width:100%; display:block; position:absolute;
-  top:1px; left:0; height:1px; background:#fff;
-}
-#forkongithub a::after { bottom:1px; top:auto; }
-@media screen and (min-width:800px) {
-  #forkongithub {
-    position:fixed;
-    display:block;
-    top:0;
-    right:0;
-    width:200px;
-    overflow:hidden;
-    height:200px;
-    z-index:9999;
-  }
-  #forkongithub a {
-    width:200px;
-    position:absolute;
-    top:60px;
-    right:-60px;
-    transform:rotate(45deg);
-    -webkit-transform:rotate(45deg);
-    -ms-transform:rotate(45deg);
-    -moz-transform:rotate(45deg);
-    -o-transform:rotate(45deg);
-    box-shadow:4px 4px 10px rgba(0,0,0,0.8);
-    box-sizing: content-box;
-  }
-}
-
-
 
 /* mid size (tablets, landscapes) */
 @media only screen and (max-width: 679px) {

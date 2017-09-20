@@ -1,8 +1,1 @@
-
-
-Design by Tim O'Brien [t413.com](http://t413.com/)
-&mdash;
-[SinglePaged theme](https://github.com/t413/SinglePaged)
-&mdash;
-this site is [open source]({{ site.source_link }})
-
+Creado por el Equipo Humanitario de [Codeando México](http://www.codeandomexico.org). [Código](http://github.com/CodeandoMexico/terremoto-cdmx) | Créditos 
