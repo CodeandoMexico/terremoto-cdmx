@@ -55,4 +55,12 @@ En estos momentos cualquier reporte puede marcar la diferencia. Reporta fugas 
     Locatel (442)2143311<br />
     Protección Civil (442) 3091400/ 3091405
   </div>
+  <div class="column half">
+    <h3>Oaxaca</h3>
+    Bomberos: (951)  5492197 / 5060248<br />
+    Cruz Roja: (951) 5164455 / 5164003<br />
+    Fugas Gas: (951) 5016600 / 5016611 / 5180094<br />
+    Locatel: (951) 5162222
+    Protección Civil: 066
+  </div>
 </div>
