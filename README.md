@@ -101,7 +101,7 @@ El sistema estará disponible en http://127.0.0.1:4000/
 
 #### Centros de Acopio <a name="centrosacopio"></a>
 
-API para conectarse a la base de datos de centros de acopio se esta desarrollando en un [repositorio de github)(https://github.com/Skycatch/acopio-api) y coordinando en el canal de Slack `#equipo-humanitario`.
+API para conectarse a la base de datos de centros de acopio se esta desarrollando en un [repositorio de github](https://github.com/Skycatch/acopio-api) y coordinando en el canal de Slack `#equipo-humanitario`.
 
 
 #### App de priorización de necesidad para vincular con centros de acopio <a name="prioritizacion"></a>
