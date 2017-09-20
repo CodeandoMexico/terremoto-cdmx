@@ -67,8 +67,6 @@ El sistema estará disponible en http://127.0.0.1:4000/
 
 MIT
 
-> Copyright (c) 2017, Codeando México
->
 > Se concede permiso, de forma gratuita, a cualquier persona que obtenga una
 > copia de este software y de los archivos de documentación asociados (el
 > "Software"), para utilizar el Software sin restricción, incluyendo sin
