@@ -8,7 +8,8 @@ lang: es
 
 # Teléfonos de emergencia en tu ciudad
 
-En estos momentos cualquier reporte puede marcar la diferencia. Reporta fugas de gas y agua, persona desaparecidas, incendios, entre otros.
+En estos momentos cualquier reporte puede marcar la diferencia.
+Reporta fugas de gas y agua, persona desaparecidas, incendios, entre otros.
 
 <div class="row">
   <div class="column half">
