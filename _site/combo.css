@@ -757,4 +757,33 @@ nav ul li:hover, nav ul li.active {
     column-count:         2;
   }
 }
+#telefonos dl{
 
+	margin:0;
+	padding:0;
+	font-size: 17px;
+	line-height: 24px;
+	overflow: hidden;
+}
+#telefonos .block{
+	width: 50%;
+	float: left;
+	padding-right: 20px;
+}
+#telefonos h3{
+clear: both;
+display: block;
+margin: 20px 0;
+padding: 0;
+color:;
+}
+#telefonos dl dt{
+	float:left;
+	font-weight: bold;
+	clear: left;
+}
+#telefonos dl dd{
+	float: left;
+	font-weight: normal;
+	padding-left: 10px;
+}
