@@ -24,13 +24,24 @@ caso de desastres posteriores.
 
 La conversación y coordinación de las tareas las estamos llevando en el Slack de Codeando México, dentro del canal de `#equipo-humanitario`. Para unirte a Slack, regstrate en http://slack.codeandomexico.org.
 
-### Sitio web
+### Herramientas desarrollándose
+
+1. [Sitio Web](#sitioWeb) 
+1. [API de centros de acopio](#centrosacopio)
+1. [App de priorización de necesidad para vincular con centros de acopio](#prioritizacion)
+1. [App de SMS](appsms) 
+1. [Obtención de información a partir de Twitter](twitterinfo)
+1. [Script de python para encontrar a personas desaparecidas](desaparecidas) 
+
+#### Sitio web <a name="sitioweb"></a>
+
+Este repositorio contiene el código para el [sitio web](http://sismomexico.org/).
 
 * Únete al canal de `#sismomx-website` dentro del Slack de Codeando México para estar en contacto con el equipo encargado de mantener y actualizar el sitio web.
 * Revisa la lista de [tareas pendientes](https://github.com/CodeandoMexico/terremoto-cdmx/issues) e identifica una tarea que no esté asignada y puedas realizar.
 * Agrega información que creas útil en [este documento](https://docs.google.com/document/d/1QVBq6UZ4JA24HceiTwUWfbcz3ZA3SxueOymXsnp43Ug/edit#).
 
-#### Equipos coordinando sitio web mediante Slack
+##### Equipos coordinando sitio web mediante Slack
 
 * Contenido coordinando en `#sismomx-contenido`
     * Mantener actualizado el [documento de referencia](https://docs.google.com/document/d/1QVBq6UZ4JA24HceiTwUWfbcz3ZA3SxueOymXsnp43Ug/edit#)
@@ -49,15 +60,13 @@ La conversación y coordinación de las tareas las estamos llevando en el Slack 
     * Mantener el README del repositorio.
     * Onboarding a desarrolladores que se quieran sumar al desarrollo del sitio web.
 
-
-
-### Investigación, información y/o documentación
+#### Investigación, información y/o documentación
 
 * Revisa la lista de [tareas pendientes](https://github.com/CodeandoMexico/terremoto-cdmx/issues) con la etiqueta de `información` para contribuir con recursos que no hayamos identificado. Responde en algún issue o crea un issue nuevo si crees que se necesita una nueva categora.
 * Revisa [el documento](https://docs.google.com/document/d/1QVBq6UZ4JA24HceiTwUWfbcz3ZA3SxueOymXsnp43Ug/edit#) con el contenido del sitio web. Agrega cualquier información que consideres útil.
 
 
-### Con programación
+#### Con programación
 
 1. Revisa la lista de
    [tareas pendientes](https://github.com/CodeandoMexico/terremoto-cdmx/issues)
@@ -70,14 +79,16 @@ La conversación y coordinación de las tareas las estamos llevando en el Slack 
    tu tarea y describiendo la solución.
 1. ¡Gracias!
 
-## Como correr el repositorio en local
+
+
+#### Como correr el repositorio en local
 
 Para correr el proyecto en local necesitas
 [Ruby](https://www.ruby-lang.org/es/) mayor de 1.9 y
 [RubyGems](https://rubygems.org/pages/download/).
 
 
-### Instrucciones para Linux y OSX
+##### Instrucciones para Linux y OSX
 
 ```
 $ gem install bundler
@@ -86,6 +97,28 @@ $ jekyll serve
 ```
 
 El sistema estará disponible en http://127.0.0.1:4000/
+
+
+#### Centros de Acopio <a name="centrosacopio"></a>
+
+API para conectarse a la base de datos de centros de acopio se esta desarrollando en un [repositorio de github)(https://github.com/Skycatch/acopio-api) y coordinando en el canal de Slack `#equipo-humanitario`.
+
+
+#### App de priorización de necesidad para vincular con centros de acopio <a name="prioritizacion"></a>
+
+App para buscar lugares donde se esta pidiendo ayuda se esta desarrollando en un [repositorio de github](https://github.com/civica-digital/quake-relief-cdmx) y coordinando en el canal de Slack `#equipo-humanitario`.
+
+#### App de SMS <a name="appsms"></a>
+
+App para [utilización de SMS](https://sismomx-sms.herokuapp.com/) y coordinando en el canal de Slack `#equipo-humanitario`.
+
+#### Obtención de información a partir de Twitter <a name="twitterinfo"></a>
+
+Filtra información valiosa relacionada al terremoto. Se esta desarrollando en un [repositorio de github](https://github.com/Garyi/Filtro-Informaci-n-Valiosa-Terremoto-Twitter) y coordinando en el canal de Slack `#equipo-humanitario`.
+
+#### Script de python para encontrar a personas desaparecidas]<a name="desaparecidas"></a>
+
+Bot que busca información sobre personas desaparecidas durante el sismo. Se esta desarrollando en un [repositorio de github](https://github.com/regenhans/earthquake-bot)  y coordinando en el canal de Slack `#equipo-humanitario`.
 
 ## Licencia
 
