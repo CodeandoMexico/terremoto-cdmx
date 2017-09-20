@@ -36,6 +36,6 @@ fa-icon: check-square-o
 
 ## Puebla
 
-Cruz Roja:  (22)213-7700
-Locatel: (22)211-7800
-Bomberos: (22)245-8001
+* Cruz Roja: (22)213-7700
+* Locatel: (22)211-7800
+* Bomberos: (22)245-8001
