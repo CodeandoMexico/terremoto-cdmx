@@ -5,10 +5,17 @@ color: black
 style: center
 ---
 
-# Recursos 
+# Recursos
+
+## Lista de personas rescatadas
 
 {: .left}
 
-* [Lista de personas rescatadas](https://docs.google.com/spreadsheets/u/1/d/1-17hTtd6ft1CmEut-cb-brm7C1JA_lUgpoiVsPN2kkE/htmlview#gid=0)
-* [Localizador de personas](https://google.org/personfinder/2017-puebla-mexico-earthquake)
+<div class="icontain">
+  <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRk1GSjHwHXbmEaYmSixFrGeo-yWKyq9hoxHLYaUUDBtN-MJzG7WTV-IAltpyouhdPdU1I_eeSgr2al/pubhtml?widget=true&amp;headers=false" width="100%" height="480"></iframe>
+</div>
 
+
+## Localizador de personas
+
+[Google Person Finder](https://google.org/personfinder/2017-puebla-mexico-earthquake)
