@@ -22,17 +22,22 @@ caso de desastres posteriores.
 
 ## Cómo ayudar
 
-## Con investigación
+La conversación y coordinación de las tareas las estamos llevando en el Slack de Codeando México, dentro del canal de `#equipo-humanitario`. Para unirte a Slack, regstrate en http://slack.codeandomexico.org.
 
-1. Revisa la lista de [tareas
-   pendientes](https://github.com/CodeandoMexico/terremoto-cdmx/issues) e
-   identifica una tarea que no esté asignada y puedas investigar.
-1. En un comentario contribuye con la solución, ya sea colocando un comentario
-   o agregando un enlace a un lugar externo (google doc, blog post, etc) en
-   donde esté tu investigación.
-1. Avisa a alguien más que necesitas ayuda implementar tu investigación en el sitio.
+### Sitio web
 
-## Con programación
+* Únete al canal de `#sismomx-website` dentro del Slack de Codeando México para estar en contacto con el equipo encargado de mantener y actualizar el sitio web.
+* Revisa la lista de [tareas pendientes](https://github.com/CodeandoMexico/terremoto-cdmx/issues) e identifica una tarea que no esté asignada y puedas realizar.
+* Agrega información que creas útil en [este documento](https://docs.google.com/document/d/1QVBq6UZ4JA24HceiTwUWfbcz3ZA3SxueOymXsnp43Ug/edit#).
+
+
+### Investigación, información y/o documentación
+
+* Revisa la lista de [tareas pendientes](https://github.com/CodeandoMexico/terremoto-cdmx/issues) con la etiqueta de `información` para contribuir con recursos que no hayamos identificado. Responde en algún issue o crea un issue nuevo si crees que se necesita una nueva categora.
+* Revisa [el documento](https://docs.google.com/document/d/1QVBq6UZ4JA24HceiTwUWfbcz3ZA3SxueOymXsnp43Ug/edit#) con el contenido del sitio web. Agrega cualquier información que consideres útil.
+
+
+### Con programación
 
 1. Revisa la lista de
    [tareas pendientes](https://github.com/CodeandoMexico/terremoto-cdmx/issues)
