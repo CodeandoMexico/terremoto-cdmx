@@ -129,7 +129,6 @@ Bot que busca información sobre personas desaparecidas durante el sismo. Se est
 * [SMS Alerts para sismo en Mexico](https://github.com/denialtorres/SMS-ALERTS) en Ruby on Rails 4.2
 * [Herramienta para el reporte ciudadano](https://github.com/leodc/mapeo_colaborativo) en JS, express, socket.io
 * [Repositorio de información para ayudar en desastres naturales](https://github.com/eldelentes/comoayudarmx) en HTML, JS y CSS plano
-* [App para proveer información y concentrar esfuerzos](https://github.com/erikcaffrey/AyudaMexico) en Java (Android)
 
 ## Licencia
 
