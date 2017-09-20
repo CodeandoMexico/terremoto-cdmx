@@ -7,7 +7,7 @@ style: center
 
 # Recursos
 
-## Lista de personas rescatadas
+## Lista de reportes ciudadanos
 
 {: .left}
 
