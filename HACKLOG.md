@@ -32,4 +32,6 @@
    * Agregar información para Chiapas y Oaxaca
    * Elaborar directorio con tareas y responsables.
    * Agregar descripción en el canal de Slack y README.md
-* Notas completas: https://www.evernote.com/shard/s52/sh/2dbd7ee3-8e14-4bd3-9fb0-690264a91798/828d9f42721eab54
+* Notas completas:
+   * https://www.evernote.com/shard/s52/sh/2dbd7ee3-8e14-4bd3-9fb0-690264a91798/828d9f42721eab54 (@fmicalizzi)
+   * https://www.evernote.com/l/ADQtvX7jjhRL05-waQJkqReYgo2fQnIeq1Q (@chubas)
