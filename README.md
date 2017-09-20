@@ -80,6 +80,7 @@ Para correr el proyecto en local necesitas
 ### Instrucciones para Linux y OSX
 
 ```
+$ gem install bundler
 $ bundle install
 $ jekyll serve
 ```
