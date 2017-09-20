@@ -30,6 +30,12 @@ La conversación y coordinación de las tareas las estamos llevando en el Slack 
 * Revisa la lista de [tareas pendientes](https://github.com/CodeandoMexico/terremoto-cdmx/issues) e identifica una tarea que no esté asignada y puedas realizar.
 * Agrega información que creas útil en [este documento](https://docs.google.com/document/d/1QVBq6UZ4JA24HceiTwUWfbcz3ZA3SxueOymXsnp43Ug/edit#).
 
+#### Tenemos tres equipos coordinandose en el Slack de Codeando México para mantener el sitio web
+
+1. Equipo contenido en `#sismomx-contenido`: Recibe documento de referencia y crea secciones ya terminadas. Agregarlas a los issues en el repositorio Github.
+2. Equipo Diseño en `#sismomx-diseño`: Recibe documento de referencia y crea diseño agregandolo a issues en el repositorio de Github.
+3. Equipo Desarrollo en `#sismomx-desarrollo`: Recibe issues del repositorio de GitHub y crea Pull Requests con las soluciones.
+
 
 ### Investigación, información y/o documentación
 
