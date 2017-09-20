@@ -4,7 +4,9 @@ bg: phones
 color: white
 ---
 
-# Teléfonos de emergencia
+# Teléfonos de emergencia en tu ciudad
+
+En estos momentos cualquier reporte puede marcar la diferencia. Reporta fugas de gas y agua, persona desaparecidas, incendios, entre otros.
 
 <div class="row">
   <div class="column half">
@@ -40,5 +42,15 @@ color: white
     Cruz Roja: (22)213-7700<br />
     Locatel: (22)211-7800<br />
     Bomberos: (22)245-8001
+  </div>
+</div>
+<div class="row">
+  <div class="column half">
+    <h3>Querétaro</h3>
+    Bomberos: (442) 2120627/ 2123939 / (442)2181300/ 2180300<br />
+    Cruz Roja: (442) 2290669/ 2290505066<br />
+    Fugas Gas (442)2170862 / 2101616<br />
+    Locatel (442)2143311<br />
+    Protección Civil (442) 3091400/ 3091405
   </div>
 </div>
