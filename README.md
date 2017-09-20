@@ -35,7 +35,7 @@ La conversación y coordinación de las tareas las estamos llevando en el Slack 
 
 #### Sitio web <a name="sitioweb"></a>
 
-Este repositorio contiene el código para el [sitio web](http://sismomexico.org/).
+Este repositorio contiene el código para el [sitio web](http://sismomexico.org/). Stack: jekyll, ruby, html, css, javascript
 
 * Únete al canal de `#sismomx-website` dentro del Slack de Codeando México para estar en contacto con el equipo encargado de mantener y actualizar el sitio web.
 * Revisa la lista de [tareas pendientes](https://github.com/CodeandoMexico/terremoto-cdmx/issues) e identifica una tarea que no esté asignada y puedas realizar.
@@ -119,6 +119,15 @@ Filtra información valiosa relacionada al terremoto. Se esta desarrollando en u
 #### Script de python para encontrar a personas desaparecidas]<a name="desaparecidas"></a>
 
 Bot que busca información sobre personas desaparecidas durante el sismo. Se esta desarrollando en un [repositorio de github](https://github.com/regenhans/earthquake-bot)  y coordinando en el canal de Slack `#equipo-humanitario`.
+
+## Otros proyectos desarrollandose
+
+* [Ban FakeNews](https://github.com/RZEROSTERN/banfakenews) en PHP, Yii
+* [API para centros de acopio](https://github.com/Skycatch/acopio-api) en JS, Hapi
+* [Backend de comoayudar.mx](https://github.com/ComoAyudarMX/CAMbackend) en JS, express
+* [Encontrar las necesidades más prioritarias por zona para enviar ayuda y notificar](https://github.com/civica-digital/quake-relief-cdmx/commits/master) en Ruby on Rails 5.0
+* [SMS Alerts para sismo en Mexico](https://github.com/denialtorres/SMS-ALERTS) en Ruby on Rails 4.2
+* [Herramienta para el reporte ciudadano](https://github.com/leodc/mapeo_colaborativo) en JS, express, socket.io
 
 ## Licencia
 
