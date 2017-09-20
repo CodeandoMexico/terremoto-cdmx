@@ -28,6 +28,9 @@ colors:
   gray:      '#fafafa'
   blue:      '#f3476d'
   yellow:    '#f7c824'
+  intro:     '#3B82C1'
+  phones:    '#ed7950'
+  map:       '#578e77'
 
 kramdown:
   auto_ids:  false

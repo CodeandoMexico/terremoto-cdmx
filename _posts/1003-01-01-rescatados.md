@@ -1,7 +1,7 @@
 ---
 title: "Recursos"
-bg: white
-color: black
+bg: map
+color: white
 style: center
 ---
 

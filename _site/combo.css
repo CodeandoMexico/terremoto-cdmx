@@ -482,15 +482,30 @@ html { box-sizing: border-box; }
 .text-gray a { color: #fafafa; }
 .bg-gray     { background-color: #fafafa !important; }
 
-.border-blue { border-color: #00baff !important; }
-.text-blue   { color: #00baff; }
-.text-blue a { color: #00baff; }
-.bg-blue     { background-color: #00baff !important; }
+.border-blue { border-color: #f3476d !important; }
+.text-blue   { color: #f3476d; }
+.text-blue a { color: #f3476d; }
+.bg-blue     { background-color: #f3476d !important; }
 
 .border-yellow { border-color: #f7c824 !important; }
 .text-yellow   { color: #f7c824; }
 .text-yellow a { color: #f7c824; }
 .bg-yellow     { background-color: #f7c824 !important; }
+
+.border-intro { border-color: #3B82C1 !important; }
+.text-intro   { color: #3B82C1; }
+.text-intro a { color: #3B82C1; }
+.bg-intro     { background-color: #3B82C1 !important; }
+
+.border-phones { border-color: #ed7950 !important; }
+.text-phones   { color: #ed7950; }
+.text-phones a { color: #ed7950; }
+.bg-phones     { background-color: #ed7950 !important; }
+
+.border-map { border-color: #578e77 !important; }
+.text-map   { color: #578e77; }
+.text-map a { color: #578e77; }
+.bg-map     { background-color: #578e77 !important; }
 
 
 /* ----- per-post colors! ----- */
@@ -506,34 +521,26 @@ html { box-sizing: border-box; }
   
   
   
-  nav .p-encuentra { border-color: #ffffff; }
-  #encuentra { background-color: #ffffff !important; color: #333333; }
-  #encuentra a { color: #333333; }
-  #encuentra .sectiondivider { color: #ffffff; }
+  nav .p-rescatados { border-color: #578e77; }
+  #rescatados { background-color: #578e77 !important; color: #ffffff; }
+  #rescatados a { color: #ffffff; }
+  #rescatados .sectiondivider { color: #578e77; }
 
   
   
   
-  nav .p-rescatados { border-color: #ffffff; }
-  #rescatados { background-color: #ffffff !important; color: #333333; }
-  #rescatados a { color: #333333; }
-  #rescatados .sectiondivider { color: #ffffff; }
+  nav .p-telefonos { border-color: #ed7950; }
+  #telefonos { background-color: #ed7950 !important; color: #ffffff; }
+  #telefonos a { color: #ffffff; }
+  #telefonos .sectiondivider { color: #ed7950; }
 
   
   
   
-  nav .p-telefonos { border-color: #fafafa; }
-  #telefonos { background-color: #fafafa !important; color: #333333; }
-  #telefonos a { color: #333333; }
-  #telefonos .sectiondivider { color: #fafafa; }
-
-  
-  
-  
-  nav .p-intro { border-color: #ffffff; }
-  #intro { background-color: #ffffff !important; color: #00baff; }
-  #intro a { color: #00baff; }
-  #intro .sectiondivider { color: #ffffff; }
+  nav .p-intro { border-color: #3B82C1; }
+  #intro { background-color: #3B82C1 !important; color: #ffffff; }
+  #intro a { color: #ffffff; }
+  #intro .sectiondivider { color: #3B82C1; }
 
 
 
