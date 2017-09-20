@@ -18,4 +18,4 @@ style: center
 
 ## Localizador de personas
 
-[Google Person Finder](https://google.org/personfinder/2017-puebla-mexico-earthquake)
+[Google Person Finder](https://google.org/personfinder/2017-puebla-mexico-earthquake){:target="_blank"}
