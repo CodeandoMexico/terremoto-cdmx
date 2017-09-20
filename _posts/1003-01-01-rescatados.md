@@ -2,6 +2,7 @@
 title: "Recursos"
 bg: map
 color: white
+lang: es
 ---
 
 # Recursos
