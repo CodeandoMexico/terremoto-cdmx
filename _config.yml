@@ -34,3 +34,11 @@ colors:
 
 kramdown:
   auto_ids:  false
+
+plugins:
+  - jekyll-polyglot
+  
+languages: ["es", "en"]
+default_lang: "es"
+exclude_from_localization: ["img"]
+parallel_localization: true
