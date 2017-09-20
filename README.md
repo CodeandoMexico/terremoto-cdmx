@@ -26,12 +26,12 @@ La conversación y coordinación de las tareas las estamos llevando en el Slack 
 
 ### Herramientas desarrollándose
 
-1. [Sitio Web](#sitioWeb) 
+1. [Sitio Web](#sitioWeb)
 1. [API de centros de acopio](#centrosacopio)
 1. [App de priorización de necesidad para vincular con centros de acopio](#prioritizacion)
-1. [App de SMS](#appsms) 
+1. [App de SMS](#appsms)
 1. [Obtención de información a partir de Twitter](#twitterinfo)
-1. [Script de python para encontrar a personas desaparecidas](#desaparecidas) 
+1. [Script de python para encontrar a personas desaparecidas](#desaparecidas)
 
 #### Sitio web <a name="sitioweb"></a>
 
@@ -124,6 +124,7 @@ Bot que busca información sobre personas desaparecidas durante el sismo. Se est
 
 * [Ban FakeNews](https://github.com/RZEROSTERN/banfakenews) en PHP, Yii
 * [API para centros de acopio](https://github.com/Skycatch/acopio-api) en JS, Hapi
+* [Repositorio de información para ayudar en desastres naturales](https://github.com/eldelentes/comoayudarmx) en HTML, JS y CSS plano
 * [Backend de comoayudar.mx](https://github.com/ComoAyudarMX/CAMbackend) en JS, express
 * [Encontrar las necesidades más prioritarias por zona para enviar ayuda y notificar](https://github.com/civica-digital/quake-relief-cdmx/commits/master) en Ruby on Rails 5.0
 * [SMS Alerts para sismo en Mexico](https://github.com/denialtorres/SMS-ALERTS) en Ruby on Rails 4.2
