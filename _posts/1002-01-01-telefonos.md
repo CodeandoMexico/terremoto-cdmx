@@ -1,7 +1,7 @@
 ---
 title: "Teléfonos"
-bg: gray
-color: black
+bg: phones
+color: white
 fa-icon: check-square-o
 ---
 
