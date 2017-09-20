@@ -12,6 +12,9 @@
   <link href="https://fonts.googleapis.com/css?family=Roboto|Roboto+Mono" rel="stylesheet">
   {% if site.favicon %}<link rel="shortcut icon" href="{{ site.favicon }}" type="image/x-icon">{% endif %}
 	{% if site.touch_icon %}<link rel="apple-touch-icon" href="{{ site.touch_icon }}">{% endif %}
+  {% if site.google_analytics and jekyll.environment == 'production' %}
+  {% include analytics.html %}
+  {% endif %}
 </head>
 <body>
   <div id="main">
