@@ -506,6 +506,22 @@ html { box-sizing: border-box; }
   
   
   
+  nav .p-encuentra { border-color: #ffffff; }
+  #encuentra { background-color: #ffffff !important; color: #333333; }
+  #encuentra a { color: #333333; }
+  #encuentra .sectiondivider { color: #ffffff; }
+
+  
+  
+  
+  nav .p-rescatados { border-color: #ffffff; }
+  #rescatados { background-color: #ffffff !important; color: #333333; }
+  #rescatados a { color: #333333; }
+  #rescatados .sectiondivider { color: #ffffff; }
+
+  
+  
+  
   nav .p-telefonos { border-color: #fafafa; }
   #telefonos { background-color: #fafafa !important; color: #333333; }
   #telefonos a { color: #333333; }
