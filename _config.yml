@@ -18,7 +18,7 @@ description: "Tecnología de respuesta rápida ante el terremoto de CDMX"
 source_link: "https://odd17.codeandomexico.org"
 favicon:     "img/favicon.ico"
 touch_icon:  "img/apple-icon.png"
-google_analytics_key: "UA-92890640-1"
+google_analytics: "UA-106756325-1"
 
 
 ### template colors, used site-wide via css ###
@@ -37,7 +37,7 @@ kramdown:
 
 plugins:
   - jekyll-polyglot
-  
+
 languages: ["es", "en"]
 default_lang: "es"
 exclude_from_localization: ["img"]
