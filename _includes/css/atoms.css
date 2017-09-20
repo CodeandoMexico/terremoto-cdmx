@@ -1,0 +1,19 @@
+.section {
+  display: -webkit-flex;
+  display: -moz-flex;
+  display: -ms-flex;
+  display: -o-flex;
+  display: flex;
+  align-items: center;
+  font-family: 'Roboto Mono', monospace;
+}
+
+#intro {
+  background-image: url(img/home-bg.jpg);
+  background-position: fixed;
+  background-size: cover;
+}
+
+h1 {
+  font-size: 48px;
+}
