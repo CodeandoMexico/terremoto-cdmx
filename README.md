@@ -22,16 +22,16 @@ caso de desastres posteriores.
 
 ## Cómo ayudar
 
-La conversación y coordinación de las tareas las estamos llevando en el Slack de Codeando México, dentro del canal de `#equipo-humanitario`. Para unirte a Slack, regstrate en http://slack.codeandomexico.org.
+La conversación y coordinación de las tareas las estamos llevando en el Slack de Codeando México, dentro del canal de `#equipo-humanitario`. Para unirte a Slack, registrate en http://slack.codeandomexico.org.
 
 ### Herramientas desarrollándose
 
 1. [Sitio Web](#sitioWeb) 
 1. [API de centros de acopio](#centrosacopio)
 1. [App de priorización de necesidad para vincular con centros de acopio](#prioritizacion)
-1. [App de SMS](appsms) 
-1. [Obtención de información a partir de Twitter](twitterinfo)
-1. [Script de python para encontrar a personas desaparecidas](desaparecidas) 
+1. [App de SMS](#appsms) 
+1. [Obtención de información a partir de Twitter](#twitterinfo)
+1. [Script de python para encontrar a personas desaparecidas](#desaparecidas) 
 
 #### Sitio web <a name="sitioweb"></a>
 
