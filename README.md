@@ -33,6 +33,24 @@ caso de desastres posteriores.
    tu tarea y describiendo la solución.
 1. ¡Gracias!
 
+## Como correr el repositorio en local
+
+Para correr el proyecto en local necesitas
+[Ruby](https://www.ruby-lang.org/es/) y
+[RubyGems](https://rubygems.org/pages/download/).
+
+```
+# Instrucciones para Linux y OSX
+
+gem install jekyll
+jekyll serve
+# ...
+#    Server address: http://0.0.0.0:4000
+#  Server running... press ctrl-c to stop.
+```
+
+El sistema estará disponible en http://127.0.0.1:4000/
+
 ## Licencia
 
 MIT
