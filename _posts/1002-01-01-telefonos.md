@@ -2,6 +2,8 @@
 title: "Teléfonos"
 bg: phones
 color: white
+fa-icon: check-square-o
+lang: es
 ---
 
 # Teléfonos de emergencia en tu ciudad
