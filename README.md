@@ -22,9 +22,21 @@ caso de desastres posteriores.
 
 ## Cómo ayudar
 
+## Con investigación
+
+1. Revisa la lista de [tareas
+   pendientes](https://github.com/CodeandoMexico/terremoto-cdmx/issues) e
+   identifica una tarea que no esté asignada y puedas investigar.
+1. En un comentario contribuye con la solución, ya sea colocando un comentario
+   o agregando un enlace a un lugar externo (google doc, blog post, etc) en
+   donde esté tu investigación.
+1. Avisa a alguien más que necesitas ayuda implementar tu investigación en el sitio.
+
+## Con programación
+
 1. Revisa la lista de
    [tareas pendientes](https://github.com/CodeandoMexico/terremoto-cdmx/issues)
-   e identifica una tarea que no esté asignada y puedas resolver.
+   e identifica una tarea que no esté asignada y puedas resolver o implementar.
 1. Haz un [fork](https://help.github.com/articles/fork-a-repo/) del repositorio
    a tu cuenta de Github.
 1. Soluciona la tarea que elegiste.
