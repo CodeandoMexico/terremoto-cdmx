@@ -12,6 +12,7 @@
     background-size: cover;
     height: 400px;
     text-align: center;
+    margin-top: 50px;
 }
 
 #inicio h1 {
@@ -20,6 +21,10 @@
     letter-spacing: 2px;
     color: white;
     margin-bottom: 0px;
+}
+
+#agradecimientos .col-md-12 {
+    padding: 0px;
 }
 
 #inicio h2,
@@ -36,19 +41,25 @@
     padding: 50px 100px;
     text-align: center;
 }
-.magicPadding{padding: 0 100px;}
+
+.magicPadding {
+    padding: 0 100px;
+}
+
 span {
     color: $rosa;
 }
 
 #ayudar p {
     color: white;
+    font-size: 18px;
 }
 
 #ayudar h2 {
     letter-spacing: 0px !important;
     font-weight: 500;
     margin-bottom: 40px;
+    font-size: 25px;
 }
 
 #ayudar a {
@@ -76,7 +87,8 @@ span {
     padding: 0px 50px;
 }
 
-#recibir h1, #dar h1 {
+#recibir h1,
+#dar h1 {
     color: #222423;
     font-weight: bolder;
     font-size: 40px;
@@ -84,7 +96,8 @@ span {
     text-align: center;
 }
 
-#recibir h2, #dar h2 {
+#recibir h2,
+#dar h2 {
     color: $rosa;
     font-weight: bolder;
     letter-spacing: 1px;
@@ -93,7 +106,7 @@ span {
 }
 
 #recibir .btn {
-    margin: 50px 0px;
+    margin: 30px 0px;
     padding: 10px 20px;
     background-color: #222423;
     color: $rosa;
@@ -116,7 +129,11 @@ span {
 
 #recibir h3,
 #recibir p,
-#recibir a, #dar h3, #dar ul, #dar a, #dar p {
+#recibir a,
+#dar h3,
+#dar ul,
+#dar a,
+#dar p {
     color: #222423;
 }
 
@@ -212,7 +229,8 @@ span {
     margin-bottom: 40px;
 }
 
-#faq li, #dar li {
+#faq li,
+#dar li {
     font-size: 16px;
     line-height: 35px;
 }
@@ -229,12 +247,16 @@ span {
     font-size: 20px;
 }
 
-#agradecimientos a,#faq a, #dar a {
+#agradecimientos a,
+#faq a,
+#dar a {
     color: $rosa;
     transition: color 1s;
 }
 
-#agradecimientos a:hover,#faq a:hover, #dar a:hover {
+#agradecimientos a:hover,
+#faq a:hover,
+#dar a:hover {
     color: darken($rosa, 20%);
     text-decoration: none;
 }
@@ -246,11 +268,13 @@ span {
     letter-spacing: 1px;
     padding: 0 0;
 }
-#donativosEspecie li{
-	display: block;
+
+#donativosEspecie li {
+    display: block;
     width: 50%;
     float: left;
 }
+
 #agradecimientos li {
     display: block;
     width: 25%;
@@ -266,71 +290,96 @@ span {
     font-size: 15px !important;
     line-height: 25px;
 }
-#dar .col-lg-6,#dar .col-md-6{
-	padding: 0 0 !important;
+
+#dar .col-lg-6,
+#dar .col-md-6 {
+    padding: 0 0 !important;
 }
+
 .descanso {
     width: 100%;
     height: 60px;
     background-color: $rosa;
 }
-#dar p{
-	margin-bottom: 20px;
+
+#dar p {
+    margin-bottom: 20px;
 }
-#dar h2{
-	margin-bottom: 30px;
+
+#dar h2 {
+    margin-bottom: 30px;
 }
-#faq,#dar  {
+
+#faq,
+#dar {
     background-color: #F2F2F2;
     padding: 50px 100px;
 }
-#dar ul{
-	list-style-type: none;
-	padding: 0 0;
+
+#dar ul {
+    list-style-type: none;
+    padding: 0 0;
 }
-#faq li:before, #dar li:before {
+
+#faq li:before,
+#dar li:before {
     content: "+";
     padding-right: 8px;
     color: #222423;
 }
-#donativosEspecie h3{
-	margin: 10px 0px;
+
+#donativosEspecie h3 {
+    margin: 10px 0px;
 }
-#donativosEspecie p{
-	margin-bottom: 2px;
+
+#donativosEspecie p {
+    margin-bottom: 2px;
 }
-#mapa iframe{
+
+#mapa iframe {
     pointer-events: none;
 }
+
 @media screen and (max-width: 768px) {
-    #ayudar,#dar,#agradecimientos,#faq {
+    #ayudar,
+    #dar,
+    #agradecimientos,
+    #faq {
         padding: 30px;
     }
     #agradecimientos li {
-    display: block;
-    width: 50%;
-    float: left;
-}
-h1{
-	font-size: 30px !important;
-}
-h2{font-size: 25px !important;}
+        display: block;
+        width: 50%;
+        float: left;
+    }
+    h1 {
+        font-size: 30px !important;
+    }
+    h2 {
+        font-size: 25px !important;
+    }
     #ayudar a {
         display: block;
         margin-bottom: 20px;
     }
     #recibir .btn {
-    font-size: 20px;
-    margin: 20px 0px;
-}
-#donativosEspecie li{font-size: 13px;}
-#donativosEspecie p {margin-bottom: 4px !important;}
-#agradecimientos p {
-    font-size: 15px;
-}
-.boxRedes{
-	position:relative;
-}
-.magicPadding{padding: 0 30px;}
-
+        font-size: 16px;
+        margin: 20px 0px;
+    }
+    #donativosEspecie li {
+        font-size: 13px;
+    }
+    #donativosEspecie p {
+        margin-bottom: 4px !important;
+    }
+    #agradecimientos p {
+        font-size: 15px;
+    }
+    .boxRedes {
+        position: relative;
+        height: 45px;
+    }
+    .magicPadding {
+        padding: 0 30px;
+    }
 }

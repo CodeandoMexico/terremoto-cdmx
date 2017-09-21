@@ -58,4 +58,16 @@ function changeMap(){
     $( "#mapa" ).mouseleave(function() {
       $('#mapa iframe').css("pointer-events", "none"); 
     });
-                
+    $(function() {
+
+  $('.navbar-collapse')
+    .on('shown.bs.collapse', function() {
+      $('#navbar-hamburger').addClass('hidden');
+      $('#navbar-close').removeClass('hidden');    
+    })
+    .on('hidden.bs.collapse', function() {
+      $('#navbar-hamburger').removeClass('hidden');
+      $('#navbar-close').addClass('hidden');        
+    });
+  
+});

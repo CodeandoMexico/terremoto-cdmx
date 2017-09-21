@@ -11,19 +11,41 @@
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
-    <link href="https://fonts.googleapis.com/css?family=Roboto+Mono:400,500" rel="stylesheet">
     <link rel="stylesheet" href="dist/styles/main.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0-beta/css/bootstrap.min.css">
     <script src="https://use.fontawesome.com/bc9f46c0e6.js"></script>
 </head>
 
 <body>
     <header>
+        <div id="nav">
+            <div class="navbar navbar-default navbar-static">
+                <div class="container w100">
+                    <a class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse" onclick="changeNav();">
+    <span id="navbar-hamburger" class="fa fa-bars"></span>
+    <span id="navbar-close" class="fa fa-times hidden"></span>
 
+  </a>
+                    <a class="" href="#inicio"><img class="logoMobile" src="dist/images/logo_header.png"></a>
+                    <div class="navbar-collapse collapse">
+                        <ul class="nav navbar-nav navbar-left">
+                            <li><a class="desktop" href="#inicio"><img class="" src="dist/images/logo_header.png"></a></li>
+                            <li><a class="linkRosa" href="#dar">QUIERO AYUDAR</a></li>
+                            <li><a href="#recibir">NECESITO AYUDA</a></li>
+                        </ul>
+                        <ul class="nav navbar-nav navbar-right">
+                            <li><a href="#faq">FAQ</a></li>
+                            <li><a href="#agradecimientos">AGRADECIENTOS</a></li>
+                            <li><a href="mailto:equipo@codeandomexico.org">CONTACTO</a></li>
+                            <li><a href="" class="lang_selector">EN</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
     </header>
     <section id="inicio">
         <div class="">
-            <img class="wow fadeIn" src="dist/images/logo.png">
+            <img src="dist/images/logo.png">
             <h1>SISMOMX</h1>
             <h2>Centro de respuesta rápida a la ciudadanía</h2>
         </div>
@@ -40,7 +62,6 @@
             <div class="row">
                 <div class="col-md-6">
                     <h2>Teléfonos de emergencia</h2>
-                    <!-- -->
                     <h3>Ciudad de México</h3>
                     <p>Protección Civil: <a href="tel:5556832222">(55)5683-2222</a> / <a href="tel:5552774177">(55)5277-4177</a></p>
                     <p>Emergencias: <a href="tel:911">911</a></p>
@@ -51,7 +72,6 @@
                     <p>Cruz Roja: 911 / 065 / (55)5557-5757<a href=""></a></p>
                     <p>Reporte fallas CFE: <a href="tel:071">071</a></p>
                     <p>Información IMSS: <a href="tel:018006232323">01-800-623-2323</a></p>
-                    <!-- -->
                     <h3>Estado de México</h3>
                     <p>Emergencias:<a href="tel:066">066</a></p>
                     <p>Cruz roja: <a href="tel:065">065</a></p>
@@ -64,12 +84,10 @@
                     <p>Seguridad Pública del Estado: <a href="tel:7771011000"></a>(77)7101-1000</p>
                     <p>Protección Civil: <a href="tel:7771000515">(77)7100-0515</a> / <a href="tel:7771000517">(77)7100-0517</a></p>
                     <p>Cruz Roja: <a href="tel:7773153505">(77)7315-3505</a> / <a href="tel:7773153555">(77)7315-3555</a></p>
-                    <!-- -->
                     <h3>Puebla</h3>
                     <p>Cruz Roja: <a href="tel:222137700">(22)213-7700</a></p>
                     <p>Locatel: <a href="tel:222117800">(22)211-7800</a></p>
                     <p>Bomberos: <a href="tel:222458001">(22)245-8001</a></p>
-                    <!-- -->
                     <h3>Querétaro</h3>
                     <p>Bomberos: <a href="tel:4422120627">(442) 2120627</a> / <a href="tel:4422123939">(442) 2123939</a> / <a href="tel:4422181300">(442)2181300</a> / <a href="tel:4422180300">(442) 2180300</a></p>
                     <p>Cruz Roja: <a href="tel:4422290669">(442) 2290669</a> / <a href="tel:2290505066">2290505066</a></p>
@@ -577,7 +595,6 @@
         </div>
     </footer>
     <script src="dist/scripts/main.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0-beta/js/bootstrap.min.js"></script>
 </body>
 
 </html>
