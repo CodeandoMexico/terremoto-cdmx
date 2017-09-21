@@ -38,7 +38,7 @@
 <main class="smx-main-content">
     {% for page in site.posts reversed %}
     {% capture id %}{{ page.id | remove:'/' | downcase }}{% endcapture %}
-    <section class="smx-{{ id }}">
+    <section class="smx-{{ id }}" id="section-{{id}}">
         <div class="container">
             {{ page.content }}
         </div>
