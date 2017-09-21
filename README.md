@@ -168,6 +168,7 @@ Bot que busca información sobre personas desaparecidas durante el sismo. Se est
 * [Herramienta para el reporte ciudadano](https://github.com/leodc/mapeo_colaborativo) en JS, express, socket.io
 * [Bot que filtra información valiosa de Twitter relacionada al terremoto](https://github.com/Garyi/Filtro-Informaci-n-Valiosa-Terremoto-Twitter) en Python
 * [Respuesta rápida ante el terremoto CDMX](https://github.com/erikcaffrey/AyudaMexico) en Java
+* [Bot inteligente en twitter responde a busquedas de personas] (https://github.com/carlosherrera/cdmxbot) en JS, api twitter 
 
 ## Licencia
 
