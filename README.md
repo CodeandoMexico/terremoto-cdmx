@@ -47,7 +47,7 @@ Revisa los issues etiquetados para cada grupo de trabajo y únete a la conversac
 
 ## Proyectos abiertos
 
-Nombre del recurso| Descripción | Guía para contribuír | Slack | Stack | Status 
+Nombre del recurso| Descripción | Repositorio | Slack | Stack | Status 
 :--- | :--- | :---  | :--- | :--- | :--- 
 [comoayudar.mx](http://comoayudar.mx)  | Encuentra una forma en la que puedas ayudar a los afectados | [https://github.com/eldelentes/comoayudarmx](https://github.com/eldelentes/comoayudarmx) | `#equipo-humanitario` | Ruby on Rails | en desarrollo 
 [Ban Fake News](https://banfakenews.rzerocorp.com) | Reporta noticias falsas sobre el sismoMX | [https://github.com/RZEROSTERN/banfakenews](https://github.com/RZEROSTERN/banfakenews) | `#sismomx-fakenews` | PHP, Yii |  En funcionamiento 
