@@ -59,6 +59,7 @@ Revisa los issues etiquetados para cada grupo de trabajo y únete a la conversac
 | [SMS Alerts](https://sismomx-sms.herokuapp.com/) | Send SMS alerts for the earthquake in mexico | [https://github.com/denialtorres/SMS-ALERTS](https://github.com/denialtorres/SMS-ALERTS]) | `#equipo-humanitario` | Ruby on Rails 4.2 | 
 | Información Valiosa de Twitter | Filtra información valiosa relacionada al terremoto | [https://github.com/Garyi/Filtro-Informaci-n-Valiosa-Terremoto-Twitter](https://github.com/Garyi/Filtro-Informaci-n-Valiosa-Terremoto-Twitter) | `#equipo-humanitario`  | Python | 
 | Quake Relief CDMX | Encontrar las necesidades más prioritarias por zona para enviar ayuda y notificar | [https://github.com/civica-digital/quake-relief-cdmx](https://github.com/civica-digital/quake-relief-cdmx) | `#sismomx-realtime` | Ruby on Rails 5 | 
+| Verificado19s | Verificar reportes de ayuda necesitada y disponible, y mantener fuentes centrales+oficiales | [https://github.com/parismend/Temblor](https://github.com/parismend/Temblor) | `#sismomx-verificado19s` | Python |
 
 ## Contribuye con este sitio
 
