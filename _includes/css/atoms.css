@@ -22,3 +22,7 @@
 h1 {
   font-size: 48px;
 }
+
+a[href^="tel:"] {
+    text-decoration-style: dotted;
+}
