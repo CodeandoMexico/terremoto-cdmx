@@ -11,7 +11,7 @@ lang: es
 En estos momentos cualquier reporte puede marcar la diferencia. Reporta fugas de gas y agua, persona desaparecidas, incendios, entre otros.
 
 <div class="row">
-  <div class="column half">
+  <div class="column one-half">
     <h3>Ciudad de México</h3>
     Protección Civil: (55)5683-2222 / (55)5277-4177<br/>
     Emergencias: 911<br/>
@@ -23,7 +23,7 @@ En estos momentos cualquier reporte puede marcar la diferencia. Reporta fugas 
     Reporte fallas CFE: 071<br />
     Información IMSS: 01-800-623-2323
   </div>
-  <div class="column half">
+  <div class="column one-half">
     <h3>Estado de México</h3>
     Emergencias: 066<br />
     Cruz roja: 065<br />
@@ -31,7 +31,7 @@ En estos momentos cualquier reporte puede marcar la diferencia. Reporta fugas 
   </div>
 </div>
 <div class="row">
-  <div class="column half">
+  <div class="column one-half">
     <h3>Morelos</h3>
     Informes Emergencia en Tultepec: 01800 696-9696<br/>
     Emergencias: 066<br />
@@ -39,7 +39,7 @@ En estos momentos cualquier reporte puede marcar la diferencia. Reporta fugas 
     Protección Civil: (77)7100-0515 / (77)7100-0517<br />
     Cruz Roja: (77)7315-3505 /  (77)7315-3555
   </div>
-  <div class="column half">
+  <div class="column one-half">
     <h3>Puebla</h3>
     Cruz Roja: (22)213-7700<br />
     Locatel: (22)211-7800<br />
@@ -47,7 +47,7 @@ En estos momentos cualquier reporte puede marcar la diferencia. Reporta fugas 
   </div>
 </div>
 <div class="row">
-  <div class="column half">
+  <div class="column one-half">
     <h3>Querétaro</h3>
     Bomberos: (442) 2120627/ 2123939 / (442)2181300/ 2180300<br />
     Cruz Roja: (442) 2290669/ 2290505066<br />
@@ -55,7 +55,7 @@ En estos momentos cualquier reporte puede marcar la diferencia. Reporta fugas 
     Locatel (442)2143311<br />
     Protección Civil (442) 3091400/ 3091405
   </div>
-  <div class="column half">
+  <div class="column one-half">
     <h3>Oaxaca</h3>
     Bomberos: (951)  5492197 / 5060248<br />
     Cruz Roja: (951) 5164455 / 5164003<br />
