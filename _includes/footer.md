@@ -1,2 +1,24 @@
-Creado por el Equipo Humanitario de [Codeando México](http://www.codeandomexico.org){:target="_blank"}. 
-[Código](http://github.com/CodeandoMexico/terremoto-cdmx){:target="_blank"} &mdash; Créditos 
+<div class="container">
+
+  <div class="row">
+    <div class="four column">QUIERO AYUDAR</div>
+    <div class="eight columns">AGRADECIMIENTOS</div>
+  </div>
+  <div class="row">
+    <div class="four column">NECESITO AYUDA</div>
+    <div class="eight columns">CONTACTOS</div>
+  </div>
+   <div class="row">
+    <div class="four column">PREGUNTAS FRECUENTES</div>
+    <div class="eight columns"></div>
+  </div>
+   <div class="row">
+    <div class="ten column"></div>
+    <div class="two columns">
+        <i class="fa fa-slack" style="font-size:32px;color:white;"></i>
+        <i class="fa fa-twitter" style="font-size:32px;color:white;"></i>
+        <i class="fa fa-github" style="font-size:32px;color:white;"></i>
+    </div>
+  </div>
+
+</div>
