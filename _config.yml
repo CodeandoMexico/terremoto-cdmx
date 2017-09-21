@@ -37,6 +37,7 @@ kramdown:
 
 plugins:
   - jekyll-polyglot
+  - jekyll-seo-tag
 
 assets: 
   css: assets/css/
