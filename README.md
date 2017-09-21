@@ -57,7 +57,7 @@ _Sin tareas por el momento._
 ## Herramientas en desarrollo por la comunidad
 
 | Proyecto | Descripción | Repositorio | Slack | Stack |
-| :--- | :--- | :--- | :--- | :--- | :--- |
+| :--- | :--- | :--- | :--- | :--- |
 | Acopio API | API para centros de acopio | https://github.com/Skycatch/acopio-api | `#sismomx-acopio-api` | Javascript, Hapi | 
 | Ayuda México | N/A | https://github.com/erikcaffrey/AyudaMexico | `#equipo-humanitario` | Java | 
 | Ban Fake News | N/A | https://github.com/RZEROSTERN/banfakenews | `#equipo-humanitario` | PHP, Yii | 
