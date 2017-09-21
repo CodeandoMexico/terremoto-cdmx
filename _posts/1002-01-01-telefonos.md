@@ -8,25 +8,25 @@ lang: es
 
 # Teléfonos de emergencia en tu ciudad
 
-En estos momentos cualquier reporte puede marcar la diferencia. Reporta fugas de gas y agua, persona desaparecidas, incendios, entre otros.
+En estos momentos cualquier reporte puede marcar la diferencia. Reporta fugas de gas y agua, persona desaparecidas, incendios, entre otros.
 
 <div class="row">
   <div class="column half">
     <h3>Ciudad de México</h3>
     Protección Civil: <a href="tel:5556832222">(55) 5683-2222</a> / <a href="tel:5552774177">(55) 5277-4177</a><br />
     Emergencias: <a href="tel:911">911</a><br />
-    Sistema de aguas: <a href="tel:5556543210">(55) 5654-3210</a><br />
+    Sistema de Aguas: <a href="tel:5556543210">(55) 5654-3210</a><br />
     Fugas: <a href="tel:5556543210">(55) 5654-3210</a><br />
     Locatel: <a href="tel:5556581111">(55) 5658-1111</a><br />
     Bomberos: <a href="tel:911">911</a> / <a href="tel:5557683800">(55) 5768-3800</a> / <a href="tel:5557682532">(55) 5768-2532</a><br />
     Cruz Roja: <a href="tel:911">911</a> / <a href="tel:065">065</a> / <a href="tel:5555575757">(55) 5557-5757</a><br />
-    Reporte fallas CFE: <a href="tel:071">071</a><br />
+    Reporte Fallas CFE: <a href="tel:071">071</a><br />
     Información IMSS: <a href="tel:018006232323">01-800-623-2323</a>
   </div>
   <div class="column half">
     <h3>Estado de México</h3>
     Emergencias: <a href="tel:066">066</a><br />
-    Cruz roja: <a href="tel:065">065</a><br />
+    Cruz Roja: <a href="tel:065">065</a><br />
     Atención del Gobierno del Estado: <a href="tel:018006969696">01-800-696-9696</a>
   </div>
 </div>
