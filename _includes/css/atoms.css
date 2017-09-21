@@ -5,7 +5,7 @@
   display: -o-flex;
   display: flex;
   align-items: center;
-  font-family: 'Roboto Mono', monospace;
+  font-family: 'Helvetica', 'Arial', sans-serif;
 }
 
 #intro {
