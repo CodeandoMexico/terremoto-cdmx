@@ -68,7 +68,7 @@ La conversación y coordinación de las tareas las estamos llevando en el Slack 
 | SMS Alerts | Send SMS alerts for the earthquake in mexico  | https://github.com/denialtorres/SMS-ALERTS | `#equipo-humanitario` | Ruby on Rails 4.2 | 
 
 
-#### Sitio web <a name="sitioweb"></a>
+## Sitio web <a name="sitioweb"></a>
 
 Este repositorio contiene el código para el [sitio web](http://sismomexico.org/). Stack: jekyll, ruby, html, css, javascript
 
