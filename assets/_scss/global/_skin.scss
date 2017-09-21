@@ -1,0 +1,46 @@
+// Global
+
+body {
+  background: $smx-background-color;
+  font-family: $smx-font-family;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: $smx-font-family;
+}
+
+// Main content
+.smx-main-content {
+  h1 {
+    text-align: center;
+    font-weight: $smx-font-bolder;
+    color: $smx-pink-color;
+    font-size: 48px;
+  }
+}
+
+// Intro section
+.smx-intro {
+  background: $smx-black-color;
+  text-align: center;
+  color: $smx-white-color;
+
+  h1 {
+    color: $smx-white-color;
+    font-weight: $smx-font-bolder;
+  }
+
+  p {
+    font-size: 18px;
+  }
+}
+
+// Phones section
+.smx-telefonos {
+
+}
