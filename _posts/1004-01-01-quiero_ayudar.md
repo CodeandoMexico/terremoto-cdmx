@@ -31,8 +31,8 @@ color: white
 ### MAPEA CON OPENSTREETMAP
 Ayuda al equipo de OpenStreetMap a mapear esta zona: http://tasks.hotosm.org/project/3597
 ### COLABORA AGREGANDO CENTROS DE ACOPIO Y AYUDA A ESTA BASE
-Necesitamos gente que ayude a mantener actualizada la información de lo que falta en los diferentes centros de acopio. Si estás en uno, o puedes ir a uno cercano únete y que la ayuda sea efectiva. Envía mensaje al 5529692068, 5545333530, 5534810377. Haremos 3 turnos mañana, tarde y noche. Agrega centros en:
-https://docs.google.com/spreadsheets/d/1ijleBcHJH_3V2nbMeXTjH4hTDYsjcdodYvHqhTc8C8c/edit#gid=447869804
+Necesitamos gente que ayude a mantener actualizada la información de lo que falta en los diferentes centros de acopio. Si estás en uno, o puedes ir a uno cercano únete y que la ayuda sea efectiva. Envía mensaje al 5529692068, 5545333530, 5534810377. Haremos 3 turnos mañana, tarde y noche. Agrega centros [Aquí](https://docs.google.com/spreadsheets/d/1ijleBcHJH_3V2nbMeXTjH4hTDYsjcdodYvHqhTc8C8c/edit#gid=447869804)
+
 ## DONA EN ESPECIE
 ### MEDICAMENTOS/CURACIÓN
 * Vendas
@@ -100,33 +100,21 @@ https://docs.google.com/spreadsheets/d/1ijleBcHJH_3V2nbMeXTjH4hTDYsjcdodYvHqhTc8
 * Frijoles
 * Verduras
 ## DONA DEPOSITANDO
-Entra a https://comoayudar.mx/ y podrás consultar un amplio listado de sitios y cuentas dónde donar.
+Entra a [comoayudar](https://comoayudar.mx/) y podrás consultar un amplio listado de sitios y cuentas dónde donar.
 ## OTRAS FORMAS DE AYUDAR
 ### SI ERES INGENIERO CIVIL
 Si eres ingeniero civil, arquitecto, médico o carrera a fin, se solicitan voluntarios para asistir a Protección Civil en la revisión de edificios. Ponerse en contacto con Alfonso Rivero al celular 55 4448 7863.
 ## CONTRIBUYE CON CÓDIGO
-Dona tus habilidades entrando a https://github.com/CodeandoMexico/terremoto-cdmx o a slack.codeandomexico.org y colabora en los siguientes proyectos.
+Dona tus habilidades entrando al [github de CodeandoMexico](https://github.com/CodeandoMexico/terremoto-cdmx) o al [canal](slack.codeandomexico.org) y colabora en los siguientes proyectos.
 
-**Website (#sismomx-website)**
+[**Website (#sismomx-website)**](http://sismomexico.org/)
 
-  http://sismomexico.org/
+[**API de centros de acopios (@javierbyte @chubas @rbdr)**](https://github.com/Skycatch/acopio-api)
 
-**API de centros de acopios (@javierbyte @chubas @rbdr)**
+[**App de priorización de necesidad para vincular con centros de acopio**](https://github.com/civica-digital/quake-relief-cdmx)
 
-  https://github.com/Skycatch/acopio-api
+[**App de SMS (@denialtorres @perezpriego)**](https://sismomx-sms.herokuapp.com)
 
-**App de priorización de necesidad para vincular con centros de acopio**
+[**Obtención de información a partir de Twitter (@Edgar_Arroyo)**](https://github.com/Garyi/Filtro-Informaci-n-Valiosa-Terremoto-Twitter)
 
-  https://github.com/civica-digital/quake-relief-cdmx
-
-**App de SMS (@denialtorres @perezpriego)**
-
-	https://sismomx-sms.herokuapp.com
-
-**Obtención de información a partir de Twitter (@Edgar_Arroyo)**
-
-  https://github.com/Garyi/Filtro-Informaci-n-Valiosa-Terremoto-Twitter
-
-**Script de python para encontrar a personas desaparecidas (@hans)**
-
-  https://github.com/regenhans/earthquake-bot
+[**Script de python para encontrar a personas desaparecidas (@hans)**](https://github.com/regenhans/earthquake-bot)
