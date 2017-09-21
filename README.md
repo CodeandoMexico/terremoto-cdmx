@@ -60,7 +60,7 @@ _Sin tareas por el momento._
 | :--- | :--- | :--- | :--- | :--- |
 | Acopio API | API para centros de acopio | https://github.com/Skycatch/acopio-api | `#sismomx-acopio-api` | Javascript, Hapi | 
 | Ayuda México | N/A | https://github.com/erikcaffrey/AyudaMexico | `#equipo-humanitario` | Java | 
-| Ban Fake News | N/A | https://github.com/RZEROSTERN/banfakenews | `#equipo-humanitario` | PHP, Yii | 
+| Ban Fake News | N/A | https://github.com/RZEROSTERN/banfakenews | `#sismomx-fakenews` | PHP, Yii | 
 | Cómo Ayudar MX | N/A | https://github.com/eldelentes/comoayudarmx | `#sismomx-camx` | HTML5, CSS | 
 | Información Valiosa de Twitter | Filtra información valiosa relacionada al terremot | https://github.com/Garyi/Filtro-Informaci-n-Valiosa-Terremoto-Twitter | `#equipo-humanitario` | Python | 
 | Mapeo Colaborativo | Herramienta para el reporte ciudadano  | https://github.com/leodc/mapeo_colaborativo | `#equipo-humanitario` | Javascript, Express, Socket.io | 
