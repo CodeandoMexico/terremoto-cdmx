@@ -1,0 +1,14 @@
+@import "common/_variables";
+
+// Automatically injected Bower dependencies via wiredep (never manually edit this block)
+// bower:scss
+// endbower
+
+@import "common/_global";
+@import "common/_mixins";
+
+@import "components/_grid";
+@import "components/_icons";
+@import "layouts/_header";
+@import "layouts/_footer";
+@import "layouts/_pages";

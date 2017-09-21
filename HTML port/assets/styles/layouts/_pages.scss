@@ -1,0 +1,336 @@
+//helpers
+.p20 {
+    padding: 20px;
+}
+
+#inicio {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url(../images/banner1.png);
+    background-position: center center;
+    background-size: cover;
+    height: 400px;
+    text-align: center;
+}
+
+#inicio h1 {
+    font-weight: bolder;
+    font-size: 40px;
+    letter-spacing: 2px;
+    color: white;
+    margin-bottom: 0px;
+}
+
+#inicio h2,
+#ayudar h2 {
+    font-size: 18px;
+    margin-top: 5px;
+    color: white;
+    font-weight: lighter;
+    letter-spacing: 2px;
+}
+
+#ayudar {
+    background-color: $rosa;
+    padding: 50px 100px;
+    text-align: center;
+}
+.magicPadding{padding: 0 100px;}
+span {
+    color: $rosa;
+}
+
+#ayudar p {
+    color: white;
+}
+
+#ayudar h2 {
+    letter-spacing: 0px !important;
+    font-weight: 500;
+    margin-bottom: 40px;
+}
+
+#ayudar a {
+    color: #222423;
+    background-color: white;
+    transition: all 1s;
+    padding: 10px 15px;
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 27px;
+    margin: 0 10px;
+}
+
+#ayudar a:hover {
+    color: $rosa;
+    transition: all 1s;
+}
+
+#recibir {
+    background-color: #F2F2F2;
+    padding: 50px 0px;
+}
+
+.paddingRecibir {
+    padding: 0px 50px;
+}
+
+#recibir h1, #dar h1 {
+    color: #222423;
+    font-weight: bolder;
+    font-size: 40px;
+    letter-spacing: 1px;
+    text-align: center;
+}
+
+#recibir h2, #dar h2 {
+    color: $rosa;
+    font-weight: bolder;
+    letter-spacing: 1px;
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+
+#recibir .btn {
+    margin: 50px 0px;
+    padding: 10px 20px;
+    background-color: #222423;
+    color: $rosa;
+    transition: all 1s;
+    border-radius: 0px;
+    font-size: 30px;
+    font-weight: 500;
+}
+
+#recibir .btn:hover {
+    background-color: $rosa;
+    color: white;
+}
+
+#recibir .url {
+    margin: 30px 0px;
+    font-weight: 500;
+    font-size: 30px;
+}
+
+#recibir h3,
+#recibir p,
+#recibir a, #dar h3, #dar ul, #dar a, #dar p {
+    color: #222423;
+}
+
+#recibir h3 {
+    margin-top: 30px;
+    margin-bottom: 3px;
+}
+
+#recibir p {
+    margin: 1px 0px;
+}
+
+#recibir a {
+    transition: color 1s;
+}
+
+#recibir a:hover {
+    text-decoration: none;
+    color: $rosa;
+}
+
+#mapContainer {
+    height: 500px;
+    width: 100%;
+    margin: 30px 0px;
+    position: relative;
+}
+
+.exchangeButton {
+    position: absolute;
+    bottom: 50px;
+    right: 50px;
+    background-color: $rosa;
+    border-radius: 60px;
+    height: 60px;
+    width: 60px;
+    color: white !important;
+    font-size: 33px;
+    text-align: center;
+    line-height: 57px;
+    z-index: 20;
+    transition: all 1s !important;
+}
+
+.descanso2 {
+    width: 100%;
+    height: 435px;
+    background-image: url(../images/banner2.png);
+    background-size: cover;
+    background-position: center center;
+}
+
+.descanso3 {
+    width: 100%;
+    height: 435px;
+    background-image: url(../images/banner3.png);
+    background-size: cover;
+    background-position: center center;
+}
+
+#agradecimientos {
+    background-color: #F2F2F2;
+    padding: 50px 130px;
+}
+
+#agradecimientos h1,
+#faq h1 {
+    color: $rosa;
+    font-weight: bolder;
+    font-size: 40px;
+    letter-spacing: 1px;
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+#faq h1 {
+    color: #222423;
+    font-weight: bolder;
+    font-size: 40px;
+    letter-spacing: 1px;
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+#faq h2 {
+    color: $rosa;
+    font-size: 20px;
+}
+
+#faq ul {
+    list-style-type: none;
+    padding: 0px;
+    margin-bottom: 40px;
+}
+
+#faq li, #dar li {
+    font-size: 16px;
+    line-height: 35px;
+}
+
+#agradecimientos h2 {
+    color: $rosa;
+    font-weight: bolder;
+    font-size: 30px;
+    letter-spacing: 1px;
+    margin-bottom: 10px;
+}
+
+#agradecimientos p {
+    font-size: 20px;
+}
+
+#agradecimientos a,#faq a, #dar a {
+    color: $rosa;
+    transition: color 1s;
+}
+
+#agradecimientos a:hover,#faq a:hover, #dar a:hover {
+    color: darken($rosa, 20%);
+    text-decoration: none;
+}
+
+#agradecimientos ul {
+    list-style-type: none;
+    font-weight: lighter;
+    font-size: 11px;
+    letter-spacing: 1px;
+    padding: 0 0;
+}
+#donativosEspecie li{
+	display: block;
+    width: 50%;
+    float: left;
+}
+#agradecimientos li {
+    display: block;
+    width: 25%;
+    float: left;
+}
+
+.exchangeButton:hover {
+    background-color: darken($rosa, 30%);
+}
+
+.masAyuda p {
+    margin: 15px 0px !important;
+    font-size: 15px !important;
+    line-height: 25px;
+}
+#dar .col-lg-6,#dar .col-md-6{
+	padding: 0 0 !important;
+}
+.descanso {
+    width: 100%;
+    height: 60px;
+    background-color: $rosa;
+}
+#dar p{
+	margin-bottom: 20px;
+}
+#dar h2{
+	margin-bottom: 30px;
+}
+#faq,#dar  {
+    background-color: #F2F2F2;
+    padding: 50px 100px;
+}
+#dar ul{
+	list-style-type: none;
+	padding: 0 0;
+}
+#faq li:before, #dar li:before {
+    content: "+";
+    padding-right: 8px;
+    color: #222423;
+}
+#donativosEspecie h3{
+	margin: 10px 0px;
+}
+#donativosEspecie p{
+	margin-bottom: 2px;
+}
+#mapa iframe{
+    pointer-events: none;
+}
+@media screen and (max-width: 768px) {
+    #ayudar,#dar,#agradecimientos,#faq {
+        padding: 30px;
+    }
+    #agradecimientos li {
+    display: block;
+    width: 50%;
+    float: left;
+}
+h1{
+	font-size: 30px !important;
+}
+h2{font-size: 25px !important;}
+    #ayudar a {
+        display: block;
+        margin-bottom: 20px;
+    }
+    #recibir .btn {
+    font-size: 20px;
+    margin: 20px 0px;
+}
+#donativosEspecie li{font-size: 13px;}
+#donativosEspecie p {margin-bottom: 4px !important;}
+#agradecimientos p {
+    font-size: 15px;
+}
+.boxRedes{
+	position:relative;
+}
+.magicPadding{padding: 0 30px;}
+
+}

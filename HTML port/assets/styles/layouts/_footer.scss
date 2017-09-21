@@ -1,0 +1,28 @@
+footer{
+	background-color: #222423; 
+	padding: 20px 60px;
+}
+footer a{
+	color: white;
+	display: block;
+	transition: color 1s;
+	margin: 3px 0px;
+	letter-spacing: 1px;
+}
+footer a:hover{
+color: $rosa;
+text-decoration: none;
+}
+.relativeHelper{
+	position: relative;
+}
+.boxRedes{
+	position: absolute;
+	bottom: 0px;
+	right:0;
+}
+.boxRedes a{
+	display: inline-block;
+	font-size: 30px !important;
+	margin: 0px 5px;
+}

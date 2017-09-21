@@ -1,0 +1,17 @@
+// Grid system
+// This is for Bootstrap 4 only. Get rid if you don't use Bootstrap.
+// .main {
+//   @include make-col-ready();
+//   @include media-breakpoint-up(sm) {
+//     @include make-col($main-sm-columns);
+//     .sidebar-primary & {
+//       @include make-col($main-sm-columns - $sidebar-sm-columns);
+//     }
+//   }
+// }
+// .sidebar {
+//   @include make-col-ready();
+//   @include media-breakpoint-up(sm) {
+//     @include make-col($sidebar-sm-columns);
+//   }
+// }
