@@ -66,6 +66,8 @@ La conversación y coordinación de las tareas las estamos llevando en el Slack 
 
 Este repositorio contiene el código para el [sitio web](http://sismomexico.org/). Stack: jekyll, ruby, html, css, javascript
 
+[![Stories in Ready](https://badge.waffle.io/CodeandoMexico/terremoto-cdmx.png?label=ready&title=Ready)](http://waffle.io/CodeandoMexico/terremoto-cdmx)
+
 * Únete al canal de `#sismomx-website` dentro del Slack de Codeando México para estar en contacto con el equipo encargado de mantener y actualizar el sitio web.
 * Revisa la lista de [tareas pendientes](https://github.com/CodeandoMexico/terremoto-cdmx/issues) e identifica una tarea que no esté asignada y puedas realizar.
 * Agrega información que creas útil en [este documento](https://docs.google.com/document/d/1QVBq6UZ4JA24HceiTwUWfbcz3ZA3SxueOymXsnp43Ug/edit#).
