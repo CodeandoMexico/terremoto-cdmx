@@ -1,61 +1,91 @@
 ---
 ---
 <!DOCTYPE html>
-<html>
+<html dir="ltr" lang="en">
 <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>{{ site.title }}</title>
-    <meta name="keywords" content="{{ site.keywords }}">
-    <meta name="description" content="{{ site.description }}">
-    <link rel="stylesheet" href="{{ "main.css" | prepend: site.assets.css }}">
-    <link href="https://fonts.googleapis.com/css?family=Roboto|Roboto+Mono" rel="stylesheet">
-    {% if site.favicon %}<link rel="shortcut icon" href="{{ site.favicon }}" type="image/x-icon">{% endif %}
-    {% if site.touch_icon %}<link rel="apple-touch-icon" href="{{ site.touch_icon }}">{% endif %}
-    {% if site.google_analytics and jekyll.environment == 'production' %}
-    {% include analytics.html %}
-    {% endif %}
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!-- Turn off phone detection in iOS (see: https://css-tricks.com/the-current-state-of-telephone-links/#article-header-id-8) -->
+  <meta name="format-detection" content="telephone=no">
+  <title>{{ site.title }}</title>
+	<meta name="keywords" content="{{ site.keywords }}">
+	<meta name="description" content="{{ site.description }}">
+  <link rel="stylesheet" href="combo.css">
+  <link href="https://fonts.googleapis.com/css?family=Roboto|Roboto+Mono" rel="stylesheet">
+  {% if site.favicon %}<link rel="shortcut icon" href="{{ site.favicon }}" type="image/x-icon">{% endif %}
+	{% if site.touch_icon %}<link rel="apple-touch-icon" href="{{ site.touch_icon }}">{% endif %}
+  {% if site.google_analytics and jekyll.environment == 'production' %}
+  {% include analytics.html %}
+  {% endif %}
 </head>
 <body>
-<header class="smx-header clearfix">
-    <div class="logo"><a href="#"><img src="{{ "logotype-header.svg" | prepend: site.assets.svg }}"></a></div>
-    <a href="#" class="resToggle">☰</a>
-    <nav class="smx-navigation">
-        <ul>
-            <li class="active"><a href="#">Quiero ayudar</a></li>
-            <li><a href="#">Necesito ayuda</a></li>
+  <div id="main">
 
-            <div class="nav-right">
-                <li><a href="#">Faq</a></li>
-                <li><a href="#">Agradecimientos</a></li>
-                <li><a href="#">Contacto</a></li>
-                <li><a href="#">Eng</a></li>
-            </div>
-        </ul>
-    </nav>
-</header>
+    <nav><ul>
+      {% for node in site.posts reversed %}
+        {% capture id %}{{ node.id | remove:'/' | downcase }}{% endcapture %}
+        <li class="p-{{id}}"><a href="#{{id}}">{{node.title}}</a></li>
+      {% endfor %}
+    </ul></nav>
 
-<main class="smx-main-content">
+
     {% for page in site.posts reversed %}
-    {% capture id %}{{ page.id | remove:'/' | downcase }}{% endcapture %}
-    <section class="smx-{{ id }}">
-        <div class="container">
-            {{ page.content }}
+      {% capture id %}{{ page.id | remove:'/' | downcase }}{% endcapture %}
+      <div id="{{id}}" class="section p-{{id}}">
+        {% if page.icon %}
+        <div class="subtlecircle sectiondivider imaged">
+          <img src="{{page.icon}}" alt="section icon" />
+          <h5 class="icon-title">{{ page.title }}</h5>
         </div>
-    </section>
-    {% endfor %}
-</main>
-
-<footer class="smx-footer">
-    <div class="container">Footer</div>
-</footer>
-
-<script>
-  // Navbar toggle
-  document.querySelector('.resToggle').addEventListener('click', function() {
-    document.querySelector('.smx-navigation').classList.toggle('active')
-  });
-</script>
-
-</body>
+        {% elsif page.fa-icon %}
+        <div class="subtlecircle sectiondivider faicon">
+          <span class="fa-stack">
+            <i class="fa fa-circle fa-stack-2x"></i>
+            <i class="fa fa-{{ page.fa-icon }} fa-stack-1x"></i>
+          </span>
+          <h5 class="icon-title">{{ page.title }}</h5>
+        </div>
+        {% endif %}
+    </head>
+    <body>
+        <header class="smx-header">
+            <div class="container">
+                <div class="row">
+                    <div class="one-half column">
+                        <nav class="smx-navigation">
+                            <ul>
+                                <li><a class="logotype" href="#"><img src="{{ "logotype-header.svg" | prepend: site.assets.svg }}"></a></li>
+                                <li class="active"><a href="#">Quiero ayudar</a></li>
+                                <li><a href="#">Necesito ayuda</a></li>
+                            </ul>
+                        </nav>
+                    </div>
+                    <div class="one-half column">
+                        <nav class="smx-navigation text-right">
+                            <ul>
+                                <li><a href="#">Faq</a></li>
+                                <li><a href="#">Agradecimientos</a></li>
+                                <li><a href="#">Contacto</a></li>
+                                <li><a href="#">Eng</a></li>
+                            </ul>
+                        </nav>
+                    </div>
+                </div>
+            </div>
+        </header>
+        <main class="smx-main-content">
+            {% for page in site.posts reversed %}
+                {% capture id %}{{ page.id | remove:'/' | downcase }}{% endcapture %}
+                <section class="smx-{{ id }}">
+                    <div class="container">
+                        {{ page.content }}
+                    </div>
+                    <div class="section__separator"></div>
+                </section>
+            {% endfor %}
+        </main>
+        <footer class="smx-footer">
+            <div class="container">Footer</div>
+        </footer>
+    </body>
 </html>

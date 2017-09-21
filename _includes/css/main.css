@@ -262,3 +262,9 @@ nav ul li:hover, nav ul li.active {
     column-count:         2;
   }
 }
+/*franja rosada al final*/
+.section__separator{
+  padding: 1.5em;
+  width: 100%;
+  background: $smx-pink-color;
+}
