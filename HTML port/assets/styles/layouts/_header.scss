@@ -1,0 +1,128 @@
+#nav {
+    width: 100%;
+    background-color: transparent;
+    position: fixed;
+    top: 0;
+    z-index: 200;
+}
+
+.navbar {
+    position: absolute;
+    width: 100%;
+}
+
+.navbar,
+.nav {
+    background-color: #222423;
+    border-radius: 0px;
+    border: none;
+    z-index: 2;
+}
+
+
+.w100 {
+    width: 100%;
+    background-color: #222423;
+    z-index: 2;
+    padding: 0;
+}
+
+.linkRosa {
+    color: $rosa !important;
+}
+
+.navbar-default .navbar-nav>li>a,
+.navbar-default .navbar-text {
+    color: white;
+    line-height: 46px;
+    font-size: 12px;
+
+    text-align: center;
+    transition: color 1s;
+    letter-spacing: 1px;
+}
+
+.navbar-default .navbar-nav>li>a:hover {
+    color: $rosa;
+}
+
+.navbar-toggle {
+    position: relative;
+    float: right;
+    margin-right: 15px;
+    padding: 1px 8px;
+    margin-top: 12px;
+    font-size: 30px;
+    /* margin-bottom: 0px; */
+    background-color: transparent;
+    background-image: none;
+    border: none;
+    color: $rosa;
+}
+
+.navbar-toggle span {
+    transition: all 1s;
+}
+
+.navbar-toggle:hover,
+.navbar-toggle span:hover {
+    color: lighten($rosa, 30%);
+    background-color: transparent !important;
+}
+
+.navbar-collapse {
+    border: none;
+    box-shadow: none;
+}
+
+.container>.navbar-collapse,
+.container>.navbar-header {
+    margin-right: 60px;
+    margin-left: 60px;
+}
+
+.mobile {
+    display: none;
+}
+
+.logoMobile {
+    display: none;
+}
+
+.navbar-default .navbar-collapse,
+.navbar-default .navbar-form {
+    border: none;
+}
+
+
+
+@media screen and (max-width: 990px) {
+    .logoMobile {
+        position: relative;
+        display: block;
+        float: left;
+        margin-left: 15px;
+        padding: 9px 10px;
+    }
+    .desktop {
+        display: none !important;
+    }
+    .container>.navbar-collapse,
+    .container>.navbar-header {
+        margin-right: 15px;
+        margin-left: 15px;
+        margin-top: 62px;
+    }
+    .mobile {
+        display: inline-block !important;
+        float: right;
+        line-height: 30px;
+    }
+    .navbar-default .navbar-nav>li>a,
+    .navbar-default .navbar-text {
+        color: white;
+        line-height: 25px;
+        text-align: center;
+        transition: color 1s;
+    }
+}

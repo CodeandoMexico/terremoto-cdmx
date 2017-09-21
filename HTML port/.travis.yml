@@ -1,0 +1,30 @@
+sudo: false
+language: node_js
+node_js:
+  - "6"
+  - "5"
+  - "4"
+  - "node"
+
+env:
+  - TRAVIS_NODE_VERSION="4" CXX="g++-4.8"
+  - TRAVIS_NODE_VERSION="6" CXX="g++-4.8"
+
+cache:
+  directories:
+    - bower_components
+    - node_modules
+    - vendor
+
+install:
+  - source ~/.nvm/nvm.sh && nvm install $TRAVIS_NODE_VERSION && nvm use $TRAVIS_NODE_VERSION
+  - travis_retry npm install -g npm@latest
+  - travis_retry npm install -g bower gulp eslint
+  - node -v && npm -v && bower -v && gulp -v
+  - npm rebuild
+  - travis_retry npm install
+  - npm prune
+
+script:
+  - npm run build
+  - npm run lint
