@@ -47,9 +47,9 @@ Revisa los issues etiquetados para cada grupo de trabajo y únete a la conversac
 
 ## Proyectos abiertos
 
-Nombre del recurso| Descripción | Guía para contribuír | Contacto | Stack | Status 
+Nombre del recurso| Descripción | Guía para contribuír | Slack | Stack | Status 
 ------------      | ----------- | --------------------  | -------- | ----- | ------ 
-[comoayudar.mx](http://comoayudar.mx)  | Encuentra una forma en la que puedas ayudar a los afectados | [https://github.com/eldelentes/comoayudarmx](https://github.com/eldelentes/comoayudarmx) | N/A | Ruby on Rails | en desarrollo 
+[comoayudar.mx](http://comoayudar.mx)  | Encuentra una forma en la que puedas ayudar a los afectados | [https://github.com/eldelentes/comoayudarmx](https://github.com/eldelentes/comoayudarmx) | `#equipo-humanitario` | Ruby on Rails | en desarrollo 
 [Ban Fake News](https://banfakenews.rzerocorp.com) | Reporta noticias falsas sobre el sismoMX | [https://github.com/RZEROSTERN/banfakenews](https://github.com/RZEROSTERN/banfakenews) | `#sismomx-fakenews` | PHP, Yii |  En funcionamiento 
 [sismomexico.org](http://sismomexico.org)| Sitio web con la recopilación de recursos  | [https://github.com/CodeandoMexico/terremoto-cdmx](https://github.com/CodeandoMexico/terremoto-cdmx) | `#sismomx-website` | Jekyll, HTML, CSS, Javascript  | Abierto a contribuciones |
 | [Mapa Colaborativo](http://mapa.sismomexico.org) | Herramienta para el reporte ciudadano | [https://github.com/miguelsalazar/mapeo_colaborativo](https://github.com/miguelsalazar/mapeo_colaborativo) | `#sismomx-mapas` `sismomx-realtime` | Javascript, Express, Socket.io | En desarrollo |
