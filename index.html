@@ -8,6 +8,22 @@
     <title>{{ site.title }}</title>
     <meta name="keywords" content="{{ site.keywords }}">
     <meta name="description" content="{{ site.description }}">
+    <meta name="format-detection" content="telephone=no">
+    <meta property="og:title" content="{{site.tittle}}" />
+    <meta property="og:locale" content="es_MX" />
+    <meta property="og:description" content="{{site.description}} " />
+    <link rel="canonical" href="http://sismomexico.org" />
+    <meta property="og:url" content="http://sismomexico.org" />
+    <meta property="og:site_name" content="Jekyll SEO Tag" />
+    <meta name="twitter:card" content="summary">
+    {% if page.title %}<meta name="twitter:title" content="{{ page.title }}">{% else %}
+    <meta name="twitter:title" content="{{ site.title }}">{% endif %}
+    {% if page.url %}<meta name="twitter:url" content="{{ site.url }}{{ page.url }}">
+    {% endif %}
+    {% if page.description %}<meta name="twitter:description" content="{{ page.description }}">
+    {% else %} <meta name="twitter:description" content="{{ site.description }}">{% endif %}
+    {% if page.image %}<meta name="twitter:image:src" content="{{ site.url }}/assets/img/{{ page.image }}">
+    {% else %}<meta name="twitter:image:src" content="{{ site.url }}/assets/img/home-bg.jpg">{% endif %}
     <link rel="stylesheet" href="{{ "main.css" | prepend: site.assets.css }}">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     {% if site.favicon %}<link rel="shortcut icon" href="{{ site.favicon }}" type="image/x-icon">{% endif %}
@@ -62,31 +78,50 @@
     });
 
   function addListeners () {
+    // Map Lazy Loading
     var mapFrame =	'<iframe src="https://www.google.com/maps/d/u/0/embed?mid=13B_gbt3e5RWk_6xQoQ15xxhGOFs&ll=19.373256300000023%2C-99.13833979999998&z=11&hootPostID=1f18a5617f5da88fa1f7bff84bf31a46" width="100%" height="480"></iframe>';
 
     var criticalMapFrame = '<iframe src="https://www.google.com/maps/d/u/0/embed?hl=en&mid=1PwJrCIjz5PNfKAFrY-EX-iEkWH8&ll=19.372169291390605%2C-99.16998963041652&z=14" width="100%" height="480"></iframe>';
 
-    // Map Lazy Loading
-    appendMap({
-      button: 'map-container-btn',
-      mapContainer: 'map-container',
-      mapFrame: mapFrame
-    });
+    // Spreadsheet lazy loading
+      var reportsFrame = '<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ6CChYk0cXlp_R_L2r9Enkar8qmDdGtu2CCE6dYYdU391PBt6zzePYQAkTJ5zJ6DHvkPsWu3Oty206/pubhtml?widget=true&amp;headers=false" width="100%" height="480"></iframe>';
+    var mappingFrame = '<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ6CChYk0cXlp_R_L2r9Enkar8qmDdGtu2CCE6dYYdU391PBt6zzePYQAkTJ5zJ6DHvkPsWu3Oty206/pubhtml?widget=true&amp;headers=false" width="100%" height="480"></iframe>';
+    var rescuedFrame = '<iframe src="https://docs.google.com/spreadsheets/d/1-17hTtd6ft1CmEut-cb-brm7C1JA_lUgpoiVsPN2kkE/pubhtml?widget=true&amp;headers=false&amp;gid=0" width="100%" height="480"></iframe>';
 
-    appendMap({
+    var sheetsConfig = [{
+      button: 'map-container-btn',
+      container: 'map-container',
+      frame: mapFrame
+    },{
       button: 'critical-zones-btn',
-      mapContainer: 'critical-zones-container',
-      mapFrame: criticalMapFrame
-    });
+      container: 'critical-zones-container',
+      frame: criticalMapFrame
+    },{
+      button: 'reports-sheet-container-btn',
+      container: 'reports-sheet-container',
+      frame: reportsFrame
+    },{
+      button: 'mapping-sheet-container-btn',
+      container: 'mapping-sheet-container',
+      frame: mappingFrame
+    },{
+      button: 'rescued-sheet-container-btn',
+      container: 'rescued-sheet-container',
+      frame: rescuedFrame
+    }];
+
+    for(var i = 0; i < sheetsConfig.length; i++) {
+      appendFrameListener(sheetsConfig[i]);
+    }
   }
 
-  function appendMap(config) {
+  function appendFrameListener(config) {
     document
       .getElementById(config.button)
       .addEventListener('click', function () {
         document
-          .getElementById(config.mapContainer)
-          .innerHTML = config.mapFrame;
+          .getElementById(config.container)
+          .innerHTML = config.frame;
       });
   }
 </script>
