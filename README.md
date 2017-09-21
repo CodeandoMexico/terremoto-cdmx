@@ -33,14 +33,14 @@ Una vez en Slack, puedes:
 
 | Equipo | Slack | Descripción |
 | :--- | :--- | :--- |
-| [Comunicación](https://github.com/CodeandoMexico/terremoto-cdmx/issues?utf8=%E2%9C%93&q=is%3Aissue%20label%3Acomunicacion%20) | `#sismomx-comunicación` | Tareas de comunicación, monitoreo de redes y vinculación con otras organizaciones. |
-| [Data](https://github.com/CodeandoMexico/terremoto-cdmx/issues?utf8=%E2%9C%93&q=is%3Aissue%20label%3Adata%20) | `#sismomx-data` | Tareas de limpieza, validación, análisis y ETL de datos. |
-| [Desarrollo](https://github.com/CodeandoMexico/terremoto-cdmx/issues?utf8=%E2%9C%93&q=is%3Aissue%20label%3desarrollo%20) | `#sismomx-desarrollo` | Tareas de desarrollo para todos los proyectos. Súmate si buscas ayuda o cómo contribuir. |
-| [Diseño](https://github.com/CodeandoMexico/terremoto-cdmx/issues?utf8=%E2%9C%93&q=is%3Aissue%20label%3Adise%C3%B1o%20) | `#sismomx-diseño` | Tareas de diseño de UI/UX para múltiples proyectos. Ofrece y busca ayuda de diseño para proyectos. |
-| [Docs](https://github.com/CodeandoMexico/terremoto-cdmx/issues?utf8=%E2%9C%93&q=is%3Aissue%20label%3Adocs%20) | `#sismomx-docs` | Tareas de documentación de procesos y repositorios.  |
-| [GitHub](https://github.com/CodeandoMexico/terremoto-cdmx/issues?utf8=%E2%9C%93&q=is%3Aissue%20label%3Agithub%20) | `#sismomx-github` | Ayúdanos a revisar y hacer merge de PR's en los distintos repositorios. |
-| [Mapas](https://github.com/CodeandoMexico/terremoto-cdmx/issues?utf8=%E2%9C%93&q=is%3Aissue%20label%3Amapas%20) | `#sismomx-mapas` | Tareas de mapeo y trabajo con datos geográficos. |
-| [Webiste](https://github.com/CodeandoMexico/terremoto-cdmx/issues?utf8=%E2%9C%93&q=is%3Aissue%20label%3Awebsite%20) | `#sismomx-website` | Ayúdanos a actualizar el sitio web del proyecto. |
+| Comunicación | `#sismomx-comunicación` | Tareas de comunicación, monitoreo de redes y vinculación con otras organizaciones. |
+| Data | `#sismomx-data` | Tareas de limpieza, validación, análisis y ETL de datos. |
+| Desarrollo | `#sismomx-desarrollo` | Tareas de desarrollo para todos los proyectos. Súmate si buscas ayuda o cómo contribuir. |
+| Diseño | `#sismomx-diseño` | Tareas de diseño de UI/UX para múltiples proyectos. Ofrece y busca ayuda de diseño para proyectos. |
+| Docs | `#sismomx-docs` | Tareas de documentación de procesos y repositorios.  |
+| GitHub | `#sismomx-github` | Ayúdanos a revisar y hacer merge de PR's en los distintos repositorios. |
+| Mapas | `#sismomx-mapas` | Tareas de mapeo y trabajo con datos geográficos. |
+| Webiste | `#sismomx-website` | Ayúdanos a actualizar el sitio web del proyecto. |
 
 
 ### Como correr este repositorio en local
@@ -82,18 +82,7 @@ Filtra información valiosa relacionada al terremoto. Se esta desarrollando en u
 
 Bot que busca información sobre personas desaparecidas durante el sismo. Se esta desarrollando en un [repositorio de github](https://github.com/regenhans/earthquake-bot)  y coordinando en el canal de Slack `#equipo-humanitario`.
 
-## Otros proyectos desarrollandose
-
-* [Ban FakeNews](https://github.com/RZEROSTERN/banfakenews) en PHP, Yii
-* [API para centros de acopio](https://github.com/Skycatch/acopio-api) en JS, Hapi
-* [Repositorio de información para ayudar en desastres naturales](https://github.com/eldelentes/comoayudarmx) en HTML, JS y CSS plano
-* [Backend de comoayudar.mx](https://github.com/ComoAyudarMX/CAMbackend) en JS, express
-* [Encontrar las necesidades más prioritarias por zona para enviar ayuda y notificar](https://github.com/civica-digital/quake-relief-cdmx/commits/master) en Ruby on Rails 5.0
-* [SMS Alerts para sismo en Mexico](https://github.com/denialtorres/SMS-ALERTS) en Ruby on Rails 4.2
-* [Herramienta para el reporte ciudadano](https://github.com/leodc/mapeo_colaborativo) en JS, express, socket.io
-* [Bot que filtra información valiosa de Twitter relacionada al terremoto](https://github.com/Garyi/Filtro-Informaci-n-Valiosa-Terremoto-Twitter) en Python
-* [Respuesta rápida ante el terremoto CDMX](https://github.com/erikcaffrey/AyudaMexico) en Java
-* [Bot inteligente en twitter responde a busquedas de personas](https://github.com/carlosherrera/cdmxbot) en JS, api twitter 
+## [Ve los proyectos que otras personas y organizaciónes están realizando, algunos necesitan ayuda](proyectos.md)
 
 ## Licencia
 
