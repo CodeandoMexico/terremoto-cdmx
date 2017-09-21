@@ -16,8 +16,8 @@ title:       "Terremoto CDMX - Equipo Humanitario de Codeando México"
 keywords:    "terremoto, cdmx, mexico, tecnologia"
 description: "Tecnología de respuesta rápida ante el terremoto de CDMX"
 source_link: "https://odd17.codeandomexico.org"
-favicon:     "img/favicon.ico"
-touch_icon:  "img/apple-icon.png"
+favicon:     "favicon.ico"
+touch_icon:  "assets/img/apple-icon.png"
 google_analytics: "UA-106756325-1"
 
 
@@ -37,6 +37,15 @@ kramdown:
 
 plugins:
   - jekyll-polyglot
+
+assets: 
+  css: assets/css/
+  img: assets/img/
+  svg: assets/svg/
+
+sass:
+  sass_dir: assets/_scss
+  style: :compressed
 
 languages: ["es", "en"]
 default_lang: "es"

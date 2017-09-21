@@ -2,6 +2,7 @@ _site/*
 
 # dependencies
 /node_modules
+.sass-cache
 
 # IDEs and editors
 /.idea
