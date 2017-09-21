@@ -53,6 +53,7 @@ La conversación y coordinación de las tareas las estamos llevando en el Slack 
 ### Mapas
 
 * Súmate al [mapeo de centros de acopio y áreas críticas de Morelos](https://www.google.com/maps/d/viewer?mid=1UsEmeSqMGW1fIgbzPN4jKY027WA&ll=18.890876248235475%2C-98.85296411690791&z=10). Escribe a @borntobealai en Telegram/Twitter para solicitar acceso de edición. [Guía para mapear](https://docs.google.com/document/d/1mbFmsjVBRCEVPbcIrYZY9sk6rMLptLhe1LQ6r0o0HsI/edit)
+* Súmate al [mapeo de centros de acopio y áreas críticas de CDMX](https://www.google.com/maps/d/viewer?mid=1PwJrCIjz5PNfKAFrY-EX-iEkWH8). Escribe a @ricardoe en Telegram/Twitter o @efectotequila para solicitar acceso de edición. [Guía para mapear](https://docs.google.com/document/d/1eYf-JL09Yta54gYqaBIKB4HDH7rM2iVbIHRJ_zES1DI/edit?usp=sharing)
 
 
 ## Proyectos de la comunidad
