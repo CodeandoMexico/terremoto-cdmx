@@ -1,31 +1,9 @@
 ---
-title: "Bancos de sangre"
+title: "Quiero ayudar"
 bg: phones
 color: white
 ---
 # Quiero Ayudar
-## Bancos de sangre
-### Requisitos
-* Identificación oficial(IFE/INE, cartilla militar, pasaporte, etc.)
-* Edad entre 18 y 50 años
-* Peso mínimo de 50kg
-* Estar hidratado
-* Ayuno mayor a 4h y menor a 12h
-* No estar embarazada o lactando
-* No haber ingerido bebidas alcoholicas en las últimas 48h
-* No tener enfermedades crónicas
-* No haber utilizado medicamentos en las últimas 48h
-* No haberse vacunado en los últimos 30 días
-
-### BANCOS DE SANGRE CDMX
-* Hospital Ángeles Pedregal
-* Hospital Ángeles Lindavista
-* Hospital ABC de Constituyentes
-* Hospital ABC de Observatorio
-* Hospital Siglo XXI
-* Hospital ABC de Santa Fe
-* Hospitales del IMSS
-* Hospitales del ISSSTE
 
 ## AYUDANOS A TENER MAS INFORMACION
 ### MAPEA CON OPENSTREETMAP
