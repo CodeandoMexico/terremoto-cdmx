@@ -17,9 +17,17 @@
 <link rel="canonical" href="http://sismomexico.org" />
 <meta property="og:url" content="http://sismomexico.org" />
 <meta property="og:site_name" content="Jekyll SEO Tag" />
-<script type="application/ld+json">
-{"name":null,"description":"Tecnología de respuesta rápida ante el terremoto de CDMX","author":Codeando Mexico,"@type":"WebPage","url":"http://sismomexico.org","image":/img/CMX_SISMO_ICON_04-01.png,"publisher":null,"headline":"Terremoto CDMX - Equipo Humanitario de Codeando México","dateModified":null,"datePublished":null,"sameAs":null,"mainEntityOfPage":null,"@context":"http://schema.org"}</script>
-<!-- End Jekyll SEO tag -->
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@site_username">
+<meta name="twitter:creator" content="@creator_username">
+{% if page.title %}<meta name="twitter:title" content="{{ page.title }}">{% else %}
+  <meta name="twitter:title" content="{{ site.title }}">{% endif %}
+  {% if page.url %}<meta name="twitter:url" content="{{ site.url }}{{ page.url }}">
+  {% endif %}
+  {% if page.description %}<meta name="twitter:description" content="{{ page.description }}">
+  {% else %} <meta name="twitter:description" content="{{ site.description }}">{% endif %}
+  {% if page.image %}<meta name="twitter:image:src" content="{{ site.url }}/assets/img/{{ page.image }}">
+  {% else %}<meta name="twitter:image:src" content="{{ site.url }}/path/to/image/logo.png">{% endif %}
   <link rel="stylesheet" href="combo.css">
   <link href="https://fonts.googleapis.com/css?family=Roboto|Roboto+Mono" rel="stylesheet">
   {% if site.favicon %}<link rel="shortcut icon" href="{{ site.favicon }}" type="image/x-icon">{% endif %}
