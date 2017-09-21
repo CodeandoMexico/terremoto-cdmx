@@ -6,7 +6,7 @@ style: center
 lang: es
 ---
 
-# Recursos
+# <span>Recursos</span>
 
 ## Lista de reportes ciudadanos
 

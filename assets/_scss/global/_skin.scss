@@ -14,14 +14,55 @@ h6 {
   font-family: $smx-font-family;
 }
 
+
 // Main content
 .smx-main-content {
+
+  h1 > span {
+    color: $smx-pink-color;
+  }
+
+  h1, h2, h3 {
+    text-transform: uppercase;
+    font-weight: $smx-font-bolder;
+  }
+
   h1 {
     text-align: center;
-    font-weight: $smx-font-bolder;
-    color: $smx-pink-color;
-    font-size: 48px;
+    font-size: 4.7rem;
   }
+
+  h2 {
+    font-size: 2.5rem;
+    color: $smx-pink-color;
+  }
+
+  h3 {
+    font-size: 1.8rem;
+    color: $smx-pink-color;
+  }
+
+  h4 {
+    font-size: 1.8rem;
+    font-weight: $smx-font-bold;
+    margin-bottom: 0;
+  }
+
+  li {
+    font-size: 1.8rem;
+    font-weight: $smx-font-lightest;
+  }
+
+  li::before {
+    content: '+ '
+  }
+
+  li {
+    a {
+      font-weight: $smx-font-bolder;
+    }
+  }
+
 }
 
 // Intro section
@@ -37,6 +78,8 @@ h6 {
 
   p {
     font-size: 18px;
+    font-weight: $smx-font-bold;
+    word-spacing: 1.1rem;
   }
 }
 
@@ -102,5 +145,9 @@ h6 {
 
 // Phones section
 .smx-telefonos {
+
+  .column {
+    font-size: 1.4rem;
+  }
 
 }
