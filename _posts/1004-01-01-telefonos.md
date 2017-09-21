@@ -6,13 +6,15 @@ fa-icon: check-square-o
 lang: es
 ---
 
-# Teléfonos de emergencia en tu ciudad
+# <span>Necesito</span> Ayuda
+
+## Teléfonos de emergencia
 
 En estos momentos cualquier reporte puede marcar la diferencia. Reporta fugas de gas y agua, persona desaparecidas, incendios, entre otros.
 
 <div class="row">
   <div class="column one-half">
-    <h3>Ciudad de México</h3>
+    <h4>Ciudad de México</h4>
     Protección Civil: (55)5683-2222 / (55)5277-4177<br/>
     Emergencias: 911<br/>
     Sistema de aguas: (55)5654-3210<br />
@@ -24,7 +26,7 @@ En estos momentos cualquier reporte puede marcar la diferencia. Reporta fugas 
     Información IMSS: 01-800-623-2323
   </div>
   <div class="column one-half">
-    <h3>Estado de México</h3>
+    <h4>Estado de México</h4>
     Emergencias: 066<br />
     Cruz roja: 065<br />
     Atención del Gobierno del Estado: 01-800 696-9696
@@ -32,7 +34,7 @@ En estos momentos cualquier reporte puede marcar la diferencia. Reporta fugas 
 </div>
 <div class="row">
   <div class="column one-half">
-    <h3>Morelos</h3>
+    <h4>Morelos</h4>
     Informes Emergencia en Tultepec: 01800 696-9696<br/>
     Emergencias: 066<br />
     Seguridad Pública del Estado: (77)7101-1000<br />
@@ -40,7 +42,7 @@ En estos momentos cualquier reporte puede marcar la diferencia. Reporta fugas 
     Cruz Roja: (77)7315-3505 /  (77)7315-3555
   </div>
   <div class="column one-half">
-    <h3>Puebla</h3>
+    <h4>Puebla</h4>
     Cruz Roja: (22)213-7700<br />
     Locatel: (22)211-7800<br />
     Bomberos: (22)245-8001
@@ -48,7 +50,7 @@ En estos momentos cualquier reporte puede marcar la diferencia. Reporta fugas 
 </div>
 <div class="row">
   <div class="column one-half">
-    <h3>Querétaro</h3>
+    <h4>Querétaro</h4>
     Bomberos: (442) 2120627/ 2123939 / (442)2181300/ 2180300<br />
     Cruz Roja: (442) 2290669/ 2290505066<br />
     Fugas Gas (442)2170862 / 2101616<br />
@@ -56,7 +58,7 @@ En estos momentos cualquier reporte puede marcar la diferencia. Reporta fugas 
     Protección Civil (442) 3091400/ 3091405
   </div>
   <div class="column one-half">
-    <h3>Oaxaca</h3>
+    <h4>Oaxaca</h4>
     Bomberos: (951)  5492197 / 5060248<br />
     Cruz Roja: (951) 5164455 / 5164003<br />
     Fugas Gas: (951) 5016600 / 5016611 / 5180094<br />
