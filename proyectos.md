@@ -13,7 +13,7 @@ Debido a la creciente cantidad de esfuerzos al rededor del sismo, se considera i
 Nombre del recurso| Descripción | URL     |  Guía para contribuír | Contacto | Stack | Status 
 ------------      | ----------- | ------  | --------------------  | -------- | ----- | ------ 
 comoayudar.mx  | Encuentra una forma en la que puedas ayudar a los afectados | [http://comoayudar.mx/](http://comoayudar.mx/) | [Github](https://github.com/eldelentes/comoayudarmx) | nA | Ruby on Rails | en desarrollo 
-Ban Fake News | N/A | nA | [https://github.com/RZEROSTERN/banfakenews](https://github.com/RZEROSTERN/banfakenews) | [Slack -> #sismomx-fakenews](http://slack.codeandomexico.org/) | PHP, Yii |  En funcionamiento 
+Ban Fake News | N/A | [https://banfakenews.rzerocorp.com/](https://banfakenews.rzerocorp.com/) | [https://github.com/RZEROSTERN/banfakenews](https://github.com/RZEROSTERN/banfakenews) | [Slack -> #sismomx-fakenews](http://slack.codeandomexico.org/) | PHP, Yii |  En funcionamiento 
 
 
 ## Difusión de información importante (Qué hacer si fuiste afectado)
