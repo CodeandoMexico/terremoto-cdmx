@@ -1,0 +1,36 @@
+// Header
+
+.smx-header {
+  .row {
+    margin-bottom: 0;
+  }
+  
+  .smx-navigation {
+    padding: 20px;
+
+    ul {
+      margin-bottom: 0;
+  
+      li {
+        display: inline-block;
+        vertical-align: middle;
+        margin-right: 10px;
+        margin-bottom: 0;
+
+        .logotype {
+          display: block;
+          width: 50px;
+
+          > img {
+            position: absolute;
+            top: 10px;
+          }
+        }
+  
+        &:last-child {
+          margin-right: 0;
+        }
+      }
+    }
+  }
+}
