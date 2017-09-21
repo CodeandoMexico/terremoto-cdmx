@@ -37,6 +37,7 @@ kramdown:
 
 plugins:
   - jekyll-polyglot
+  - jekyll-seo-tag
 
 languages: ["es", "en"]
 default_lang: "es"
