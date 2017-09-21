@@ -20,18 +20,53 @@ necesitarla.
 Este proyecto podría ser usado como base para organizar una pronta respuesta en
 caso de desastres posteriores.
 
-## Cómo ayudar
+## ¿Cómo Ayudar?
 
 La conversación y coordinación de las tareas las estamos llevando en el Slack de Codeando México, dentro del canal de `#equipo-humanitario`. Para unirte a Slack, registrate en http://slack.codeandomexico.org.
 
-### Herramientas desarrollándose
+### Diseño
 
-1. [Sitio Web](#sitioWeb)
-1. [API de centros de acopio](#centrosacopio)
-1. [App de priorización de necesidad para vincular con centros de acopio](#prioritizacion)
-1. [App de SMS](#appsms)
-1. [Obtención de información a partir de Twitter](#twitterinfo)
-1. [Script de python para encontrar a personas desaparecidas](#desaparecidas)
+* Ayuda a mejorar el UI de alguno de los proyectos de la comunidad.
+
+### Datos
+
+* Limpieza de datos [issue #]
+
+### Mapas
+
+_Sin tareas por el momento._
+
+### Inteligencia
+
+* Ayúdanos a mantener el documento maestro.
+* Ayuda a mantener actualizada la información del sitio web. 
+
+### Comunicación 
+
+* Ayuda al equipo de CómoAyudoMX a responder correos y manejar redes sociales.
+
+### Documentación
+
+* Ayuda a documentar alguno de los proyectos de comunidad.
+
+### Desarrollo
+
+* Contribuye con alguno de los proyectos de al comunidad.
+
+
+## Herramientas en desarrollo por la comunidad
+
+| Proyecto | Descripción | Repositorio | Slack | Stack |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| Acopio API | API para centros de acopio | https://github.com/Skycatch/acopio-api | `#sismomx-acopio-api` | Javascript, Hapi | 
+| Ayuda México | N/A | https://github.com/erikcaffrey/AyudaMexico | `#equipo-humanitario` | Java | 
+| Ban Fake News | N/A | https://github.com/RZEROSTERN/banfakenews | `#equipo-humanitario` | PHP, Yii | 
+| Cómo Ayudar MX | N/A | https://github.com/eldelentes/comoayudarmx | `#sismomx-camx` | HTML5, CSS | 
+| Información Valiosa de Twitter | Filtra información valiosa relacionada al terremot | https://github.com/Garyi/Filtro-Informaci-n-Valiosa-Terremoto-Twitter | `#equipo-humanitario` | Python | 
+| Mapeo Colaborativo | Herramienta para el reporte ciudadano  | https://github.com/leodc/mapeo_colaborativo | `#equipo-humanitario` | Javascript, Express, Socket.io | 
+| Quake Relief CDMX | Encontrar las necesidades más prioritarias por zona para enviar ayuda y notificar | https://github.com/civica-digital/quake-relief-cdmx | `#sismomx-realtime` | Ruby on Rails 5 | 
+| SMS Alerts | Send SMS alerts for the earthquake in mexico  | https://github.com/denialtorres/SMS-ALERTS | `#equipo-humanitario` | Ruby on Rails 4.2 | 
+
 
 #### Sitio web <a name="sitioweb"></a>
 
