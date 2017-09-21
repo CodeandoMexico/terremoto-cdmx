@@ -1,36 +1,95 @@
 // Header
+*, *:after, *:before {
+  box-sizing: border-box;
+}
+.clearfix:after {
+  content: "";
+  display: flex;
+  clear: both;
+}
+
+ul{
+  margin: 0;
+  padding: 0;
+}
 
 .smx-header {
-  .row {
-    margin-bottom: 0;
-  }
-  
-  .smx-navigation {
-    padding: 20px;
 
-    ul {
-      margin-bottom: 0;
-  
-      li {
-        display: inline-block;
-        vertical-align: middle;
-        margin-right: 10px;
-        margin-bottom: 0;
+  .logo {
+    display: inline-block;
+    color: white;
+    float: left;
+    padding: 0 10px;
 
-        .logotype {
-          display: block;
-          width: 50px;
+    a {
+      display: flex;
+      align-items: center;
 
-          > img {
-            position: absolute;
-            top: 10px;
-          }
-        }
-  
-        &:last-child {
-          margin-right: 0;
-        }
+      img {
+        width: 60px;
       }
     }
   }
+  a {
+    color: white;
+    text-decoration: none;
+  }
+}
+
+a.resToggle { display: none;}
+
+.smx-navigation {
+
+  display: flex;
+
+  ul {
+    width: 100%;
+  }
+
+  li {
+    display: inline-block;
+    line-height: 0;
+    margin-bottom: 0;
+    a {
+      display: block;
+      padding: 30px 15px;
+    }
+  }
+}
+
+@media screen and (min-width: 769px) {
+  .nav-right {
+    float: right;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .smx-header {
+    .logo {
+      padding: 15px;
+    }
+  }
+
+  a.resToggle {
+    display: inline-block;
+    float: right;
+    padding: 30px;
+  }
+
+  .smx-navigation {
+    float: left;
+    display: none;
+    width: 100%;
+    &.active {
+      display: block;
+    }
+    li {
+      display: block;
+      border-bottom: 1px solid lighten($smx-white-color, 10%);
+    }
+  }
+}
+
+.align-center {
+  text-align: center;
 }
