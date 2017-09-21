@@ -38,7 +38,7 @@ _Sin tareas por el momento._
 
 ### Inteligencia
 
-* Ayúdanos a mantener el documento maestro.
+* Ayúdanos a mantener el [documento maestro](https://docs.google.com/document/d/1QVBq6UZ4JA24HceiTwUWfbcz3ZA3SxueOymXsnp43Ug/edit#).
 * Ayuda a mantener actualizada la información del sitio web. 
 
 ### Comunicación 
@@ -47,14 +47,18 @@ _Sin tareas por el momento._
 
 ### Documentación
 
-* Ayuda a documentar alguno de los proyectos de comunidad.
+* Ayuda a documentar alguno de los [proyectos de la comunidad](https://github.com/CodeandoMexico/terremoto-cdmx#proyectos-de-la-comunidad).
 
 ### Desarrollo
 
-* Contribuye con alguno de los proyectos de al comunidad.
+* Contribuye con alguno de los [proyectos de la comunidad](https://github.com/CodeandoMexico/terremoto-cdmx#proyectos-de-la-comunidad).
+
+### Mapas
+
+* Súmate al [mapeo de centros de acopio y áreas críticas de Morelos](https://www.google.com/maps/d/viewer?mid=1UsEmeSqMGW1fIgbzPN4jKY027WA&ll=18.890876248235475%2C-98.85296411690791&z=10). Escribe a @borntobealai en Telegram/Twitter para solicitar acceso de edición.
 
 
-## Herramientas en desarrollo por la comunidad
+## Proyectos de la comunidad
 
 | Proyecto | Descripción | Repositorio | Slack | Stack |
 | :--- | :--- | :--- | :--- | :--- |
