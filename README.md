@@ -24,30 +24,31 @@ caso de desastres posteriores.
 
 La conversación y coordinación de las tareas las estamos llevando en el Slack de Codeando México, dentro del canal de `#equipo-humanitario`. Para unirte a Slack, registrate en http://slack.codeandomexico.org.
 
-### Diseño
+### Comunicación 
 
-* Ayuda a mejorar el UI de alguno de los proyectos de la comunidad.
+* Ayuda al equipo de CómoAyudoMX a responder correos y manejar redes sociales.
 
 ### Datos
 
 * Únete a la brigada de limpieza de datos en `#sismomx-data`.
 
-### Inteligencia
+### Desarrollo
 
-* Ayúdanos a mantener el [documento maestro](https://docs.google.com/document/d/1QVBq6UZ4JA24HceiTwUWfbcz3ZA3SxueOymXsnp43Ug/edit#).
-* Ayuda a mantener actualizada la información del sitio web. 
+* Contribuye con alguno de los [proyectos de la comunidad](https://github.com/CodeandoMexico/terremoto-cdmx#proyectos-de-la-comunidad).
+* Si tienes un proyecto open source en el que quieras involucrar a la comunidad, agrégalo a la lista de [proyectos de la comunidad](https://github.com/CodeandoMexico/terremoto-cdmx#proyectos-de-la-comunidad).
 
-### Comunicación 
+### Diseño
 
-* Ayuda al equipo de CómoAyudoMX a responder correos y manejar redes sociales.
+* Ayuda a mejorar el UI de alguno de los proyectos de la comunidad.
 
 ### Documentación
 
 * Ayuda a documentar alguno de los [proyectos de la comunidad](https://github.com/CodeandoMexico/terremoto-cdmx#proyectos-de-la-comunidad).
 
-### Desarrollo
+### Inteligencia
 
-* Contribuye con alguno de los [proyectos de la comunidad](https://github.com/CodeandoMexico/terremoto-cdmx#proyectos-de-la-comunidad).
+* Ayúdanos a mantener el [documento maestro](https://docs.google.com/document/d/1QVBq6UZ4JA24HceiTwUWfbcz3ZA3SxueOymXsnp43Ug/edit#).
+* Ayuda a mantener actualizada la información del sitio web. 
 
 ### Mapas
 
@@ -66,6 +67,7 @@ La conversación y coordinación de las tareas las estamos llevando en el Slack 
 | Mapeo Colaborativo | Herramienta para el reporte ciudadano  | https://github.com/leodc/mapeo_colaborativo | `#equipo-humanitario` | Javascript, Express, Socket.io | 
 | Quake Relief CDMX | Encontrar las necesidades más prioritarias por zona para enviar ayuda y notificar | https://github.com/civica-digital/quake-relief-cdmx | `#sismomx-realtime` | Ruby on Rails 5 | 
 | SMS Alerts | Send SMS alerts for the earthquake in mexico  | https://github.com/denialtorres/SMS-ALERTS | `#equipo-humanitario` | Ruby on Rails 4.2 | 
+| Sitio web | Sitio web con la recopilación de recursos  | https://github.com/CodeandoMexico/terremoto-cdmx | `#sismomx-website` | Jekyll, HTML, CSS, Javsscript | 
 
 
 ## Sitio web <a name="sitioweb"></a>
