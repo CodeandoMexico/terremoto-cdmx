@@ -5,7 +5,7 @@ Debido a la creciente cantidad de esfuerzos al rededor del sismo, se considera i
 * No duplicar esfuerzos, sumarlos
 * Contribuír con habilidades técnicas y no técnicas
 * Difundir en redes sociales y personas que puedan necesitar de estas soluciones
-* Crear una lista de posibles nuevas herramientas que sean necesarias a través de [Abrir issues][new-issue]
+* Crear una lista de posibles nuevas herramientas que sean necesarias a través de Abrir Issues
 
 
 ## Guías sobre cómo ayudar (Si no fuiste afectado y quieres ayudar)
