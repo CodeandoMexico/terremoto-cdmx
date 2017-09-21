@@ -58,7 +58,7 @@ La conversación y coordinación de las tareas las estamos llevando en el Slack 
 
 ## Proyectos de la comunidad
 
-[Ve los proyectos que decenas de hackers cívicos están desarrollando y contribuye o agrega un recurso](proyectos.md)
+[Ve los proyectos que otras personas y organizaciónes están realizando, algunos necesitan ayuda](proyectos.md)
 
 
 
