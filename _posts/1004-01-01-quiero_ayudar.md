@@ -130,5 +130,3 @@ Dona tus habilidades entrando a https://github.com/CodeandoMexico/terremoto-cdmx
 **Script de python para encontrar a personas desaparecidas (@hans)**
 
   https://github.com/regenhans/earthquake-bot
-
-<div class="section__separator"></div>
