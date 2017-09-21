@@ -22,12 +22,12 @@ caso de desastres posteriores.
 
 ## ¿Cómo Ayudar?
 
+* Unirte a un [grupo de trabajo](https://github.com/CodeandoMexico/terremoto-cdmx#grupos-de-trabajo).
+* Súmate al desarrollo de algún [proyecto](https://github.com/CodeandoMexico/terremoto-cdmx#proyectos-abiertas).
+
 La conversación y coordinación de las tareas las estamos llevando en el Slack de Codeando México, dentro del canal de `#equipo-humanitario`. Para unirte a Slack, registrate en http://slack.codeandomexico.org.
 
-Una vez en Slack, puedes:
-
-* Unirte a un grupo de trabajo.
-* Agregar un issue en este repositorio con la etiqueta adecuada.
+También puedes [agregar un issue](https://github.com/CodeandoMexico/terremoto-cdmx/issues) con preguntas, ideas o ayuda que necesites (asegúrate de etiquetarlo correctamente).
 
 ## Grupos de trabajo
 
@@ -48,7 +48,7 @@ Revisa los issues etiquetados para cada grupo de trabajo y únete a la conversac
 ## Proyectos abiertos
 
 Nombre del recurso| Descripción | Guía para contribuír | Slack | Stack | Status 
-------------      | ----------- | --------------------  | -------- | ----- | ------ 
+:--- | :--- | :---  | :--- | :--- | :--- 
 [comoayudar.mx](http://comoayudar.mx)  | Encuentra una forma en la que puedas ayudar a los afectados | [https://github.com/eldelentes/comoayudarmx](https://github.com/eldelentes/comoayudarmx) | `#equipo-humanitario` | Ruby on Rails | en desarrollo 
 [Ban Fake News](https://banfakenews.rzerocorp.com) | Reporta noticias falsas sobre el sismoMX | [https://github.com/RZEROSTERN/banfakenews](https://github.com/RZEROSTERN/banfakenews) | `#sismomx-fakenews` | PHP, Yii |  En funcionamiento 
 [sismomexico.org](http://sismomexico.org)| Sitio web con la recopilación de recursos  | [https://github.com/CodeandoMexico/terremoto-cdmx](https://github.com/CodeandoMexico/terremoto-cdmx) | `#sismomx-website` | Jekyll, HTML, CSS, Javascript  | Abierto a contribuciones |
@@ -60,14 +60,16 @@ Nombre del recurso| Descripción | Guía para contribuír | Slack | Stack | Stat
 | Información Valiosa de Twitter | Filtra información valiosa relacionada al terremoto | [https://github.com/Garyi/Filtro-Informaci-n-Valiosa-Terremoto-Twitter](https://github.com/Garyi/Filtro-Informaci-n-Valiosa-Terremoto-Twitter) | `#equipo-humanitario`  | Python | |
 | Quake Relief CDMX | Encontrar las necesidades más prioritarias por zona para enviar ayuda y notificar | [https://github.com/civica-digital/quake-relief-cdmx](https://github.com/civica-digital/quake-relief-cdmx) | `#sismomx-realtime` | Ruby on Rails 5 | |
 
-### Como correr este repositorio en local
+## Contribuye con este sitio
+
+### Cómo correr este repositorio en local
 
 Para correr el proyecto en local necesitas
 [Ruby](https://www.ruby-lang.org/es/) mayor de 1.9 y
 [RubyGems](https://rubygems.org/pages/download/).
 
 
-##### Instrucciones para Linux y OSX
+#### Instrucciones para Linux y OSX
 
 ```
 $ gem install bundler
@@ -76,18 +78,6 @@ $ jekyll serve
 ```
 
 El sistema estará disponible en http://127.0.0.1:4000/
-
-
-
-## Otros proyectos desarrollandose
-
-* [Backend de comoayudar.mx](https://github.com/ComoAyudarMX/CAMbackend) en JS, express
-* [Herramienta para el reporte ciudadano](https://github.com/leodc/mapeo_colaborativo) en JS, express, socket.io
-* [Bot inteligente en twitter responde a busquedas de personas](https://github.com/carlosherrera/cdmxbot) en JS, api twitter 
-
-
-### [Ve los proyectos que otras personas y organizaciónes están realizando, algunos necesitan ayuda](proyectos.md)
-
 
 ## Licencia
 
