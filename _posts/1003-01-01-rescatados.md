@@ -13,19 +13,25 @@ lang: es
 {: .left}
 
 <div class="icontain">
-  <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ6CChYk0cXlp_R_L2r9Enkar8qmDdGtu2CCE6dYYdU391PBt6zzePYQAkTJ5zJ6DHvkPsWu3Oty206/pubhtml?widget=true&amp;headers=false" width="100%" height="480"></iframe>
+  <div id="reports-sheet-container">
+    <button class="lazy-button" id="reports-sheet-container-btn">Cargar lista</button>
+  </div>
 </div>
 
 ## Mapeo Colaborativo (Centros de Acopio y Albergues)
 
 <div class="icontain">
-  <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ6CChYk0cXlp_R_L2r9Enkar8qmDdGtu2CCE6dYYdU391PBt6zzePYQAkTJ5zJ6DHvkPsWu3Oty206/pubhtml?widget=true&amp;headers=false" width="100%" height="480"></iframe>
+  <div id="mapping-sheet-container">
+    <button class="lazy-button" id="mapping-sheet-container-btn">Cargar mapeo</button>
+  </div>
 </div>
 
 ## Rescatados sismo 19 septiembre 2017 CDMX (Extraviados/Rescatados)
 
 <div class="icontain">
-  <iframe src="https://docs.google.com/spreadsheets/d/1-17hTtd6ft1CmEut-cb-brm7C1JA_lUgpoiVsPN2kkE/pubhtml?widget=true&amp;headers=false&amp;gid=0" width="100%" height="480"></iframe>
+  <div id="rescued-sheet-container">
+    <button class="lazy-button" id="rescued-sheet-container-btn">Cargar lista de rescatados</button>
+  </div>
 </div>
 
 ## Otros Recursos

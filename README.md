@@ -22,110 +22,56 @@ caso de desastres posteriores.
 
 ## ¿Cómo Ayudar?
 
+* Unirte a un [grupo de trabajo](https://github.com/CodeandoMexico/terremoto-cdmx#grupos-de-trabajo).
+* Súmate al desarrollo de algún [proyecto](https://github.com/CodeandoMexico/terremoto-cdmx#proyectos-abiertas).
+
 La conversación y coordinación de las tareas las estamos llevando en el Slack de Codeando México, dentro del canal de `#equipo-humanitario`. Para unirte a Slack, registrate en http://slack.codeandomexico.org.
 
-### Comunicación 
+También puedes [agregar un issue](https://github.com/CodeandoMexico/terremoto-cdmx/issues) con preguntas, ideas o ayuda que necesites (asegúrate de etiquetarlo correctamente).
 
-* Ayuda al equipo de CómoAyudoMX a responder correos y manejar redes sociales.
+## Grupos de trabajo
 
-### Datos
+Revisa los issues etiquetados para cada grupo de trabajo y únete a la conversación en Slack. Antes de asignarte un Issue, avisa al grupo de trabajo correspondiente en Slack para no duplicar esfuerzos:
 
-* Únete a la brigada de limpieza de datos en `#sismomx-data`.
-
-### Desarrollo
-
-* Contribuye con alguno de los [proyectos de la comunidad](https://github.com/CodeandoMexico/terremoto-cdmx#proyectos-de-la-comunidad).
-* Si tienes un proyecto open source en el que quieras involucrar a la comunidad, agrégalo a la lista de [proyectos de la comunidad](https://github.com/CodeandoMexico/terremoto-cdmx#proyectos-de-la-comunidad).
-
-### Diseño
-
-* Ayuda a mejorar el UI de alguno de los proyectos de la comunidad.
-
-### Documentación
-
-* Ayuda a documentar alguno de los [proyectos de la comunidad](https://github.com/CodeandoMexico/terremoto-cdmx#proyectos-de-la-comunidad).
-
-### Inteligencia
-
-* Ayúdanos a mantener el [documento maestro](https://docs.google.com/document/d/1QVBq6UZ4JA24HceiTwUWfbcz3ZA3SxueOymXsnp43Ug/edit#).
-* Ayuda a mantener actualizada la información del sitio web. 
-
-### Mapas
-
-* Súmate al [mapeo de centros de acopio y áreas críticas de Morelos](https://www.google.com/maps/d/viewer?mid=1UsEmeSqMGW1fIgbzPN4jKY027WA&ll=18.890876248235475%2C-98.85296411690791&z=10). Escribe a @borntobealai en Telegram/Twitter para solicitar acceso de edición. [Guía para mapear](https://docs.google.com/document/d/1mbFmsjVBRCEVPbcIrYZY9sk6rMLptLhe1LQ6r0o0HsI/edit)
+| Equipo | Slack | Descripción |
+| :--- | :--- | :--- |
+| [Comunicación](https://github.com/CodeandoMexico/terremoto-cdmx/issues?utf8=%E2%9C%93&q=is%3Aissue%20label%3Acomunicacion%20) | `#sismomx-comunicación` | Tareas de comunicación, monitoreo de redes y vinculación con otras organizaciones. |
+| [Data](https://github.com/CodeandoMexico/terremoto-cdmx/issues?utf8=%E2%9C%93&q=is%3Aissue%20label%3Adata%20) | `#sismomx-data` | Tareas de limpieza, validación, análisis y ETL de datos. |
+| [Desarrollo](https://github.com/CodeandoMexico/terremoto-cdmx/issues?utf8=%E2%9C%93&q=is%3Aissue%20label%3desarrollo%20) | `#sismomx-desarrollo` | Tareas de desarrollo para todos los proyectos. Súmate si buscas ayuda o cómo contribuir. |
+| [Diseño](https://github.com/CodeandoMexico/terremoto-cdmx/issues?utf8=%E2%9C%93&q=is%3Aissue%20label%3Adise%C3%B1o%20) | `#sismomx-diseño` | Tareas de diseño de UI/UX para múltiples proyectos. Ofrece y busca ayuda de diseño para proyectos. |
+| [Docs](https://github.com/CodeandoMexico/terremoto-cdmx/issues?utf8=%E2%9C%93&q=is%3Aissue%20label%3Adocs%20) | `#sismomx-docs` | Tareas de documentación de procesos y repositorios.  |
+| [GitHub](https://github.com/CodeandoMexico/terremoto-cdmx/issues?utf8=%E2%9C%93&q=is%3Aissue%20label%3Agithub%20) | `#sismomx-github` | Ayúdanos a revisar y hacer merge de PR's en los distintos repositorios. |
+| [Mapas](https://github.com/CodeandoMexico/terremoto-cdmx/issues?utf8=%E2%9C%93&q=is%3Aissue%20label%3Amapas%20) | `#sismomx-mapas` | Tareas de mapeo y trabajo con datos geográficos. |
+| [Webiste](https://github.com/CodeandoMexico/terremoto-cdmx/issues?utf8=%E2%9C%93&q=is%3Aissue%20label%3Awebsite%20) | `#sismomx-website` | Ayúdanos a actualizar el sitio web del proyecto. |
 
 
-## Proyectos de la comunidad
+## Proyectos abiertos
 
-| Proyecto | Descripción | Repositorio | Slack | Stack |
-| :--- | :--- | :--- | :--- | :--- |
-| Acopio API | API para centros de acopio | https://github.com/Skycatch/acopio-api | `#sismomx-acopio-api` | Javascript, Hapi | 
-| Ayuda México | N/A | https://github.com/erikcaffrey/AyudaMexico | `#equipo-humanitario` | Java | 
-| Ban Fake News | N/A | https://github.com/RZEROSTERN/banfakenews | `#sismomx-fakenews` | PHP, Yii | 
-| Cómo Ayudar MX | N/A | https://github.com/eldelentes/comoayudarmx | `#sismomx-camx` | HTML5, CSS | 
-| Información Valiosa de Twitter | Filtra información valiosa relacionada al terremot | https://github.com/Garyi/Filtro-Informaci-n-Valiosa-Terremoto-Twitter | `#equipo-humanitario` | Python | 
-| Mapeo Colaborativo | Herramienta para el reporte ciudadano  | https://github.com/miguelsalazar/mapeo_colaborativo | `#equipo-humanitario` | Javascript, Express, Socket.io | 
-| Quake Relief CDMX | Encontrar las necesidades más prioritarias por zona para enviar ayuda y notificar | https://github.com/civica-digital/quake-relief-cdmx | `#sismomx-realtime` | Ruby on Rails 5 | 
-| SMS Alerts | Send SMS alerts for the earthquake in mexico  | https://github.com/denialtorres/SMS-ALERTS | `#equipo-humanitario` | Ruby on Rails 4.2 | 
-| Sitio web | Sitio web con la recopilación de recursos  | https://github.com/CodeandoMexico/terremoto-cdmx | `#sismomx-website` | Jekyll, HTML, CSS, Javsscript | 
+| Herramienta | Descripción | Repositorio | Slack | Stack |
+:--- | :--- | :---  | :--- | :--- | 
+| [comoayudar.mx](http://comoayudar.mx)  | Encuentra una forma en la que puedas ayudar a los afectados | [https://github.com/eldelentes/comoayudarmx](https://github.com/eldelentes/comoayudarmx) | `#equipo-humanitario` | Ruby on Rails | 
+| [Ban Fake News](https://banfakenews.rzerocorp.com) | Reporta noticias falsas sobre el sismoMX | [https://github.com/RZEROSTERN/banfakenews](https://github.com/RZEROSTERN/banfakenews) | `#sismomx-fakenews` | PHP, Yii |  
+| [sismomexico.org](http://sismomexico.org)| Sitio web con la recopilación de recursos  | [https://github.com/CodeandoMexico/terremoto-cdmx](https://github.com/CodeandoMexico/terremoto-cdmx) | `#sismomx-website` | Jekyll, HTML, CSS, Javascript  | 
+| [Mapa Colaborativo](http://mapa.sismomexico.org) | Herramienta para el reporte ciudadano | [https://github.com/miguelsalazar/mapeo_colaborativo](https://github.com/miguelsalazar/mapeo_colaborativo) | `#sismomx-mapas` | Javascript, Express, Socket.io | 
+| [Ayuda México](https://play.google.com/store/apps/details?id=io.github.erikcaffrey.ayudamexico) | App de Android para encontrar hospitales, bancos de sangre, centros de acopio y demás recursos de ayuda. | [https://github.com/erikcaffrey/AyudaMexico](ttps://github.com/erikcaffrey/AyudaMexico) | `#equipo-humanitario` | Java |  
+| [Acopio API](https://acopio-api.skycatch.net/v1/acopios) | API para conectarse a base de datos de centros de acopio | [https://github.com/Skycatch/acopio-api](https://github.com/Skycatch/acopio-api) | `#sismomx-acopio-api` | Javascript, Hapi | 
+|Tweetbot  desaparecidos, sismo 2017 | Bot inteligente en twitter responde a busquedas de personas |  [https://github.com/regenhans/earthquake-bot](https://github.com/regenhans/earthquake-bot)| `#sismomx-bots`| node.js | 
+| [SMS Alerts](https://sismomx-sms.herokuapp.com/) | Send SMS alerts for the earthquake in mexico | [https://github.com/denialtorres/SMS-ALERTS](https://github.com/denialtorres/SMS-ALERTS]) | `#equipo-humanitario` | Ruby on Rails 4.2 | 
+| Información Valiosa de Twitter | Filtra información valiosa relacionada al terremoto | [https://github.com/Garyi/Filtro-Informaci-n-Valiosa-Terremoto-Twitter](https://github.com/Garyi/Filtro-Informaci-n-Valiosa-Terremoto-Twitter) | `#equipo-humanitario`  | Python | 
+| Quake Relief CDMX | Encontrar las necesidades más prioritarias por zona para enviar ayuda y notificar | [https://github.com/civica-digital/quake-relief-cdmx](https://github.com/civica-digital/quake-relief-cdmx) | `#sismomx-realtime` | Ruby on Rails 5 | 
+| [Verificado19s](https://www.coder.mx/) | Verificar reportes de ayuda necesitada y disponible, y mantener fuentes centrales+oficiales | [https://github.com/parismend/Temblor](https://github.com/parismend/Temblor) | `#sismomx-verificado19s` | Python |
+| [Mi Policía (CDMX)](https://mipolicia.com) | Herramienta para conocer el número de tu cuadrante (SSPCDMX) | [https://github.com/ayouidaniel/MiPolicia](https://github.com/ayouidaniel/MiPolicia) | `#emergencia-sspcdmx` | Javascript, Vue.js, Python, GAE | 
 
+## Contribuye con este sitio
 
-## Sitio web <a name="sitioweb"></a>
-
-Este repositorio contiene el código para el [sitio web](http://sismomexico.org/). Stack: jekyll, ruby, html, css, javascript
-
-* Únete al canal de `#sismomx-website` dentro del Slack de Codeando México para estar en contacto con el equipo encargado de mantener y actualizar el sitio web.
-* Revisa la lista de [tareas pendientes](https://github.com/CodeandoMexico/terremoto-cdmx/issues) e identifica una tarea que no esté asignada y puedas realizar.
-* Agrega información que creas útil en [este documento](https://docs.google.com/document/d/1QVBq6UZ4JA24HceiTwUWfbcz3ZA3SxueOymXsnp43Ug/edit#).
-
-##### Equipos coordinando sitio web mediante Slack
-
-* Contenido coordinando en `#sismomx-contenido`
-    * Mantener actualizado el [documento de referencia](https://docs.google.com/document/d/1QVBq6UZ4JA24HceiTwUWfbcz3ZA3SxueOymXsnp43Ug/edit#)
-    * Priorizar la información que deba integrarse al sitio web.
-    * Redactar los copies que deben publicarse en el sitio web.
-    * Mantener y actualizar el documento de preguntas frecuentes.
-    * Definir accionables para cada perfil (Quiero Ayudar, Necesito Ayuda).
-    * Output: Documento para el equipo de diseño con la información (copies) del sitio web.
-* Diseño coordinando en `#sismomx-diseño`
-    * Elaborar la arquitectura de información del sitio web (a partir del documento de output del equipo de Contenido).
-    * Elaborar una propuesta de mejor para el diseño (interfaz) del sitio web (mockups).
-    * Output: Issues detallados en el repositorio de GitHub.
-* Desarrollo coordinando en `#sismomx-desarrollo`
-    * Implementar mockups en el sitio web.
-    * Publicar contenido el sitio web a partir de los issues en el repositorio.
-    * Mantener el README del repositorio.
-    * Onboarding a desarrolladores que se quieran sumar al desarrollo del sitio web.
-
-#### Investigación, información y/o documentación
-
-* Revisa la lista de [tareas pendientes](https://github.com/CodeandoMexico/terremoto-cdmx/issues) con la etiqueta de `información` para contribuir con recursos que no hayamos identificado. Responde en algún issue o crea un issue nuevo si crees que se necesita una nueva categora.
-* Revisa [el documento](https://docs.google.com/document/d/1QVBq6UZ4JA24HceiTwUWfbcz3ZA3SxueOymXsnp43Ug/edit#) con el contenido del sitio web. Agrega cualquier información que consideres útil.
-
-
-#### Con programación
-
-1. Revisa la lista de
-   [tareas pendientes](https://github.com/CodeandoMexico/terremoto-cdmx/issues)
-   e identifica una tarea que no esté asignada y puedas resolver o implementar.
-1. Haz un [fork](https://help.github.com/articles/fork-a-repo/) del repositorio
-   a tu cuenta de Github.
-1. Soluciona la tarea que elegiste.
-1. Actualiza tu repositorio y crea un [pull
-   request](https://help.github.com/articles/about-pull-requests/) resolviendo
-   tu tarea y describiendo la solución.
-1. ¡Gracias!
-
-
-
-#### Como correr el repositorio en local
+### Cómo correr este repositorio en local
 
 Para correr el proyecto en local necesitas
 [Ruby](https://www.ruby-lang.org/es/) mayor de 1.9 y
 [RubyGems](https://rubygems.org/pages/download/).
 
 
-##### Instrucciones para Linux y OSX
+#### Instrucciones para Linux y OSX
 
 ```
 $ gem install bundler
@@ -134,40 +80,6 @@ $ jekyll serve
 ```
 
 El sistema estará disponible en http://127.0.0.1:4000/
-
-
-#### Centros de Acopio <a name="centrosacopio"></a>
-
-API para conectarse a la base de datos de centros de acopio se esta desarrollando en un [repositorio de github](https://github.com/Skycatch/acopio-api) y coordinando en el canal de Slack `#equipo-humanitario`.
-
-
-#### App de priorización de necesidad para vincular con centros de acopio <a name="prioritizacion"></a>
-
-App para buscar lugares donde se esta pidiendo ayuda se esta desarrollando en un [repositorio de github](https://github.com/civica-digital/quake-relief-cdmx) y coordinando en el canal de Slack `#equipo-humanitario`.
-
-#### App de SMS <a name="appsms"></a>
-
-App para [utilización de SMS](https://sismomx-sms.herokuapp.com/) y coordinando en el canal de Slack `#equipo-humanitario`.
-
-#### Obtención de información a partir de Twitter <a name="twitterinfo"></a>
-
-Filtra información valiosa relacionada al terremoto. Se esta desarrollando en un [repositorio de github](https://github.com/Garyi/Filtro-Informaci-n-Valiosa-Terremoto-Twitter) y coordinando en el canal de Slack `#equipo-humanitario`.
-
-#### Script de python para encontrar a personas desaparecidas]<a name="desaparecidas"></a>
-
-Bot que busca información sobre personas desaparecidas durante el sismo. Se esta desarrollando en un [repositorio de github](https://github.com/regenhans/earthquake-bot)  y coordinando en el canal de Slack `#equipo-humanitario`.
-
-## Otros proyectos desarrollandose
-
-* [Ban FakeNews](https://github.com/RZEROSTERN/banfakenews) en PHP, Yii
-* [API para centros de acopio](https://github.com/Skycatch/acopio-api) en JS, Hapi
-* [Repositorio de información para ayudar en desastres naturales](https://github.com/eldelentes/comoayudarmx) en HTML, JS y CSS plano
-* [Backend de comoayudar.mx](https://github.com/ComoAyudarMX/CAMbackend) en JS, express
-* [Encontrar las necesidades más prioritarias por zona para enviar ayuda y notificar](https://github.com/civica-digital/quake-relief-cdmx/commits/master) en Ruby on Rails 5.0
-* [SMS Alerts para sismo en Mexico](https://github.com/denialtorres/SMS-ALERTS) en Ruby on Rails 4.2
-* [Herramienta para el reporte ciudadano](https://github.com/leodc/mapeo_colaborativo) en JS, express, socket.io
-* [Bot que filtra información valiosa de Twitter relacionada al terremoto](https://github.com/Garyi/Filtro-Informaci-n-Valiosa-Terremoto-Twitter) en Python
-* [Respuesta rápida ante el terremoto CDMX](https://github.com/erikcaffrey/AyudaMexico) en Java
 
 ## Licencia
 
