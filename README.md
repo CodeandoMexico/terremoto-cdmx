@@ -30,11 +30,7 @@ La conversación y coordinación de las tareas las estamos llevando en el Slack 
 
 ### Datos
 
-* Limpieza de datos [issue #]
-
-### Mapas
-
-_Sin tareas por el momento._
+* Únete a la brigada de limpieza de datos en `#sismomx-data`.
 
 ### Inteligencia
 
@@ -55,7 +51,7 @@ _Sin tareas por el momento._
 
 ### Mapas
 
-* Súmate al [mapeo de centros de acopio y áreas críticas de Morelos](https://www.google.com/maps/d/viewer?mid=1UsEmeSqMGW1fIgbzPN4jKY027WA&ll=18.890876248235475%2C-98.85296411690791&z=10). Escribe a @borntobealai en Telegram/Twitter para solicitar acceso de edición.
+* Súmate al [mapeo de centros de acopio y áreas críticas de Morelos](https://www.google.com/maps/d/viewer?mid=1UsEmeSqMGW1fIgbzPN4jKY027WA&ll=18.890876248235475%2C-98.85296411690791&z=10). Escribe a @borntobealai en Telegram/Twitter para solicitar acceso de edición. [Guía para mapear](https://docs.google.com/document/d/1mbFmsjVBRCEVPbcIrYZY9sk6rMLptLhe1LQ6r0o0HsI/edit)
 
 
 ## Proyectos de la comunidad
