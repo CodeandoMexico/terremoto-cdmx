@@ -99,8 +99,12 @@ Necesitamos gente que ayude a mantener actualizada la información de lo que fal
 * Atún
 * Frijoles
 * Verduras
+Se sugiere no llevar comida preparada pues se echa a perder.
+
 ## DONA DEPOSITANDO
 Entra a [comoayudar](https://comoayudar.mx/) y podrás consultar un amplio listado de sitios y cuentas dónde donar.
+¿Los topos aceptan donaciones? http://www.animalpolitico.com/2017/09/grupos-topos-donaciones/
+
 ## OTRAS FORMAS DE AYUDAR
 ### SI ERES INGENIERO CIVIL
 Si eres ingeniero civil, arquitecto, médico o carrera a fin, se solicitan voluntarios para asistir a Protección Civil en la revisión de edificios. Ponerse en contacto con Alfonso Rivero al celular 55 4448 7863.
