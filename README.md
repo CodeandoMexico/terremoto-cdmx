@@ -1,6 +1,6 @@
 ![dkqm2ypuqae8hw8](https://user-images.githubusercontent.com/2068301/30724082-18882a9c-9f01-11e7-8ef5-eb002a8ec3fc.jpg)
 
-# TerremotoMX
+# \#SISMOMX - Equipo de Tecnología Humanitaria de Codeando México
 
 En septiembre 2017 sismos afectaron a diferentes partes de México.
 
