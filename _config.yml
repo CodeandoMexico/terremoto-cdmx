@@ -39,8 +39,9 @@ plugins:
   - jekyll-polyglot
   - jekyll-seo-tag
 
-assets: 
+assets:
   css: assets/css/
+  js: assets/js/
   img: assets/img/
   svg: assets/svg/
 

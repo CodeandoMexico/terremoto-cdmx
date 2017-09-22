@@ -1,0 +1,40 @@
+*, h1, h2, h3, h4, h5, h6 {
+  font-family: 'Roboto', sans-serif;
+
+}
+.title{
+  font-family: 'Roboto Mono', 'Roboto', sans-serif;
+  line-height: 2em;
+}
+.black{
+  color: black;
+}
+.pink{
+  color: #F3476D !important;
+}
+.title{
+  font-weight: 600;
+  text-transform: uppercase;
+  font-size: 28px;
+}
+.subtitle{
+  font-weight: 600;
+  text-transform: uppercase;
+  font-size: 28px;
+}
+
+.lazy-button{
+  font-family: 'Roboto Mono', 'Roboto', sans-serif;
+  border: none;
+  background:white;
+  text-shadow: none;
+  text-transform: uppercase;
+  margin: 0;
+  margin-bottom: 1em;
+  &:hover{
+    color:#FFF;
+    text-shadow: none;
+    border: none;
+    background:#F3476D;
+  }
+}
