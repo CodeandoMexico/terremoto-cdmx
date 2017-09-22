@@ -42,7 +42,7 @@ Revisa los issues etiquetados para cada grupo de trabajo y únete a la conversac
 | [Docs](https://github.com/CodeandoMexico/terremoto-cdmx/issues?utf8=%E2%9C%93&q=is%3Aissue%20label%3Adocs%20) | `#sismomx-docs` | Tareas de documentación de procesos y repositorios.  |
 | [GitHub](https://github.com/CodeandoMexico/terremoto-cdmx/issues?utf8=%E2%9C%93&q=is%3Aissue%20label%3Agithub%20) | `#sismomx-github` | Ayúdanos a revisar y hacer merge de PR's en los distintos repositorios. |
 | [Mapas](https://github.com/CodeandoMexico/terremoto-cdmx/issues?utf8=%E2%9C%93&q=is%3Aissue%20label%3Amapas%20) | `#sismomx-mapas` | Tareas de mapeo y trabajo con datos geográficos. |
-| [Webiste](https://github.com/CodeandoMexico/terremoto-cdmx/issues?utf8=%E2%9C%93&q=is%3Aissue%20label%3Awebsite%20) | `#sismomx-website` | Ayúdanos a actualizar el sitio web del proyecto. |
+| [Sitio web](https://github.com/CodeandoMexico/terremoto-cdmx/issues?utf8=%E2%9C%93&q=is%3Aissue%20label%3Awebsite%20) | `#sismomx-website` | Ayúdanos a actualizar el sitio web del proyecto. |
 
 
 ## Proyectos abiertos
