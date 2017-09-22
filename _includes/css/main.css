@@ -268,3 +268,7 @@ nav ul li:hover, nav ul li.active {
   width: 100%;
   background: $smx-pink-color;
 }
+
+.pink{
+  color: #F3476D !important;
+}
