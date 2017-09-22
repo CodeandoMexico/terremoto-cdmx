@@ -1,6 +1,6 @@
 ![dkqm2ypuqae8hw8](https://user-images.githubusercontent.com/2068301/30724082-18882a9c-9f01-11e7-8ef5-eb002a8ec3fc.jpg)
 
-# \#SISMOMX - Equipo de Tecnología Humanitaria de Codeando México
+# TerremotoMX
 
 En septiembre 2017 sismos afectaron a diferentes partes de México.
 
@@ -62,6 +62,7 @@ Revisa los issues etiquetados para cada grupo de trabajo y únete a la conversac
 | [Verificado19s](https://www.coder.mx/) | Verificar reportes de ayuda necesitada y disponible, y mantener fuentes centrales+oficiales | [https://github.com/parismend/Temblor](https://github.com/parismend/Temblor) | `#sismomx-verificado19s` | Python |
 | [Mi Policía (CDMX)](https://mipolicia.com) | Herramienta para conocer el número de tu cuadrante (SSPCDMX) | [https://github.com/ayouidaniel/MiPolicia](https://github.com/ayouidaniel/MiPolicia) | `#emergencia-sspcdmx` | Javascript, Vue.js, Python, GAE | 
 | Fake News Bot | Bot que distribuye/clasifica información en redes sociales sobre posibles noticias falsas. | [https://github.com/tonmona2/twiiter_bot](https://github.com/tonmona2/twiiter_bot) | `#sismomx-fakenews` | Python |
+| [Sismo CDMX](https://goo.gl/1oifAe) | App con BD de hospitalizados, desaparecidos y albergues, con info de [bit.ly/rescatecdmx](http://bit.ly/rescatecdmx). | [AppSheet](http://www.apsheet.com) |
 
 ## Contribuye con este sitio
 
