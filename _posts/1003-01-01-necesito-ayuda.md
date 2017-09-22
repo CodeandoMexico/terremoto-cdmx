@@ -86,6 +86,10 @@ lang: es
 			</div>
 		</div>
 </div>
+<div class="row" id="reports-sheet-container">
+	<h2 class="subtitle pink">Lista de reportes ciudadanos</h2>
+	<a class="btn" href="#" id="reports-sheet-container-btn">Mostrar lista</a>
+</div>
 <div class="row">
 	<div class="one-half column">
 		<h2 class="subtitle pink">Otros sitios de ayuda</h2>
@@ -105,4 +109,6 @@ lang: es
 		Correo: mvazquez@appleseedmexico.org
 
 	</p>
+
+
 </div>
