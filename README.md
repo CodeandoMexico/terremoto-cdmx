@@ -38,7 +38,7 @@ Revisa los issues etiquetados para cada grupo de trabajo y únete a la conversac
 
 | Equipo | Slack | Descripción |
 | :--- | :--- | :--- |
-| Búhos | Brigada nocturna de trabajo. | `#sismomx-buhos` |
+| Búhos | `sismomx-buhos` | Brigada nocturna de trabajo. |
 | [Comunicación](https://github.com/CodeandoMexico/terremoto-cdmx/issues?utf8=%E2%9C%93&q=is%3Aissue%20label%3Acomunicacion%20) | `#sismomx-comunicación` | Tareas de comunicación, monitoreo de redes y vinculación con otras organizaciones. |
 | [Data](https://github.com/CodeandoMexico/terremoto-cdmx/issues?utf8=%E2%9C%93&q=is%3Aissue%20label%3Adata%20) | `#sismomx-data` | Tareas de limpieza, validación, análisis y ETL de datos. |
 | [Desarrollo](https://github.com/CodeandoMexico/terremoto-cdmx/issues?utf8=%E2%9C%93&q=is%3Aissue%20label%3desarrollo%20) | `#sismomx-desarrollo` | Tareas de desarrollo para todos los proyectos. Súmate si buscas ayuda o cómo contribuir. |
@@ -46,6 +46,7 @@ Revisa los issues etiquetados para cada grupo de trabajo y únete a la conversac
 | [Docs](https://github.com/CodeandoMexico/terremoto-cdmx/issues?utf8=%E2%9C%93&q=is%3Aissue%20label%3Adocs%20) | `#sismomx-docs` | Tareas de documentación de procesos y repositorios.  |
 | [GitHub](https://github.com/CodeandoMexico/terremoto-cdmx/issues?utf8=%E2%9C%93&q=is%3Aissue%20label%3Agithub%20) | `#sismomx-github` | Ayúdanos a revisar y hacer merge de PR's en los distintos repositorios. |
 | [Mapas](https://github.com/CodeandoMexico/terremoto-cdmx/issues?utf8=%E2%9C%93&q=is%3Aissue%20label%3Amapas%20) | `#sismomx-mapas` | Tareas de mapeo y trabajo con datos geográficos. |
+| Project Managers | `sismomx-pm` | Ayúdanos a organizar mejor los esfuerzos y mejorar procesos. |
 | [Sitio web](https://github.com/CodeandoMexico/terremoto-cdmx/issues?utf8=%E2%9C%93&q=is%3Aissue%20label%3Awebsite%20) | `#sismomx-website` | Ayúdanos a actualizar el sitio web del proyecto. |
 
 
