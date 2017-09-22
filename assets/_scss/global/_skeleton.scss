@@ -27,20 +27,32 @@
   padding-top: 2rem;
   padding-bottom: 2rem;
   .has_icons{
+    text-align: right;
+    a {
+      margin: 0 0.75em;
+    }
     i {
       font-size:32px;
       color:white;
     }
   }
-
 }
-.footer_links{
-  color: #FFF;
-  a {
-    color: #FFF;
-    text-decoration: none;
+
+@media screen and (min-width: 768px) {
+  .footer .has_icons { text-align: left; }
+}
+
+.footer_links {
+  li {
+    color: #fff;
+    text-transform: uppercase;
   }
 
+  a {
+    color: inherit;
+    text-decoration: none;
+    text-transform: inherit;
+  }
 }
 
   .half {
