@@ -66,29 +66,30 @@ lang: es
 </div>
 <div class="row">
 	<h2 class="subtitle pink">Estoy buscando a Alguien</h2>
-	<h5><a href="https://google.org/personfinder/2017-puebla-mexico-earthquake" target="_blank" rel="noopener noreferrer">Google Person Finder</a></h5>
-	<p>Rescatados sismo 19 septiembre 2017 CDMX (Extraviados/Rescatados)</p>
-	<div class="icontain">
-		<div id="rescued-sheet-container">
-			<button class="lazy-button" id="rescued-sheet-container-btn">Mostrar lista de rescatados</button>
-		</div>
+	<div class="one-half column">
+		<h6><br><br>&nbsp;</h6>
+		<a class="btn" href="https://google.org/personfinder/2017-puebla-mexico-earthquake" target="_blank" rel="noopener noreferrer">Google Person Finder</a>
 	</div>
-	<h2 class="subtitle pink">Busco albergues o centros de ayuda</h2>
-
-	<div class="icontain">
-		<div id="critical-zones-container">
-			<button class="lazy-button" id="critical-zones-btn">Cargar mapa</button>
-		</div>
+	<div class="one-half column">
+		<h6>Rescatados sismo 19 septiembre 2017 CDMX (Extraviados/Rescatados)</h6><br>
+		<a class="btn" href="#" id="rescued-sheet-container-btn">Mostrar lista de rescatados</a>
 	</div>
-	<!--
-	<div class="icontain">
-		<div id="mapping-sheet-container">
-			<button class="lazy-button" id="mapping-sheet-container-btn">Cargar mapas</button>
-		</div>
-	</div>
--->
 </div>
-
+<div class="row">
+	<div id="rescued-sheet-container"></div>
+</div>
+<div class="row">
+		<h2 class="subtitle pink">Busco albergues o centros de ayuda</h2>
+		<div class="icontain">
+			<div id="critical-zones-container">
+				<button class="btn lazy-button" id="critical-zones-btn">Mostrar mapa</button>
+			</div>
+		</div>
+</div>
+<div class="row" id="reports-sheet-container">
+	<h2 class="subtitle pink">Lista de reportes ciudadanos</h2>
+	<a class="btn" href="#" id="reports-sheet-container-btn">Mostrar lista</a>
+</div>
 <div class="row">
 	<div class="one-half column">
 		<h2 class="subtitle pink">Otros sitios de ayuda</h2>
@@ -108,4 +109,6 @@ lang: es
 		Correo: mvazquez@appleseedmexico.org
 
 	</p>
+
+
 </div>
