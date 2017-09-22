@@ -22,7 +22,7 @@ caso de desastres posteriores.
 
 ## ¿Cómo Ayudar?
 
-* Unirte a un [grupo de trabajo](https://github.com/CodeandoMexico/terremoto-cdmx#grupos-de-trabajo).
+* Únete a un [grupo de trabajo](https://github.com/CodeandoMexico/terremoto-cdmx#grupos-de-trabajo).
 * Súmate al desarrollo de algún [proyecto](https://github.com/CodeandoMexico/terremoto-cdmx#proyectos-abiertas).
 
 La conversación y coordinación de las tareas las estamos llevando en el Slack de Codeando México, dentro del canal de `#equipo-humanitario`. Para unirte a Slack, registrate en http://slack.codeandomexico.org.
