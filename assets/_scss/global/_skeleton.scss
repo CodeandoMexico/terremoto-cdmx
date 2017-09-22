@@ -19,9 +19,26 @@
 
 // Footer
 .footer {
-  background-color: black
+  background-color: black;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  .has_icons{
+    i {
+      font-size:32px;
+      color:white;
+    }
+  }
 
 }
+.footer_links{
+  color: #FFF;
+  a {
+    color: #FFF;
+    text-decoration: none;
+  }
+
+}
+
   .half {
     color:$smx-white-color;
     float: left;
