@@ -3,7 +3,6 @@
 // Main content
 .smx-main-content {
   h1 {
-
   }
 }
 
@@ -18,35 +17,14 @@
 }
 
 // Footer
-.footer {
+#footer {
   background-color: black;
-  padding-top: 2rem;
-  padding-bottom: 2rem;
-  .has_icons{
-    i {
-      font-size:32px;
-      color:white;
-    }
-  }
-
-}
-.footer_links{
-  color: #FFF;
-  a {
-    color: #FFF;
-    text-decoration: none;
-  }
-
-}
+  margin-top: 40px;
+  padding: 20px;
 
   .half {
-    color:$smx-white-color;
-    float: left;
-    width:50%;
+    color: $smx-white-color;
     margin-bottom: 10px;
-    padding-left: 30px;
-    padding-top: 10px;
-  }
 
     .ul {
       list-style: none;
@@ -54,31 +32,15 @@
         font-size: 16px;
         font-weight: $smx-font-bolder;
         text-transform: uppercase;
-
-        a {
-          text-decoration: none;
-          color: $smx-white-color;
-
-          &:hover {
-            color: $smx-pink-color;
-          }
-        }
-
-        &.active {
-          a {
-            color: $smx-pink-color;
-
-            &:hover {
-              color: lighten($smx-pink-color, 5%);
-            }
-          }
-        }
       }
     }
-  .logo-row{
-    width: 50%;
-    float:left;
-    margin-top: 20px;
-    padding-right: 60px;
-    padding-bottom: 40px;
+    a {
+      text-decoration: none;
+      color: $smx-white-color;
+
+      &:hover {
+        color: $smx-pink-color;
+      }
+    }
   }
+}
