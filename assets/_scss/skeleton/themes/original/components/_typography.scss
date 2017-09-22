@@ -82,3 +82,16 @@ hr {
 	margin: relative(10px) 0 relative(30px);
 	height: 0;
 }
+
+hr.section-line{
+	border-width: 2px solid #e5e5e5 !important;
+  height: 0;
+  margin-top: 60px;
+}
+
+hr.middle-line{
+	border-style: solid !important;
+  border-width: 40px 0 0 !important;
+	border-color: #f3476d !important;
+  margin-top: 0px !important;
+}
