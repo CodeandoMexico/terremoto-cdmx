@@ -1,4 +1,4 @@
-![eth-cmx](![dkqm2ypuqae8hw8](https://user-images.githubusercontent.com/2068301/30724082-18882a9c-9f01-11e7-8ef5-eb002a8ec3fc.jpg))
+![dkqm2ypuqae8hw8](https://user-images.githubusercontent.com/2068301/30724082-18882a9c-9f01-11e7-8ef5-eb002a8ec3fc.jpg)
 
 # TerremotoMX
 
