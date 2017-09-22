@@ -8,7 +8,8 @@ var triggerNav = function() {
 function appendFrameListener(config) {
 	var el = document.getElementById(config.button);
 	if (el) {
-		el.addEventListener('click', function() {
+		el.addEventListener('click', function(event) {
+			event.preventDefault();
 			document.getElementById(config.container).innerHTML = config.frame;
 		});
 	}
