@@ -38,6 +38,7 @@ Revisa los issues etiquetados para cada grupo de trabajo y únete a la conversac
 
 | Equipo | Slack | Descripción |
 | :--- | :--- | :--- |
+| Bots | `#sismomx-bots` | Tareas relacionadas con bots |
 | Búhos | `#sismomx-buhos` | Brigada nocturna de trabajo. |
 | [Comunicación](https://github.com/CodeandoMexico/terremoto-cdmx/issues?utf8=%E2%9C%93&q=is%3Aissue%20label%3Acomunicacion%20) | `#sismomx-comunicación` | Tareas de comunicación, monitoreo de redes y vinculación con otras organizaciones. |
 | [Data](https://github.com/CodeandoMexico/terremoto-cdmx/issues?utf8=%E2%9C%93&q=is%3Aissue%20label%3Adata%20) | `#sismomx-data` | Tareas de limpieza, validación, análisis y ETL de datos. |
