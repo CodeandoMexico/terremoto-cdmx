@@ -1,6 +1,6 @@
-![bandera-en-pie](https://user-images.githubusercontent.com/385670/30645087-3ddb7eb6-9dda-11e7-8ecd-17424b852299.jpg)
+![dkqm2ypuqae8hw8](https://user-images.githubusercontent.com/2068301/30724082-18882a9c-9f01-11e7-8ef5-eb002a8ec3fc.jpg)
 
-# TerremotoMX
+# \#SISMOMX - Equipo de Tecnología Humanitaria de Codeando México
 
 En septiembre 2017 sismos afectaron a diferentes partes de México.
 
@@ -61,6 +61,7 @@ Revisa los issues etiquetados para cada grupo de trabajo y únete a la conversac
 | Quake Relief CDMX | Encontrar las necesidades más prioritarias por zona para enviar ayuda y notificar | [https://github.com/civica-digital/quake-relief-cdmx](https://github.com/civica-digital/quake-relief-cdmx) | `#sismomx-realtime` | Ruby on Rails 5 | 
 | [Verificado19s](https://www.coder.mx/) | Verificar reportes de ayuda necesitada y disponible, y mantener fuentes centrales+oficiales | [https://github.com/parismend/Temblor](https://github.com/parismend/Temblor) | `#sismomx-verificado19s` | Python |
 | [Mi Policía (CDMX)](https://mipolicia.com) | Herramienta para conocer el número de tu cuadrante (SSPCDMX) | [https://github.com/ayouidaniel/MiPolicia](https://github.com/ayouidaniel/MiPolicia) | `#emergencia-sspcdmx` | Javascript, Vue.js, Python, GAE | 
+| Fake News Bot | Bot que distribuye/clasifica información en redes sociales sobre posibles noticias falsas. | [https://github.com/tonmona2/twiiter_bot](https://github.com/tonmona2/twiiter_bot) | `#sismomx-fakenews` | Python |
 
 ## Contribuye con este sitio
 
