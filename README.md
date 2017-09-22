@@ -84,6 +84,13 @@ $ bundle install
 $ jekyll serve
 ```
 
+#### Intrucciones para desarrollo local con docker
+
+```
+$ docker build -t terremoto-cdmx .
+$ docker run -p 4000:4000 terrmoto-cdmx
+```
+
 El sistema estará disponible en http://127.0.0.1:4000/
 
 ## Licencia
