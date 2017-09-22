@@ -82,7 +82,7 @@ lang: es
 		<h2 class="subtitle pink">Busco albergues o centros de ayuda</h2>
 		<div class="icontain">
 			<div id="critical-zones-container">
-				<button class="btn lazy-button" id="critical-zones-btn">Cargar mapa</button>
+				<button class="btn lazy-button" id="critical-zones-btn">Mostrar mapa</button>
 			</div>
 		</div>
 </div>
