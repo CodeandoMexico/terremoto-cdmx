@@ -51,7 +51,7 @@ lang: es
 
 <div class="row">
 	<h2 class="subtitle pink">Estoy buscando a Alguien</h2>
-	<div class="" style="text-align:center">
+	<div class="icontain">
 		<a class="btn" href="https://google.org/personfinder/2017-puebla-mexico-earthquake" target="_blank" rel="noopener noreferrer">Google Person Finder</a>
 		<br>
 		<br>
@@ -65,7 +65,7 @@ lang: es
 		<h2 class="subtitle pink">Busco albergues o centros de ayuda</h2>
 		<div class="icontain">
 			<div id="critical-zones-container">
-				<button class="btn lazy-button" id="critical-zones-btn">Mostrar mapa</button>
+				<a class="btn " id="critical-zones-btn">Mostrar mapa</a>
 			</div>
 		</div>
 </div>

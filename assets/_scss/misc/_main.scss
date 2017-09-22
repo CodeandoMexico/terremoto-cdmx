@@ -42,13 +42,19 @@
     padding: 10px 20px;
     background-color: #222423;
     color: #f3476d;
-    /* transition: all 1s; */
+    transition: all .3s;
     border-radius: 0;
     font-size: 24px;
     font-weight: 500;
+    line-height: 45px;
     text-decoration: none;
     text-transform: uppercase;
     &:hover{
       color: #FFF;
     }
+}
+
+
+@media (max-width: 1224px) {
+
 }
