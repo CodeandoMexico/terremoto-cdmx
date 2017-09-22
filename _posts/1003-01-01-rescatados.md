@@ -14,7 +14,7 @@ lang: es
 
 <div class="icontain">
   <div id="reports-sheet-container">
-    <button class="lazy-button" id="reports-sheet-container-btn">Cargar lista</button>
+    <button class="lazy-button" id="reports-sheet-container-btn">Mostrar lista</button>
   </div>
 </div>
 
@@ -22,7 +22,7 @@ lang: es
 
 <div class="icontain">
   <div id="mapping-sheet-container">
-    <button class="lazy-button" id="mapping-sheet-container-btn">Cargar mapeo</button>
+    <button class="lazy-button" id="mapping-sheet-container-btn">Mostrar mapeo</button>
   </div>
 </div>
 
@@ -30,7 +30,7 @@ lang: es
 
 <div class="icontain">
   <div id="rescued-sheet-container">
-    <button class="lazy-button" id="rescued-sheet-container-btn">Cargar lista de rescatados</button>
+    <button class="lazy-button" id="rescued-sheet-container-btn">Mostrar lista de rescatados</button>
   </div>
 </div>
 
