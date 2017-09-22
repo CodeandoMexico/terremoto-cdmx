@@ -51,7 +51,7 @@ lang: es
 <div class="row">
   <div class="column one-half">
     <h3>Querétaro</h3>
-    Bomberos: <a href="tel:4422120627">(442) 212-0627</a> / <a href="tel:4422123939">(442) 212-3939</a> / <a href="tel:4422181300">(442) 218-1300</a> / <a href="tel:4422180300">(442) 218-0300</a><br />
+    Bomberos: <a href="tel:4422120627">(442) 212-0627</a> / <a href="tel:4422123939">(442) 212-3939</a> / <a href="tel:4422181300">(442) 218-1300</a> <br />
     Cruz Roja: <a href="tel:4422290669">(442) 229-0669</a> / <a href="tel:4422290505066">(442) 229-0505066</a><br />
     Fugas Gas <a href="tel:4422170862">(442) 217-0862</a> / <a href="tel:4422101616">(442) 210-1616</a><br />
     Locatel <a href="tel:4422143311">(442) 214-3311</a><br />
@@ -69,12 +69,10 @@ lang: es
 
 <div class="row">
 	<h2 class="subtitle pink">Estoy buscando a Alguien</h2>
-	<div class="one-half column">
-		<h6><br><br>&nbsp;</h6>
+	<div class="" style="text-align:center">
 		<a class="btn" href="https://google.org/personfinder/2017-puebla-mexico-earthquake" target="_blank" rel="noopener noreferrer">Google Person Finder</a>
-	</div>
-	<div class="one-half column">
-		<h6>Rescatados sismo 19 septiembre 2017 CDMX (Extraviados/Rescatados)</h6><br>
+		<br>
+		<br>
 		<a class="btn" href="#" id="rescued-sheet-container-btn">Mostrar lista de rescatados</a>
 	</div>
 </div>
