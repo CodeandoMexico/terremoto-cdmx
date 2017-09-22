@@ -79,7 +79,7 @@ Revisa los issues etiquetados para cada grupo de trabajo y únete a la conversac
 | Contribuye (Harvest) | | [https://github.com/CodeandoMexico/contribuye-harvest](https://github.com/CodeandoMexico/contribuye-harvest) | `#sismomx-contribuye` | |
 | Contribuye (Front) | | [https://github.com/CodeandoMexico/contribuye-front](https://github.com/CodeandoMexico/contribuye-front) | `#sismomx-contribuye` | |
 | [Fuerza México](https://play.google.com/store/apps/details?id=com.coders.fuerzamexico&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1) | aplicación móvil de colaboración para la captura de puntos afectados por los sismos | [https://github.com/kimetrics/add-fuerzamexico-android](https://github.com/kimetrics/add-fuerzamexico-android) | `#sismomx-fuerza-mexico` | Android |
-| [Localizador de personas hopsitalizadas](http://localizador.sismomexico.org) | | | | |
+| [Localizador de personas hospitalizadas](http://localizador.sismomexico.org) | | | | |
 | Ajuda | | [https://github.com/JuweTakeheshi/ajuda](https://github.com/JuweTakeheshi/ajuda) | | iOS, Swift |
 | Promesas.mx | Concentramos la información sobre las Promesas que se estan haciendo y acciones que se estan indicando por distintos sectores de Gobierno, iniciativas públicas y privadas, organizaciones civiles, fundaciones, etc. | [https://github.com/jorandradefig/promesas.mx](https://github.com/jorandradefig/promesas.mx) | [promesasmx.slack.com](http://bit.ly/2hmKgcK) | AngularJS  |
 
