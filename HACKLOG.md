@@ -68,6 +68,13 @@
       * Son muchos medios independientes, no es sólo de un medio y un sólo lugar.
    * Próximos objetivos
       * Construir un API sobre los CSVs
+* ¿Qué ayuda necesita México? (`#sismomx-realtime`)
+   * Funcionalidad: Filtrado de necesidades por colonia (alimentado de los tweets de cada 2 horas)
+   * Staging: https://quake-relief-cdmx.civicadesarrolla.me/
+   * Roadmap: https://github.com/civica-digital/quake-relief-cdmx/projects/1
+   * Instrucciones de instalación: https://github.com/civica-digital/quake-relief-cdmx#cómo-instalar
+
+Las personas que quieran colaborar, por favor, me pasan su cuenta de github, para que asignemos los issues y puedan enviar sus contribuciones
 
 ### Notas generales
 * @manu mencionó que tiene contacto con Elastic y tiene licencias para ELK. Podemos apoyarnos en Elastic para hacer búsquedas más complejas.
