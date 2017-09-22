@@ -8,8 +8,26 @@
     <title>{{ site.title }}</title>
     <meta name="keywords" content="{{ site.keywords }}">
     <meta name="description" content="{{ site.description }}">
+    <meta name="format-detection" content="telephone=no">
+    <meta property="og:title" content="{{site.tittle}}" />
+    <meta property="og:locale" content="es_MX" />
+    <meta property="og:description" content="{{site.description}} " />
+    <meta property="og:url" content="{{ site.url }}" />
+    <meta property="og:image" content="{{ site.url }}/assets/img/home-bg.jpg" />
+    <link rel="canonical" href="http://sismomexico.org" />
+    <meta property="og:url" content="http://sismomexico.org" />
+    <meta property="og:site_name" content="Jekyll SEO Tag" />
+    <meta name="twitter:card" content="summary">
+    {% if page.title %}<meta name="twitter:title" content="{{ page.title }}">{% else %}
+    <meta name="twitter:title" content="{{ site.title }}">{% endif %}
+    {% if page.url %}<meta name="twitter:url" content="{{ site.url }}{{ page.url }}">
+    {% endif %}
+    {% if page.description %}<meta name="twitter:description" content="{{ page.description }}">
+    {% else %} <meta name="twitter:description" content="{{ site.description }}">{% endif %}
+    {% if page.image %}<meta name="twitter:image:src" content="{{ site.url }}/assets/img/{{ page.image }}">
+    {% else %}<meta name="twitter:image:src" content="{{ site.url }}/assets/img/home-bg.jpg">{% endif %}
     <link rel="stylesheet" href="{{ "main.css" | prepend: site.assets.css }}">
-    <link href="https://fonts.googleapis.com/css?family=Roboto|Roboto+Mono" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     {% if site.favicon %}<link rel="shortcut icon" href="{{ site.favicon }}" type="image/x-icon">{% endif %}
     {% if site.touch_icon %}<link rel="apple-touch-icon" href="{{ site.touch_icon }}">{% endif %}
     {% if site.google_analytics and jekyll.environment == 'production' %}
@@ -22,11 +40,11 @@
     <a href="#" class="resToggle">☰</a>
     <nav class="smx-navigation">
         <ul>
-            <li class="active"><a href="#">Quiero ayudar</a></li>
-            <li><a href="#">Necesito ayuda</a></li>
+            <li class="active"><a href="#section-quiero_ayudar">Quiero ayudar</a></li>
+            <li><a href="#section-mapa">Necesito ayuda</a></li>
 
             <div class="nav-right">
-                <li><a href="#">Faq</a></li>
+                <li><a href="#section-faq">Faq</a></li>
                 <li><a href="#">Agradecimientos</a></li>
                 <li><a href="#">Contacto</a></li>
                 <li><a href="#">Eng</a></li>
@@ -38,7 +56,7 @@
 <main class="smx-main-content">
     {% for page in site.posts reversed %}
     {% capture id %}{{ page.id | remove:'/' | downcase }}{% endcapture %}
-    <section class="smx-{{ id }}">
+    <section class="smx-{{ id }}" id="section-{{id}}">
         <div class="container">
             {{ page.content }}
         </div>
@@ -48,9 +66,7 @@
     {% endfor %}
 </main>
 
-<footer class="smx-footer">
-    <div class="container">Footer</div>
-</footer>
+ {% include footer.html %}
 
 <script>
   // Navbar toggle
