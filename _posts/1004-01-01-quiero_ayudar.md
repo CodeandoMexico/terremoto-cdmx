@@ -12,7 +12,7 @@ Ayuda al equipo de OpenStreetMap a mapear [esta zona](http://tasks.hotosm.org/pr
 Necesitamos gente que ayude a mantener actualizada la información de lo que falta en los diferentes centros de acopio. Si estás en uno, o puedes ir a uno cercano únete y que la ayuda sea efectiva. Envía mensaje al 5529692068, 5545333530, 5534810377. Haremos 3 turnos mañana, tarde y noche. Agrega centros [Aquí](https://docs.google.com/spreadsheets/d/1ijleBcHJH_3V2nbMeXTjH4hTDYsjcdodYvHqhTc8C8c/edit#gid=447869804)
 
 ## DONA EN ESPECIE
-### MEDICAMENTOS/CURACIÓN
+### MEDICAMENTOS / CURACIÓN
 * Vendas
 * Gasas esterilizadas
 * Alcohol
