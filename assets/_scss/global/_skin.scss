@@ -27,6 +27,9 @@ h6 {
 // Intro section
 .smx-intro {
   background: $smx-black-color;
+  background: url(../img/home-bg.png);
+  background-size: cover;
+  background-position: center;
   text-align: center;
   color: $smx-white-color;
 
