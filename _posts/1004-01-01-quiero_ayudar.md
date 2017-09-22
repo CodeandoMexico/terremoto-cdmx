@@ -7,7 +7,7 @@ color: white
 
 ## AYUDANOS A TENER MAS INFORMACION
 ### MAPEA CON OPENSTREETMAP
-Ayuda al equipo de OpenStreetMap a mapear esta zona: http://tasks.hotosm.org/project/3597
+Ayuda al equipo de OpenStreetMap a mapear [esta zona](http://tasks.hotosm.org/project/3597)
 ### COLABORA AGREGANDO CENTROS DE ACOPIO Y AYUDA A ESTA BASE
 Necesitamos gente que ayude a mantener actualizada la información de lo que falta en los diferentes centros de acopio. Si estás en uno, o puedes ir a uno cercano únete y que la ayuda sea efectiva. Envía mensaje al 5529692068, 5545333530, 5534810377. Haremos 3 turnos mañana, tarde y noche. Agrega centros [Aquí](https://docs.google.com/spreadsheets/d/1ijleBcHJH_3V2nbMeXTjH4hTDYsjcdodYvHqhTc8C8c/edit#gid=447869804)
 
@@ -81,7 +81,7 @@ Se sugiere no llevar comida preparada pues se echa a perder.
 
 ## DONA DEPOSITANDO
 Entra a [comoayudar](https://comoayudar.mx/) y podrás consultar un amplio listado de sitios y cuentas dónde donar.
-¿Los topos aceptan donaciones? http://www.animalpolitico.com/2017/09/grupos-topos-donaciones/
+[¿Los topos aceptan donaciones?](http://www.animalpolitico.com/2017/09/grupos-topos-donaciones/)
 
 ## OTRAS FORMAS DE AYUDAR
 ### SI ERES INGENIERO CIVIL
