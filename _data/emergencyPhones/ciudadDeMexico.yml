@@ -1,0 +1,49 @@
+- label:
+    es: Protección Civil
+  phoneNumbers:
+    - "(55) 5683 2222"
+    - "(55) 5277 4177"
+
+- label:
+    es: Emergencias
+  phoneNumbers:
+    - "911"
+
+- label:
+    es: Sistema de Aguas
+  phoneNumbers:
+    - "(55) 5654 3210"
+
+- label:
+    es: Fugas
+  phoneNumbers:
+    - "(55) 5654 3210"
+
+- label:
+    es: Locatel
+  phoneNumbers:
+    - "(55) 5658 1111"
+
+- label:
+    es: Bomberos
+  phoneNumbers:
+    - "911"
+    - "(55) 5768 3800"
+    - "(55) 5768 2532"
+
+- label:
+    es: Cruz Roja
+  phoneNumbers:
+    - "911"
+    - "065"
+    - "(55) 5557 5757"
+
+- label:
+    es: Reporte Fallas CFE
+  phoneNumbers:
+    - "071"
+
+- label:
+    es: Información IMSS
+  phoneNumbers:
+    - "01 800 623 2323"
