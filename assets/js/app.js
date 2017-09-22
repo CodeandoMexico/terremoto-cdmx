@@ -77,7 +77,6 @@ window.events.push(addEventListeners);
 window.events.push(triggerNav);
 window.events.push(loadCSS);
 $(document).ready(function() {
-	console.log('shit');
 	window.events.forEach(function(event) {
 		event();
 	});
