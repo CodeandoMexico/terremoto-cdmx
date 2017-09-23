@@ -119,6 +119,13 @@ lang: es
     <h4>Si eres Ingeniero Civil</h4>
     <p>Si eres ingeniero civil, arquitecto, médico o carrera a fin, se solicitan voluntarios para asistir a Protección Civil en la revisión de edificios. Ponerse en contacto con Alfonso Rivero al celular 55 4448 7863.</p>
   </div>
+
+  <div class="column">
+    <h4>Regístrate como voluntario el 23 y 24 de Septiembre</h4>
+    <p>Si este fin de semana estas dispuesto a apoyar a alguien, por favor regístrate <a href="http://www.animalpolitico.com/2017/09/grupos-topos-donaciones/" target="_blank">aquí</a>
+    </p>
+  </div>
+
   <h2 class="subtitle pink clearfix">Contribuye con código</h2>
   <p>Dona tus habilidades entrando al <a href="https://github.com/CodeandoMexico/terremoto-cdmx" target="_blank">github de CodeandoMexico</a> o al <a href="slack.codeandomexico.org" target="_blank">canal de Slack</a> y colabora en los siguientes proyectos.</p>
 </div>
