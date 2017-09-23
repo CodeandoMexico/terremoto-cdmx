@@ -75,6 +75,7 @@ Revisa los issues etiquetados para cada grupo de trabajo y únete a la conversac
 | [Localizador de personas hospitalizadas](http://localizador.sismomexico.org) | | | | |
 | Ajuda | | [https://github.com/JuweTakeheshi/ajuda](https://github.com/JuweTakeheshi/ajuda) | | iOS, Swift |
 | Promesas.mx | Concentramos la información sobre las promesas que se estan haciendo y acciones que se estan indicando por distintos sectores de Gobierno, iniciativas públicas y privadas, organizaciones civiles, fundaciones, etc. | [https://github.com/jorandradefig/promesas.mx](https://github.com/jorandradefig/promesas.mx) | [promesasmx.slack.com](http://bit.ly/2hmKgcK) | AngularJS  |
+| [471Servicios](https://twitter.com/471servicios) | Bot que informa sobre instituciones gubernamentales en mexico encargadas de servicios | https://github.com/nusspez/bot-servicios-471 | #sismomx-bots | Python |
 
 ## Contribuye con este sitio
 
