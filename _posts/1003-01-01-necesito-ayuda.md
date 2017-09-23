@@ -76,9 +76,9 @@ lang: es
 	<h2 class="subtitle pink">Lista de reportes ciudadanos</h2>
 	<a class="btn" href="#" id="reports-sheet-container-btn">Mostrar lista</a>
 </div>
+<hr class="section-line">
 <div class="row">
-	<div class="one-half column">
-    <hr class="section-line">
+  <div class="one-half column">
 		<h2 class="subtitle pink">Otros sitios de ayuda</h2>
 		+ Guía de Emergencia <br>
 		<a target="_blank" rel="noopener noreferrer" href="http://www.guiaemergencias.com/">http://www.guiaemergencias.com/</a> <br>
