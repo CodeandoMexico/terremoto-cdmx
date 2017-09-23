@@ -113,9 +113,6 @@ lang: es
   <hr class="section-line">
   <h2 class="subtitle pink clearfix">Contribuye con código</h2>
   <p>Dona tus habilidades entrando al <a href="https://github.com/CodeandoMexico/terremoto-cdmx" target="_blank">github de CodeandoMexico</a> o al <a href="slack.codeandomexico.org" target="_blank">canal de Slack</a> y colabora en los siguientes proyectos.</p>
-  <div class="column">
-    <p>Si eres ingeniero civil, arquitecto, médico o carrera a fin, se solicitan voluntarios para asistir a Protección Civil en la revisión de edificios. Ponerse en contacto con Alfonso Rivero al celular 55 4448 7863.</p>
-  </div>
 </div>
 
 [**Website (#sismomx-website)**](http://sismomexico.org/)
