@@ -13,7 +13,7 @@ lang: es
     <p>Ayuda al equipo de OpenStreetMap a mapear <a href="http://tasks.hotosm.org/project/3597" target="_blank">esta zona</a></p>
     <h4>Colabora agregando Centros de Acopio y ayuda a esta base</h4>
     <p>Necesitamos gente que ayude a mantener actualizada la información de lo que falta en los diferentes centros de acopio. Si estás en uno, o puedes ir a uno cercano únete y que la ayuda sea efectiva. <b>Envía mensaje al 5529692068, 5545333530, 5534810377. Haremos 3 turnos mañana, tarde y noche</b>.</p>
-      <a class="btn" href="https://docs.google.com/spreadsheets/d/1ijleBcHJH_3V2nbMeXTjH4hTDYsjcdodYvHqhTc8C8c/edit#gid=447869804" target="_blank">Agrega centros de acopio</a>
+      <a class="btn" href="https://docs.google.com/spreadsheets/d/1ijleBcHJH_3V2nbMeXTjH4hTDYsjcdodYvHqhTc8C8c/edit#gid=447869804" target="_blank">Agregar centros de acopio</a>
 	  
   <hr class="section-line" />  
     <p>
