@@ -9,7 +9,7 @@ lang: es
   <h1 class="title">Necesito <span class="black">Ayuda</span></h1>
 </div>
 <div class="row">
-  <h3 class="subtitle pink">Teléfonos de Emergencia</h3>
+  <h2 class="subtitle pink">Teléfonos de Emergencia</h2>
   En estos momentos cualquier reporte puede marcar la diferencia. Reporta fugas de gas y agua, personas desaparecidas, incendios, entre otros.
 </div>
 <div class="row">
