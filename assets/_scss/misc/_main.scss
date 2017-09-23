@@ -52,3 +52,24 @@
       color: #FFF;
     }
 }
+
+.call-to{
+  width: 30%;
+  padding: 13px 24px;
+  color: #ffffff;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 24px;
+  border: 0;
+  border-radius: 5px;
+  background-color: #7ec954;
+  transition-property: all;
+  transition-duration: 0.15s;
+  transition-timing-function: ease-in-out;
+  a{
+    text-decoration: none;
+  }
+  &:hover {
+    background-color: #9bd57b;
+  }
+}
