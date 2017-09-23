@@ -12,10 +12,31 @@ lang: es
     <h4>Mapea con OpenStreetMap</h4>
     <p>Ayuda al equipo de OpenStreetMap a mapear <a href="http://tasks.hotosm.org/project/3597" target="_blank">esta zona</a></p>
     <h4>Colabora agregando Centros de Acopio y ayuda a esta base</h4>
-    <p>Necesitamos gente que ayude a mantener actualizada la información de lo que falta en los diferentes centros de acopio. Si estás en uno, o puedes ir a uno cercano únete y que la ayuda sea efectiva. Envía mensaje al 5529692068, 5545333530, 5534810377. Haremos 3 turnos mañana, tarde y noche. <a href="https://docs.google.com/spreadsheets/d/1ijleBcHJH_3V2nbMeXTjH4hTDYsjcdodYvHqhTc8C8c/edit#gid=447869804" target="_blank">Agrega centros de acopio.</a></p>
+    <p>Necesitamos gente que ayude a mantener actualizada la información de lo que falta en los diferentes centros de acopio. Si estás en uno, o puedes ir a uno cercano únete y que la ayuda sea efectiva. Envía mensaje al 5529692068, 5545333530, 5534810377. Haremos 3 turnos mañana, tarde y noche.</p>
+    <div class="call-to">
+    <a href="https://docs.google.com/spreadsheets/d/1ijleBcHJH_3V2nbMeXTjH4hTDYsjcdodYvHqhTc8C8c/edit#gid=447869804" target="_blank">Agrega centros de acopio.</a>
+    </div>
 	</div>
+  <hr class="section-line">  
+    <p>
+      <a class="button button-primary" href="https://docs.google.com/spreadsheets/d/1ijleBcHJH_3V2nbMeXTjH4hTDYsjcdodYvHqhTc8C8c/edit#gid=0">
+        Reportar daños y derrumbes 
+      </a>
+
+      <a class="button button-primary" href="https://docs.google.com/spreadsheets/d/1ijleBcHJH_3V2nbMeXTjH4hTDYsjcdodYvHqhTc8C8c/edit#gid=0">
+        Reportar centros de acopio 
+      </a>
+
+      <a class="button button-primary" href="https://docs.google.com/spreadsheets/d/1ijleBcHJH_3V2nbMeXTjH4hTDYsjcdodYvHqhTc8C8c/edit#gid=0">
+        Reportar daños y derrumbes 
+      </a>
+
+
+    </p>
+
+  </div>
   <h2 class="subtitle pink">Dona en Especie</h2>
-	<div class="one-third column">
+  <div class="one-third column">
     <h4>Medicamentos / Curación</h4>
     <ul>
       <li>Vendas</li>
@@ -40,8 +61,8 @@ lang: es
       <li>Tela adhesiva</li>
       <li>Penicilina</li>
     </ul>
-	</div>
-	<div class="one-third column">
+  </div>
+  <div class="one-third column">
     <h4>Herramientas</h4>
     <ul>
       <li>Picos</li>
@@ -70,8 +91,8 @@ lang: es
       <li>Biberones</li>
       <li>Ropa para bebés</li>
     </ul>
-	</div>
-	<div class="one-third column">
+  </div>
+  <div class="one-third column">
     <h4>Víveres</h4>
     <h5>Empaquetados:</h5>
     <ul>
@@ -94,10 +115,10 @@ lang: es
       <li>Verduras</li>
     </ul>
     <p>Se sugiere no llevar comida preparada pues se echa a perder.</p>
-	</div>
+  </div>
   <h2 class="subtitle pink clearfix">Dona Depositando</h2>
   <div class="column">
-    <p>Entra a <a href="https://comoayudar.mx/" target="_blank">comoayudar.mx</a> y podrás consultar un amplio listado de sitios y cuentas dónde donar.</p>
+    <p>Entra a <a href="http://comoayudar.mx/" target="_blank">comoayudar.mx</a> y podrás consultar un amplio listado de sitios y cuentas dónde donar.</p>
     <p><a href="http://www.animalpolitico.com/2017/09/grupos-topos-donaciones/" target="_blank">¿Los topos aceptan donaciones?</a></p>
   </div>
   <h2 class="subtitle pink clearfix">Otras Formas de Ayudar</h2>
@@ -107,9 +128,6 @@ lang: es
   </div>
   <h2 class="subtitle pink clearfix">Contribuye con código</h2>
   <p>Dona tus habilidades entrando al <a href="https://github.com/CodeandoMexico/terremoto-cdmx" target="_blank">github de CodeandoMexico</a> o al <a href="slack.codeandomexico.org" target="_blank">canal de Slack</a> y colabora en los siguientes proyectos.</p>
-  <div class="column">
-    <p>Si eres ingeniero civil, arquitecto, médico o carrera a fin, se solicitan voluntarios para asistir a Protección Civil en la revisión de edificios. Ponerse en contacto con Alfonso Rivero al celular 55 4448 7863.</p>
-  </div>
 </div>
 
 [**Website (#sismomx-website)**](http://sismomexico.org/)

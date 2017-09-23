@@ -51,7 +51,7 @@ lang: es
 
 <div class="row">
 	<h2 class="subtitle pink">Estoy buscando a Alguien</h2>
-	<div class="" style="text-align:center">
+	<div class="icontain">
 		<a class="btn" href="https://google.org/personfinder/2017-puebla-mexico-earthquake" target="_blank" rel="noopener noreferrer">Google Person Finder</a>
 		<br>
 		<br>
@@ -62,19 +62,22 @@ lang: es
 	<div id="rescued-sheet-container"></div>
 </div>
 <div class="row">
+    <hr class="section-line">
 		<h2 class="subtitle pink">Busco albergues o centros de ayuda</h2>
 		<div class="icontain">
 			<div id="critical-zones-container">
-				<button class="btn lazy-button" id="critical-zones-btn">Mostrar mapa</button>
+				<a class="btn " id="critical-zones-btn">Mostrar mapa</a>
 			</div>
 		</div>
 </div>
 <div class="row" id="reports-sheet-container">
+  <hr class="section-line">
 	<h2 class="subtitle pink">Lista de reportes ciudadanos</h2>
 	<a class="btn" href="#" id="reports-sheet-container-btn">Mostrar lista</a>
 </div>
+<hr class="section-line">
 <div class="row">
-	<div class="one-half column">
+  <div class="one-half column">
 		<h2 class="subtitle pink">Otros sitios de ayuda</h2>
 		+ Guía de Emergencia <br>
 		<a target="_blank" rel="noopener noreferrer" href="http://www.guiaemergencias.com/">http://www.guiaemergencias.com/</a> <br>
@@ -83,15 +86,20 @@ lang: es
 		+ Sismo México org<br>
 		<a target="_blank" rel="noopener noreferrer" href="http://sismomexico.org/">http://sismomexico.org/</a> <br>
 	</div>
-	<div class="one-half column"></div>
-	<h2 class="subtitle pink">Asesoría Jurídica</h2>
-	<p> La <strong>Red Pro Bono de México,</strong> brigadas jurídicas para las personas afectadas.</p>
-	<p>
-		Llenar formato en: <a target="_blank" rel="noopener noreferrer" href="http://www.appleseedmexico.org/ong-2/ ">http://www.appleseedmexico.org/ong-2/ </a><br>
-		Tel: 75839623, Whatsapp: 5530474513 <br>
-		Correo: mvazquez@appleseedmexico.org
 
-	</p>
+	<div class="one-half column">
+		<h2 class="subtitle pink">Asesoría Jurídica</h2>
+		<p>  En <a href="http://www.pequenocerdocapitalista.com/guia-reclamar-seguros-terremoto/" target="_blank"><strong>Pequeño cerdo capitalista</strong></a> crearon una guía colaborativa para reclamar seguros por terremoto.<br>
+	   		<a class="button button-primary" href="https://www.dropbox.com/s/pedizh9i2jivh3c/Guía%20para%20reclamar%20seguros%20por%20terremoto%20%202017.09.22.pdf?dl=1" target="_blank">
+	        Descargar guía </a>
+		</p>
+		<p> La <strong>Red Pro Bono de México,</strong> brigadas jurídicas para las personas afectadas.</p>
+		<p> Llenar formato en: <a target="_blank" rel="noopener noreferrer" href="http://www.appleseedmexico.org/ong-2/ ">http://www.appleseedmexico.org/ong-2/ </a><br>
+			Tel: 75839623, Whatsapp: 5530474513 <br>
+			Correo: mvazquez@appleseedmexico.org
+		</p>
+	</div>
+
 
 
 </div>
