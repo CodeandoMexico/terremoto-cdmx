@@ -88,7 +88,7 @@ lang: es
 	</div>
 	<div class="one-half column">
 		<h2 class="subtitle pink">Asesoría Jurídica</h2>
-		<p>  En <a href="http://www.pequenocerdocapitalista.com/guia-reclamar-seguros-terremoto/" target="_blank"><strong>Pequeño cerdo capitalista</strong></a> crearon una guía colaborativa para reclamar seguros por terremoto <br>
+		<p>  En <a href="http://www.pequenocerdocapitalista.com/guia-reclamar-seguros-terremoto/" target="_blank"><strong>Pequeño cerdo capitalista</strong></a> crearon una guía colaborativa para reclamar seguros por terremoto.<br>
 	   		<a class="button button-primary" href="https://www.dropbox.com/s/pedizh9i2jivh3c/Guía%20para%20reclamar%20seguros%20por%20terremoto%20%202017.09.22.pdf?dl=1" target="_blank">
 	        Descargar guía </a>
 		</p>
