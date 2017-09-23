@@ -122,7 +122,7 @@ lang: es
 
   <div class="column">
     <h4>Regístrate como voluntario el 23 y 24 de Septiembre</h4>
-    <p>Si este fin de semana estas dispuesto a apoyar a alguien, por favor regístrate <a href="http://www.animalpolitico.com/2017/09/grupos-topos-donaciones/" target="_blank">aquí</a>
+    <p>Si este fin de semana estas dispuesto a apoyar a alguien, por favor regístrate <a href="https://es.surveymonkey.com/r/FuerzaMexico" target="_blank">aquí</a>
     </p>
   </div>
 
