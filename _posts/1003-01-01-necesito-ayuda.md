@@ -10,7 +10,7 @@ lang: es
 </div>
 <div class="row">
   <h3 class="subtitle pink">Teléfonos de Emergencia</h3>
-  En estos momentos cualquier reporte puede marcar la diferencia. Reporta fugas de gas y agua, persona desaparecidas, incendios, entre otros.
+  En estos momentos cualquier reporte puede marcar la diferencia. Reporta fugas de gas y agua, personas desaparecidas, incendios, entre otros.
 </div>
 <div class="row">
   <div class="column one-half">
@@ -91,9 +91,9 @@ lang: es
 		<p>  En <a href="http://www.pequenocerdocapitalista.com/guia-reclamar-seguros-terremoto/" target="_blank"><strong>Pequeño cerdo capitalista</strong></a> crearon una <a href="https://www.dropbox.com/s/pedizh9i2jivh3c/Guía%20para%20reclamar%20seguros%20por%20terremoto%20%202017.09.22.pdf?dl=1" target="_blank">guía colaborativa para reclamar seguros por terremoto</a>.
 		</p>
 		<p> La <strong>Red Pro Bono de México,</strong> brigadas jurídicas para las personas afectadas.</p>
-    <p> Llenar formato: en <a href="http://www.appleseedmexico.org/ong-2" target="_blank">http://www.appleseedmexico.org/ong-2</a><br>
+    <p> Llenar formato en <a href="http://www.appleseedmexico.org/ong-2" target="_blank">http://www.appleseedmexico.org/ong-2</a><br>
 			Tel: <a href="tel:75839623">75839623</a>, Whatsapp: 5530474513<br>
-			Correo: mvazquez@appleseedmexico.org
+      Correo: <a href="mailto:mvazquez@appleseedmexico.org">mvazquez@appleseedmexico.org</a>
 		</p>
 	</div>
 </div>
