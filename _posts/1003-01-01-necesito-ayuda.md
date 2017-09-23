@@ -86,19 +86,18 @@ lang: es
 		+ Sismo México org<br>
 		<a target="_blank" rel="noopener noreferrer" href="http://sismomexico.org/">http://sismomexico.org/</a> <br>
 	</div>
-	<div class="one-half column"></div>
-	<h2 class="subtitle pink">Asesoría Jurídica</h2>
-	<p> En <strong>Pequeño cerdo capitalista</strong> crearon una guía colaborativa para reclamar  seguros por terremoto <br>
-   		<a class="button button-primary" href="https://www.dropbox.com/s/pedizh9i2jivh3c/Guía%20para%20reclamar%20seguros%20por%20terremoto%20%202017.09.22.pdf?dl=1">
-        Descargar guía </a>
-	</p>
-  <p> La <strong>Red Pro Bono de México,</strong> brigadas jurídicas para las personas afectadas.</p>
-	<p>
-		Llenar formato: en http://www.appleseedmexico.org/ong-2/ <br>
-		Tel: 75839623, Whatsapp: 5530474513 <br>
-		Correo: mvazquez@appleseedmexico.org
-
-	</p>
+	<div class="one-half column">
+		<h2 class="subtitle pink">Asesoría Jurídica</h2>
+		<p>  En <a href="http://www.pequenocerdocapitalista.com/guia-reclamar-seguros-terremoto/" target="_blank"><strong>Pequeño cerdo capitalista</strong></a> crearon una guía colaborativa para reclamar seguros por terremoto <br>
+	   		<a class="button button-primary" href="https://www.dropbox.com/s/pedizh9i2jivh3c/Guía%20para%20reclamar%20seguros%20por%20terremoto%20%202017.09.22.pdf?dl=1" target="_blank">
+	        Descargar guía </a>
+		</p>
+		<p> La <strong>Red Pro Bono de México,</strong> brigadas jurídicas para las personas afectadas.</p>
+		<p> Llenar formato: en http://www.appleseedmexico.org/ong-2/ <br>
+			Tel: 75839623, Whatsapp: 5530474513 <br>
+			Correo: mvazquez@appleseedmexico.org
+		</p>
+	</div>
 
 
 </div>
