@@ -42,15 +42,15 @@ lang: es
       <h2 class="subtitle pink clearfix">Contribuye con código</h2>
         <p>Dona tus habilidades entrando al <a href="https://github.com/CodeandoMexico/terremoto-cdmx" target="_blank">github de CodeandoMexico</a> o al <a href="http://slack.codeandomexico.org" target="_blank">canal de Slack</a> y colabora en los siguientes proyectos.</p>
 
-      <p><a href="http://sismomexico.org/"><strong>Website (#sismomx-website)</strong></a></p>
+      <p><a target="_blank" href="http://sismomexico.org/"><strong>Website (#sismomx-website)</strong></a></p>
 
-      <p><a href="https://github.com/Skycatch/acopio-api"><strong>API de centros de acopios (@javierbyte @chubas @rbdr)</strong></a></p>
+      <p><a target="_blank" href="https://github.com/Skycatch/acopio-api"><strong>API de centros de acopios (@javierbyte @chubas @rbdr)</strong></a></p>
 
-      <p><a href="https://github.com/civica-digital/quake-relief-cdmx"><strong>App de priorización de necesidad para vincular con centros de acopio</strong></a></p>
+      <p><a target="_blank" href="https://github.com/civica-digital/quake-relief-cdmx"><strong>App de priorización de necesidad para vincular con centros de acopio</strong></a></p>
 
-      <p><a href="https://sismomx-sms.herokuapp.com"><strong>App de SMS (@denialtorres @perezpriego)</strong></a></p>
+      <p><a target="_blank" href="https://sismomx-sms.herokuapp.com"><strong>App de SMS (@denialtorres @perezpriego)</strong></a></p>
 
-      <p><a href="https://github.com/Garyi/Filtro-Informaci-n-Valiosa-Terremoto-Twitter"><strong>Obtención de información a partir de Twitter (@Edgar_Arroyo)</strong></a></p>
+      <p><a target="_blank" href="https://github.com/Garyi/Filtro-Informaci-n-Valiosa-Terremoto-Twitter"><strong>Obtención de información a partir de Twitter (@Edgar_Arroyo)</strong></a></p>
 
     </div>
 
@@ -153,6 +153,3 @@ lang: es
       </p>
     </div>
   </div>
-  
-
-
