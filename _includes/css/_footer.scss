@@ -1,0 +1,18 @@
+#footer {
+  padding: 8px 0;
+  min-height: 0;
+  text-align: center;
+  background-color: #2e2e2e;
+  background-image: none;
+  .container p { font-size: 13px; margin: 0; }
+  ul {
+    color: #FFF;
+  }
+  li {
+    text-transform: uppercase;
+  }
+  a {
+    color: inherit;
+    text-transform: inherit;
+  }
+}

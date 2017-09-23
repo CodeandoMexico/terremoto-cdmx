@@ -1,0 +1,26 @@
+- label:
+    es: Emergencias en Tultepec
+  phoneNumbers:
+    - "01 800 696 9696"
+
+- label:
+    es: Emergencias
+  phoneNumbers:
+    - "066"
+
+- label:
+    es: Seguridad Pública del Estado
+  phoneNumbers:
+    - "(77) 7101 1000"
+
+- label:
+    es: Protección Civil
+  phoneNumbers:
+    - "(77) 7100 0515"
+    - "(77) 7100 0517"
+
+- label:
+    es: Cruz Roja
+  phoneNumbers:
+    - "(77) 7315 3505"
+    - "(77) 7315 3555"

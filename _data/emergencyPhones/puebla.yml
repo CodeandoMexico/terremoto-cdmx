@@ -1,0 +1,14 @@
+- label:
+    es: Cruz Roja
+  phoneNumbers:
+    - "(22) 213 7700"
+
+- label:
+    es: Locatel
+  phoneNumbers:
+    - "(22) 211 7800"
+
+- label:
+    es: Bomberos
+  phoneNumbers:
+    - "(22) 245 8001"

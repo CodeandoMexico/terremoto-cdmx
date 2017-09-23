@@ -12,12 +12,12 @@ markdown: kramdown
 
 
 ### content configuration ###
-title:       "Terremoto CDMX - Equipo Humanitario de Codeando México"
-keywords:    "terremoto, cdmx, mexico, tecnologia"
-description: "Tecnología de respuesta rápida ante el terremoto de CDMX"
+title:       "Sismo CDMX - Información del sismo en la CDMX y el centro de Mexico."
+keywords:    "terremoto, cdmx, mexico, sismocdmx, bancos de sangre, hospital, albergues, zona de riesgo, donar, ciudad de mexico, proteccion civil"
+description: "Encuentra centros de acopio, hospitales, reportes ciudadanos y como ayudar la CDMX y zonas cercanas afectados por el sismo."
 source_link: "https://odd17.codeandomexico.org"
 favicon:     "favicon.ico"
-touch_icon:  "assets/img/apple-icon.png"
+touch_icon:  "assets/img/apple-touch-icon.png"
 google_analytics: "UA-106756325-1"
 
 
@@ -37,9 +37,11 @@ kramdown:
 
 plugins:
   - jekyll-polyglot
+  - jekyll-seo-tag
 
-assets: 
+assets:
   css: assets/css/
+  js: assets/js/
   img: assets/img/
   svg: assets/svg/
 

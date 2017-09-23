@@ -5,7 +5,7 @@
   display: -o-flex;
   display: flex;
   align-items: center;
-  font-family: 'Roboto Mono', monospace;
+  font-family: 'Helvetica', 'Arial', sans-serif;
 }
 
 #intro {
@@ -25,4 +25,8 @@ h1 {
 
 a[href^="tel:"] {
     text-decoration-style: dotted;
+}
+
+.lazy-button {
+  margin: 20px;
 }

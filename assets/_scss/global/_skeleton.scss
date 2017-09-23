@@ -3,7 +3,6 @@
 // Main content
 .smx-main-content {
   h1 {
-
   }
 }
 
@@ -16,3 +15,85 @@
 .smx-telefonos {
   padding: 25px 0;
 }
+
+.smx-faq {
+  word-wrap: break-word;
+}
+
+// Footer
+#footer {
+  background-color: black;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  .has_icons{
+    text-align: right;
+    a {
+      margin: 0 0.75em;
+    }
+    i {
+      font-size:32px;
+      color:white;
+    }
+  }
+}
+
+@media screen and (min-width: 768px) {
+  .footer .has_icons { text-align: left; }
+}
+
+.footer_links {
+  li {
+    color: #fff;
+    text-transform: uppercase;
+  }
+
+  a {
+    color: inherit;
+    text-decoration: none;
+    text-transform: inherit;
+  }
+}
+
+  .half {
+    color:$smx-white-color;
+    float: left;
+    width:50%;
+    margin-bottom: 10px;
+    padding-left: 30px;
+    padding-top: 10px;
+  }
+
+    .ul {
+      list-style: none;
+      li {
+        font-size: 16px;
+        font-weight: $smx-font-bolder;
+        text-transform: uppercase;
+
+        a {
+          text-decoration: none;
+          color: $smx-white-color;
+
+          &:hover {
+            color: $smx-pink-color;
+          }
+        }
+
+        &.active {
+          a {
+            color: $smx-pink-color;
+
+            &:hover {
+              color: lighten($smx-pink-color, 5%);
+            }
+          }
+        }
+      }
+    }
+  .logo-row{
+    width: 50%;
+    float:left;
+    margin-top: 20px;
+    padding-right: 60px;
+    padding-bottom: 40px;
+  }
