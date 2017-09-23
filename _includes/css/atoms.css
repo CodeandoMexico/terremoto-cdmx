@@ -1,0 +1,32 @@
+.section {
+  display: -webkit-flex;
+  display: -moz-flex;
+  display: -ms-flex;
+  display: -o-flex;
+  display: flex;
+  align-items: center;
+  font-family: 'Helvetica', 'Arial', sans-serif;
+}
+
+#intro {
+  background-position: fixed;
+  background-size: cover;
+}
+
+@media (min-width: 1224px) {
+ #intro {
+  background-image: url(img/home-bg.jpg);
+ }
+}
+
+h1 {
+  font-size: 48px;
+}
+
+a[href^="tel:"] {
+    text-decoration-style: dotted;
+}
+
+.lazy-button {
+  margin: 20px;
+}

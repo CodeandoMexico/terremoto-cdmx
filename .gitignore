@@ -1,0 +1,20 @@
+_site/*
+
+# dependencies
+/node_modules
+.sass-cache
+
+# IDEs and editors
+/.idea
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+/.vscode
+.*.sw[po]
+
+# System Files
+.DS_Store
+Thumbs.db

@@ -1,0 +1,55 @@
+port: 4000
+host: 0.0.0.0
+safe: false
+
+
+### site serving configuration ###
+exclude: [CNAME, README.md, .gitignore]
+permalink : /:year
+timezone: null
+lsi: false
+markdown: kramdown
+
+
+### content configuration ###
+title:       "Sismo CDMX - Información del sismo en la CDMX y el centro de Mexico."
+keywords:    "terremoto, cdmx, mexico, sismocdmx, bancos de sangre, hospital, albergues, zona de riesgo, donar, ciudad de mexico, proteccion civil"
+description: "Encuentra centros de acopio, hospitales, reportes ciudadanos y como ayudar la CDMX y zonas cercanas afectados por el sismo."
+source_link: "https://odd17.codeandomexico.org"
+favicon:     "favicon.ico"
+touch_icon:  "assets/img/apple-touch-icon.png"
+google_analytics: "UA-106756325-1"
+
+
+### template colors, used site-wide via css ###
+colors:
+  black:     '#333333'
+  white:     '#ffffff'
+  gray:      '#fafafa'
+  blue:      '#f3476d'
+  yellow:    '#f7c824'
+  intro:     '#3B82C1'
+  phones:    '#ed7950'
+  map:       '#578e77'
+
+kramdown:
+  auto_ids:  false
+
+plugins:
+  - jekyll-polyglot
+  - jekyll-seo-tag
+
+assets:
+  css: assets/css/
+  js: assets/js/
+  img: assets/img/
+  svg: assets/svg/
+
+sass:
+  sass_dir: assets/_scss
+  style: :compressed
+
+languages: ["es", "en"]
+default_lang: "es"
+exclude_from_localization: ["img"]
+parallel_localization: true

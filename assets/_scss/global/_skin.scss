@@ -1,0 +1,121 @@
+// Global
+
+body {
+  background: $smx-background-color;
+  font-family: $smx-font-family;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: $smx-font-family;
+}
+
+// Main content
+.smx-main-content {
+  h1 {
+    text-align: center;
+    font-weight: $smx-font-bolder;
+    color: $smx-pink-color;
+    font-size: 48px;
+  }
+}
+
+// Intro section
+.smx-intro {
+  background: $smx-black-color;
+  background: url(../img/home-bg.png);
+  background-size: cover;
+  background-position: center;
+  text-align: center;
+  color: $smx-white-color;
+
+  h1 {
+    color: $smx-white-color;
+    font-weight: $smx-font-bolder;
+  }
+
+  p {
+    font-size: 18px;
+  }
+}
+
+// Intro botones
+.smx-botones {
+  background: $smx-pink-color;
+  text-align: center;
+  color: $smx-white-color;
+  padding: 60px 0;
+
+  h2{
+    font-family: $smx-font-family;
+    font-weight: $smx-font-bolder;
+    color: $smx-white-color;
+    font-size: 20px;
+    margin-bottom: 34px;
+    line-height: 24px
+  }
+
+  p {
+    margin: 0 auto 34px;
+    display: block;
+    font-family: $smx-font-family;
+    font-size: 18px;
+    line-height: 21px
+  }
+
+  a[href^="#section-"] {
+    margin: 0 1em;
+  }
+
+  .btn-quiero-ayudar ,
+  .btn-necesito-ayuda {
+    font-family: $smx-font-family;
+    display: inline-block;
+    background-color: $smx-background-color;
+    text-decoration: none;
+    padding: 24px 18px;
+    font-size: 24px;
+    font-weight: $smx-font-bolder;
+    margin-bottom: 20px;
+    cursor: pointer;
+    span {
+      color: $smx-pink-color;
+    }
+  }
+
+  @media only screen and (max-width: 540px) {
+    padding: 60px 0 20px;
+
+    a[href^="#section-"] {
+      margin: 0 0 20px;
+    }
+
+    h2 {
+      margin-bottom: 30px;
+    }
+
+    p {
+      margin-bottom: 40px;
+    }
+
+    .btn-quiero-ayudar ,
+    .btn-necesito-ayuda {
+      width: 100%;
+      margin-bottom: 20px;
+    }
+  }
+
+}
+
+// Phones section
+.smx-telefonos {
+
+}
+
+.lazy-button {
+  margin: 20px;
+}
