@@ -17,11 +17,11 @@ lang: es
 	  
   <hr class="section-line" />  
     <p>
-      <a class="button button-primary" href="https://docs.google.com/spreadsheets/d/1ijleBcHJH_3V2nbMeXTjH4hTDYsjcdodYvHqhTc8C8c/edit#gid=0" target="_blank">
+      <a class="btn" href="https://docs.google.com/spreadsheets/d/1ijleBcHJH_3V2nbMeXTjH4hTDYsjcdodYvHqhTc8C8c/edit#gid=0" target="_blank">
         Reportar daños y derrumbes 
       </a>
 
-      <a class="button button-primary" href="https://docs.google.com/spreadsheets/d/1ijleBcHJH_3V2nbMeXTjH4hTDYsjcdodYvHqhTc8C8c/edit#gid=0" target="_blank">
+      <a class="btn" href="https://docs.google.com/spreadsheets/d/1ijleBcHJH_3V2nbMeXTjH4hTDYsjcdodYvHqhTc8C8c/edit#gid=0" target="_blank">
         Reportar centros de acopio 
       </a>
 
