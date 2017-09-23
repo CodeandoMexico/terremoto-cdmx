@@ -127,7 +127,7 @@ lang: es
   </div>
 
   <h2 class="subtitle pink clearfix">Contribuye con código</h2>
-  <p>Dona tus habilidades entrando al <a href="https://github.com/CodeandoMexico/terremoto-cdmx" target="_blank">github de CodeandoMexico</a> o al <a href="slack.codeandomexico.org" target="_blank">canal de Slack</a> y colabora en los siguientes proyectos.</p>
+  <p>Dona tus habilidades entrando al <a href="https://github.com/CodeandoMexico/terremoto-cdmx" target="_blank">github de CodeandoMexico</a> o al <a href="http://slack.codeandomexico.org" target="_blank">canal de Slack</a> y colabora en los siguientes proyectos.</p>
 </div>
 
 [**Website (#sismomx-website)**](http://sismomexico.org/)
