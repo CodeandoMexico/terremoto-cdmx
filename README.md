@@ -1,40 +1,33 @@
 ![dkqm2ypuqae8hw8](https://user-images.githubusercontent.com/2068301/30724082-18882a9c-9f01-11e7-8ef5-eb002a8ec3fc.jpg)
 Fotografía por [Armando Simonin](https://www.flickr.com/photos/armandosimonin/)
 
+# SISMOMX
 
-
-# TerremotoMX
-
-En septiembre 2017 sismos afectaron a diferentes partes de México.
+En Septiembre 2017 sismos afectaron a diferentes partes de México.
 
 * [Septiembre 7, 2017](https://es.wikipedia.org/wiki/Terremoto_del_sureste_de_M%C3%A9xico_de_2017) con epicentro en Chiapas.
 * [Septiembre 19, 2017](https://es.wikipedia.org/wiki/Terremoto_de_Puebla_de_2017) con epicentro en Puebla.
 
-Hasta ahora los estados con más afectaciones reportadas han sido Oaxaca,
-Chiapas, Ciudad de México, Tlaxcala, Puebla, Guerrero, Morelos y Michoacán.
+Hasta ahora los estados con más afectaciones reportadas han sido Oaxaca, Chiapas, Ciudad de México, Tlaxcala, Puebla, Guerrero, Morelos y Michoacán.
 
 ## Sobre este repositorio
 
-El repositorio contiene un sitio creado a partir del sismo de Septiembre 19
-2017, fue creado inicialmente para concentrar los diferentes esfuerzos de apoyo
-tras el siniestro y proveer información rápidamente a quienes puedan
-necesitarla.
+Este repositorio contiene un sitio web creado a partir del sismo de Septiembre 19, 2017. Fue creado inicialmente para concentrar los diferentes esfuerzos de apoyo tras el siniestro y proveer información rápidamente a quienes puedan necesitarla.
 
-Este proyecto podría ser usado como base para organizar una pronta respuesta en
-caso de desastres posteriores.
+Este proyecto podría ser usado como base para organizar una pronta respuesta en caso de desastres posteriores.
 
-## ¿Cómo Ayudar?
+## ¿Cómo ayudar?
 
 * Únete a un [grupo de trabajo](https://github.com/CodeandoMexico/terremoto-cdmx#grupos-de-trabajo).
-* Súmate al desarrollo de algún [proyecto](https://github.com/CodeandoMexico/terremoto-cdmx#proyectos-abiertas).
+* Súmate al desarrollo de algún [proyecto](https://github.com/CodeandoMexico/terremoto-cdmx#proyectos-abiertos).
 
-La conversación y coordinación de las tareas las estamos llevando en el Slack de Codeando México, dentro del canal de `#equipo-humanitario`. Para unirte a Slack, registrate en http://slack.codeandomexico.org.
+La conversación y coordinación de las tareas las estamos llevando en el Slack de Codeando México, dentro del canal de `#equipo-humanitario`. Para unirte a Slack, registrate en: http://slack.codeandomexico.org.
 
-También puedes [agregar un issue](https://github.com/CodeandoMexico/terremoto-cdmx/issues) con preguntas, ideas o ayuda que necesites (asegúrate de etiquetarlo correctamente).
+También puedes agregar un [issue](https://github.com/CodeandoMexico/terremoto-cdmx/issues) con preguntas, ideas o ayuda que necesites (asegúrate de etiquetarlo correctamente).
 
 ## Grupos de trabajo
 
-Revisa los issues etiquetados para cada grupo de trabajo y únete a la conversación en Slack. Antes de asignarte un Issue, avisa al grupo de trabajo correspondiente en Slack para no duplicar esfuerzos:
+Revisa los issues etiquetados para cada grupo de trabajo y únete a la conversación en Slack. Antes de asignarte un [issue](https://github.com/CodeandoMexico/terremoto-cdmx/issues), avisa al grupo de trabajo correspondiente en Slack para no duplicar esfuerzos:
 
 | Equipo | Slack | Descripción |
 | :--- | :--- | :--- |
@@ -51,7 +44,6 @@ Revisa los issues etiquetados para cada grupo de trabajo y únete a la conversac
 | Project Managers | `#sismomx-pm` | Ayúdanos a organizar mejor los esfuerzos y mejorar procesos. |
 | [Sitio web](https://github.com/CodeandoMexico/terremoto-cdmx/issues?utf8=%E2%9C%93&q=is%3Aissue%20label%3Awebsite%20) | `#sismomx-website` | Ayúdanos a actualizar el sitio web del proyecto. |
 | QA | `#sismomx-qa` | Solicita y contribuye con tareas de testing |
-
 
 ## Proyectos abiertos
 
@@ -88,27 +80,24 @@ Revisa los issues etiquetados para cada grupo de trabajo y únete a la conversac
 
 ### Cómo correr este repositorio en local
 
-Para correr el proyecto en local necesitas
-[Ruby](https://www.ruby-lang.org/es/) mayor de 1.9 y
-[RubyGems](https://rubygems.org/pages/download/).
-
+Para correr el proyecto localmente necesitas [Ruby](https://www.ruby-lang.org/es/) mayor de 1.9 y [RubyGems](https://rubygems.org/pages/download/).
 
 #### Instrucciones para Linux y OSX
 
-```
+```sh
 $ gem install bundler
 $ bundle install
 $ jekyll serve
 ```
 
-#### Intrucciones para desarrollo local con docker
+#### Intrucciones para desarrollo local con Docker
 
-```
+```sh
 $ docker build -t terremoto-cdmx .
-$ docker run -p 4000:4000 terrmoto-cdmx
+$ docker run -p 4000:4000 terremoto-cdmx
 ```
 
-El sistema estará disponible en http://127.0.0.1:4000/
+El sistema estará disponible en <http://127.0.0.1:4000>
 
 ## Licencia
 
