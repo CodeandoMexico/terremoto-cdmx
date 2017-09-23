@@ -79,3 +79,8 @@ h1, h2, h3, h4, h5, h6 {
     background-color: #9bd57b;
   }
 }
+
+a[href^="sms:"],
+a[href^="tel:"] {
+    text-decoration-style: dotted;
+}
