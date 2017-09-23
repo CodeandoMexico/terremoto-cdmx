@@ -1,7 +1,9 @@
 
-*, h1, h2, h3, h4, h5, h6 {
-  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
-
+h1, h2, h3, h4, h5, h6 {
+  font-family: Roboto Mono, Helvetica, Arial, sans-serif;
+}
+*{
+    font-family: Roboto, Helvetica, Arial, sans-serif;
 }
 .title{
   line-height: 2em;
@@ -10,6 +12,7 @@
   color: black;
 }
 .pink{
+    
   color: #F3476D !important;
 }
 .title{
@@ -42,10 +45,11 @@
     padding: 10px 20px;
     background-color: #222423;
     color: #f3476d;
-    /* transition: all 1s; */
+    transition: all .3s;
     border-radius: 0;
     font-size: 24px;
     font-weight: 500;
+    line-height: 45px;
     text-decoration: none;
     text-transform: uppercase;
     &:hover{
