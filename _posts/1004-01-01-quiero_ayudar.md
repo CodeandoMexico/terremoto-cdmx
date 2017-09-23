@@ -12,18 +12,25 @@ lang: es
     <h4>Mapea con OpenStreetMap</h4>
     <p>Ayuda al equipo de OpenStreetMap a mapear <a href="http://tasks.hotosm.org/project/3597" target="_blank">esta zona</a></p>
     <h4>Colabora agregando Centros de Acopio y ayuda a esta base</h4>
-    <p>Necesitamos gente que ayude a mantener actualizada la información de lo que falta en los diferentes centros de acopio. Si estás en uno, o puedes ir a uno cercano únete y que la ayuda sea efectiva. <b>Envía mensaje al 5529692068, 5545333530, 5534810377. Haremos 3 turnos mañana, tarde y noche</b>.</p>
-      <a class="btn" href="https://docs.google.com/spreadsheets/d/1ijleBcHJH_3V2nbMeXTjH4hTDYsjcdodYvHqhTc8C8c/edit#gid=447869804" target="_blank">Agrega centros de acopio.</a>
-	  
-  <hr class="section-line" />  
+    <p>Necesitamos gente que ayude a mantener actualizada la información de lo que falta en los diferentes centros de acopio. Si estás en uno, o puedes ir a uno cercano únete y que la ayuda sea efectiva. Envía mensaje al 5529692068, 5545333530, 5534810377. Haremos 3 turnos mañana, tarde y noche.</p>
+    <div class="call-to">
+    <a href="https://docs.google.com/spreadsheets/d/1ijleBcHJH_3V2nbMeXTjH4hTDYsjcdodYvHqhTc8C8c/edit#gid=447869804" target="_blank">Agrega centros de acopio.</a>
+    </div>
+	</div>
+  <hr class="section-line">  
     <p>
-      <a class="btn" href="https://docs.google.com/spreadsheets/d/1ijleBcHJH_3V2nbMeXTjH4hTDYsjcdodYvHqhTc8C8c/edit#gid=0" target="_blank">
+      <a class="button button-primary" href="https://docs.google.com/spreadsheets/d/1ijleBcHJH_3V2nbMeXTjH4hTDYsjcdodYvHqhTc8C8c/edit#gid=0">
         Reportar daños y derrumbes 
       </a>
 
-      <a class="btn" href="https://docs.google.com/spreadsheets/d/1ijleBcHJH_3V2nbMeXTjH4hTDYsjcdodYvHqhTc8C8c/edit#gid=0" target="_blank">
+      <a class="button button-primary" href="https://docs.google.com/spreadsheets/d/1ijleBcHJH_3V2nbMeXTjH4hTDYsjcdodYvHqhTc8C8c/edit#gid=0">
         Reportar centros de acopio 
       </a>
+
+      <a class="button button-primary" href="https://docs.google.com/spreadsheets/d/1ijleBcHJH_3V2nbMeXTjH4hTDYsjcdodYvHqhTc8C8c/edit#gid=0">
+        Reportar daños y derrumbes 
+      </a>
+
 
     </p>
 
@@ -119,13 +126,6 @@ lang: es
     <h4>Si eres Ingeniero Civil</h4>
     <p>Si eres ingeniero civil, arquitecto, médico o carrera a fin, se solicitan voluntarios para asistir a Protección Civil en la revisión de edificios. Ponerse en contacto con Alfonso Rivero al celular 55 4448 7863.</p>
   </div>
-
-  <div class="column">
-    <h4>Regístrate como voluntario el 23 y 24 de Septiembre</h4>
-    <p>Si este fin de semana estas dispuesto a apoyar a alguien, por favor regístrate <a href="https://es.surveymonkey.com/r/FuerzaMexico" target="_blank">aquí</a>
-    </p>
-  </div>
-
   <h2 class="subtitle pink clearfix">Contribuye con código</h2>
   <p>Dona tus habilidades entrando al <a href="https://github.com/CodeandoMexico/terremoto-cdmx" target="_blank">github de CodeandoMexico</a> o al <a href="slack.codeandomexico.org" target="_blank">canal de Slack</a> y colabora en los siguientes proyectos.</p>
 </div>
