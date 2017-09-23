@@ -101,7 +101,7 @@ lang: es
   <hr class="section-line">
   <h2 class="subtitle pink clearfix">Dona Depositando</h2>
   <div class="column">
-    <p>Entra a <a href="https://comoayudar.mx/" target="_blank">comoayudar.mx</a> y podrás consultar un amplio listado de sitios y cuentas dónde donar.</p>
+    <p>Entra a <a href="http://comoayudar.mx/" target="_blank">comoayudar.mx</a> y podrás consultar un amplio listado de sitios y cuentas dónde donar.</p>
     <p><a href="http://www.animalpolitico.com/2017/09/grupos-topos-donaciones/" target="_blank">¿Los topos aceptan donaciones?</a></p>
   </div>
   <hr class="section-line">
