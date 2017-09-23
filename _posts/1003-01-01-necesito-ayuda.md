@@ -87,7 +87,7 @@ lang: es
 	<h2 class="subtitle pink">Asesoría Jurídica</h2>
 	<p> La <strong>Red Pro Bono de México,</strong> brigadas jurídicas para las personas afectadas.</p>
 	<p>
-		Llenar formato: en http://www.appleseedmexico.org/ong-2/ <br>
+		Llenar formato: en <a target="_blank" rel="noopener noreferrer" href="http://www.appleseedmexico.org/ong-2/ ">http://www.appleseedmexico.org/ong-2/ </a><br>
 		Tel: 75839623, Whatsapp: 5530474513 <br>
 		Correo: mvazquez@appleseedmexico.org
 
