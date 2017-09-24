@@ -1,14 +1,17 @@
 - label:
     es: Cruz Roja
+    en: Red Cross
   phoneNumbers:
     - "(22) 213 7700"
 
 - label:
     es: Locatel
+    en: Locatel (missing people)
   phoneNumbers:
     - "(22) 211 7800"
 
 - label:
     es: Bomberos
+    en: Fire Department
   phoneNumbers:
     - "(22) 245 8001"

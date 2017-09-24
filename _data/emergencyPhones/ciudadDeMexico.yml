@@ -1,31 +1,37 @@
 - label:
     es: Protección Civil
+    en: Civil Protection
   phoneNumbers:
     - "(55) 5683 2222"
     - "(55) 5277 4177"
 
 - label:
     es: Emergencias
+    en: Emergencies
   phoneNumbers:
     - "911"
 
 - label:
     es: Sistema de Aguas
+    en: Water Comission
   phoneNumbers:
     - "(55) 5654 3210"
 
 - label:
-    es: Fugas
+    es: Fugas de gas
+    en: Gas leaks
   phoneNumbers:
     - "(55) 5654 3210"
 
 - label:
     es: Locatel
+    en: Locatel (missing people)
   phoneNumbers:
     - "(55) 5658 1111"
 
 - label:
     es: Bomberos
+    en: Fire Department
   phoneNumbers:
     - "911"
     - "(55) 5768 3800"
@@ -33,6 +39,7 @@
 
 - label:
     es: Cruz Roja
+    en: Red Cross
   phoneNumbers:
     - "911"
     - "065"
@@ -40,10 +47,12 @@
 
 - label:
     es: Reporte Fallas CFE
+    en: Report electrical failures (CFE)
   phoneNumbers:
     - "071"
 
 - label:
     es: Información IMSS
+    en: Public health insurance (IMSS)
   phoneNumbers:
     - "01 800 623 2323"
