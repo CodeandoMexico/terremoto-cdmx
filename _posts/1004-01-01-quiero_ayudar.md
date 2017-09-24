@@ -31,14 +31,17 @@ lang: es
               Reportar centros de acopio 
             </a>
           </p>
+          <hr class="section-line" /> 
       </div>
 
+      <hr class="section-line" /> 
       <h2 class="subtitle pink clearfix">Dona Depositando</h2>
       <div class="column">
           <p>En <a href="http://comoayudar.mx" target="_blank">comoayudar.mx</a> podrás consultar un amplio listado de sitios y cuentas dónde donar.</p>
           <p><a href="http://www.animalpolitico.com/2017/09/grupos-topos-donaciones/" target="_blank">¿Los topos aceptan donaciones?</a></p>
       </div>
         
+      <hr class="section-line" /> 
       <h2 class="subtitle pink clearfix">Contribuye con código</h2>
         <p>Dona tus habilidades entrando al <a href="https://github.com/CodeandoMexico/terremoto-cdmx" target="_blank">github de CodeandoMexico</a> o al <a href="http://slack.codeandomexico.org" target="_blank">canal de Slack</a> y colabora en los siguientes proyectos.</p>
 
@@ -140,7 +143,7 @@ lang: es
       </ul>
       <p>Se sugiere no llevar comida preparada pues se echa a perder.</p>
     </div>
-    
+    <hr class="section-line" /> 
     <h2 class="subtitle pink clearfix">Otras Formas de Ayudar</h2>
     <div class="column">
       <h4>Si eres Ingeniero Civil</h4>
