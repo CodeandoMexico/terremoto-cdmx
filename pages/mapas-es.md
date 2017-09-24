@@ -5,4 +5,8 @@ lang: es
 layout: page
 ---
 
-sup
+
+{% for mapa in site.data.mapas %}
+{{ mapa.name }}
+<iframe src="{{ mapa.iframe }}" />
+{% endfor %}
