@@ -20,9 +20,9 @@ lang: es
         <h4>Colabora agregando Centros de Acopio y ayuda a esta base</h4>
         <p>Necesitamos gente que ayude a mantener actualizada la información de lo que falta en los diferentes centros de acopio. Si estás en uno, o puedes ir a uno cercano únete y que la ayuda sea efectiva. <b>Envía un SMS al <a href="sms:5529692068">5529692068</a>, <a href="sms:5545333530">5545333530</a>, <a href="sms:5534810377">5534810377</a>. Haremos 3 turnos mañana, tarde y noche</b>.</p>
           <a class="btn" href="https://docs.google.com/spreadsheets/d/1ijleBcHJH_3V2nbMeXTjH4hTDYsjcdodYvHqhTc8C8c/edit#gid=447869804" target="_blank">Agregar centros de acopio</a>
-        
-        <hr class="section-line" /> 
-
+   </div>
+   <hr class="section-line" /> 
+   <div class="column">
           <p>
             <a class="btn" href="https://docs.google.com/spreadsheets/d/1ijleBcHJH_3V2nbMeXTjH4hTDYsjcdodYvHqhTc8C8c/edit#gid=0" target="_blank">
               Reportar daños y derrumbes 
@@ -33,24 +33,26 @@ lang: es
           </p>
       </div>
 
+      <hr class="section-line" /> 
       <h2 class="subtitle pink clearfix">Dona Depositando</h2>
       <div class="column">
           <p>En <a href="http://comoayudar.mx" target="_blank">comoayudar.mx</a> podrás consultar un amplio listado de sitios y cuentas dónde donar.</p>
           <p><a href="http://www.animalpolitico.com/2017/09/grupos-topos-donaciones/" target="_blank">¿Los topos aceptan donaciones?</a></p>
       </div>
         
+      <hr class="section-line" /> 
       <h2 class="subtitle pink clearfix">Contribuye con código</h2>
         <p>Dona tus habilidades entrando al <a href="https://github.com/CodeandoMexico/terremoto-cdmx" target="_blank">github de CodeandoMexico</a> o al <a href="http://slack.codeandomexico.org" target="_blank">canal de Slack</a> y colabora en los siguientes proyectos.</p>
 
-      <p><a href="http://sismomexico.org/"><strong>Website (#sismomx-website)</strong></a></p>
+      <p><a target="_blank" href="http://sismomexico.org/"><strong>Website (#sismomx-website)</strong></a></p>
 
-      <p><a href="https://github.com/Skycatch/acopio-api"><strong>API de centros de acopios (@javierbyte @chubas @rbdr)</strong></a></p>
+      <p><a target="_blank" href="https://github.com/Skycatch/acopio-api"><strong>API de centros de acopios (@javierbyte @chubas @rbdr)</strong></a></p>
 
-      <p><a href="https://github.com/civica-digital/quake-relief-cdmx"><strong>App de priorización de necesidad para vincular con centros de acopio</strong></a></p>
+      <p><a target="_blank" href="https://github.com/civica-digital/quake-relief-cdmx"><strong>App de priorización de necesidad para vincular con centros de acopio</strong></a></p>
 
-      <p><a href="https://sismomx-sms.herokuapp.com"><strong>App de SMS (@denialtorres @perezpriego)</strong></a></p>
+      <p><a target="_blank" href="https://sismomx-sms.herokuapp.com"><strong>App de SMS (@denialtorres @perezpriego)</strong></a></p>
 
-      <p><a href="https://github.com/Garyi/Filtro-Informaci-n-Valiosa-Terremoto-Twitter"><strong>Obtención de información a partir de Twitter (@Edgar_Arroyo)</strong></a></p>
+      <p><a target="_blank" href="https://github.com/Garyi/Filtro-Informaci-n-Valiosa-Terremoto-Twitter"><strong>Obtención de información a partir de Twitter (@Edgar_Arroyo)</strong></a></p>
 
     </div>
 
@@ -140,17 +142,10 @@ lang: es
       </ul>
       <p>Se sugiere no llevar comida preparada pues se echa a perder.</p>
     </div>
-    
+    <hr class="section-line" /> 
     <h2 class="subtitle pink clearfix">Otras Formas de Ayudar</h2>
     <div>
       <h4>Si eres Ingeniero Civil</h4>
       <p>Si eres ingeniero civil, arquitecto, médico o carrera a fin, se solicitan voluntarios para asistir a Protección Civil en la revisión de edificios. Ponerse en contacto con Alfonso Rivero al celular <a href="tel:5544487863">55 4448 7863</a>.</p>
     </div>
-
-    <div>
-      <h4>Regístrate como voluntario el 23 y 24 de Septiembre</h4>
-      <p>Si este fin de semana estas dispuesto a apoyar a alguien, por favor regístrate <a href="https://es.surveymonkey.com/r/FuerzaMexico" target="_blank">aquí</a>
-      </p>
-    </div>
   </div>
-  

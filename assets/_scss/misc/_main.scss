@@ -93,3 +93,30 @@ a[href^="sms:"],
 a[href^="tel:"] {
     text-decoration-style: dotted;
 }
+
+.main-logo {
+  width: 200px;
+  margin: 0 auto;
+
+  @media screen and (max-width: 768px) {
+    width: 70px; 
+
+    position: absolute;
+    left: 0;
+
+  }
+
+  img {
+    width: 100%;
+  }
+}
+
+
+#section-botones {
+  .description {
+
+    max-width: 480px;
+    width: 100%;
+    margin: 0 auto 34px auto;
+  }
+}
