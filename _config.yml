@@ -4,7 +4,7 @@ safe: false
 
 
 ### site serving configuration ###
-exclude: [CNAME, README.md, .gitignore]
+exclude: [README.md, .gitignore, vendor, .circleci]
 permalink : /:year
 timezone: null
 lsi: false
