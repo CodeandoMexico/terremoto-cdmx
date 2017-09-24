@@ -1,5 +1,6 @@
 ---
 ---
+{%- assign langSuffix = '-' | append: site.active_lang -%}
 <!DOCTYPE html>
 <html>
 <head>
@@ -64,7 +65,7 @@
 
 <main class="smx-main-content">
     {% for page in site.posts reversed %}
-    {% capture id %}{{ page.id | remove:'/' | downcase }}{% endcapture %}
+    {% capture id %}{{ page.id | remove: '/' | remove: langSuffix | downcase }}{% endcapture %}
     <section class="smx-{{ id }}" id="section-{{id}}">
         <div class="container">
             {{ page.content }}

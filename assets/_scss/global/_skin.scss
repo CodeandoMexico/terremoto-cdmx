@@ -16,7 +16,7 @@ h6 {
 
 h6.categoria {
     display: inline-block;
-    background: lighten( $smx-pink-color, 30% ); 
+    background: lighten( $smx-pink-color, 30% );
     color: $smx-black-color;
     padding: 5px 10px;
   }
@@ -57,8 +57,10 @@ h6.categoria {
 }
 
 .en-linea {
-  padding-left: 10px;
-  border-left: lighten( $smx-pink-color, 30% ) 5px solid;
+  @media (min-width: 480px) {
+    padding-left: 10px;
+    border-left: lighten( $smx-pink-color, 30% ) 5px solid;
+  }
 }
 
 .en-persona {
@@ -123,10 +125,6 @@ h6.categoria {
   @media only screen and (max-width: 540px) {
     padding: 60px 0 20px;
 
-    a[href^="#section-"] {
-      margin: 0 0 20px;
-    }
-
     h2 {
       margin-bottom: 30px;
     }
@@ -142,6 +140,11 @@ h6.categoria {
     }
   }
 
+  @media only screen and (max-width: 768px) {
+    a[href^="#section-"] {
+      margin: 0 0 20px;
+    }
+  }
 }
 
 // Phones section
