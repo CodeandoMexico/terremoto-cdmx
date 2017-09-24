@@ -142,12 +142,12 @@ lang: es
     </div>
     
     <h2 class="subtitle pink clearfix">Otras Formas de Ayudar</h2>
-    <div class="column">
+    <div>
       <h4>Si eres Ingeniero Civil</h4>
       <p>Si eres ingeniero civil, arquitecto, médico o carrera a fin, se solicitan voluntarios para asistir a Protección Civil en la revisión de edificios. Ponerse en contacto con Alfonso Rivero al celular <a href="tel:5544487863">55 4448 7863</a>.</p>
     </div>
 
-    <div class="column">
+    <div>
       <h4>Regístrate como voluntario el 23 y 24 de Septiembre</h4>
       <p>Si este fin de semana estas dispuesto a apoyar a alguien, por favor regístrate <a href="https://es.surveymonkey.com/r/FuerzaMexico" target="_blank">aquí</a>
       </p>
