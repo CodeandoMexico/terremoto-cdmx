@@ -50,6 +50,7 @@ lang: es
 </div>
 
 <div class="row">
+  <hr class="section-line">
 	<h2 class="subtitle pink">Estoy buscando a Alguien</h2>
 	<div class="icontain">
 		<a class="btn" href="https://google.org/personfinder/2017-puebla-mexico-earthquake" target="_blank" rel="noopener noreferrer">Google Person Finder</a>
