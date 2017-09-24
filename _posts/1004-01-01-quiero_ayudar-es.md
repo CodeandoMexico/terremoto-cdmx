@@ -144,7 +144,7 @@ lang: es
     </div>
     <hr class="section-line" /> 
     <h2 class="subtitle pink clearfix">Otras Formas de Ayudar</h2>
-    <div class="column">
+    <div>
       <h4>Si eres Ingeniero Civil</h4>
       <p>Si eres ingeniero civil, arquitecto, médico o carrera a fin, se solicitan voluntarios para asistir a Protección Civil en la revisión de edificios. Ponerse en contacto con Alfonso Rivero al celular <a href="tel:5544487863">55 4448 7863</a>.</p>
     </div>

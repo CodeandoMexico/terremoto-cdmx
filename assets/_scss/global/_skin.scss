@@ -63,7 +63,20 @@ h6.categoria {
   }
 }
 
-
+.en-persona {
+  @media (min-width: 480px) {
+    padding-left: 10px;
+    border-left: lighten( $smx-pink-color, 30% ) 5px solid;
+  }
+  .column.one-third {
+    @media (min-width: 768px) {
+      width: 229px;
+    }
+    @media (min-width: 960px) {
+      width: 295px;
+    }
+  }
+}
 
 // Intro botones
 .smx-botones {
