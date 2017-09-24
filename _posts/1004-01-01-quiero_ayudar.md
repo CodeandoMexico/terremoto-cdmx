@@ -20,9 +20,9 @@ lang: es
         <h4>Colabora agregando Centros de Acopio y ayuda a esta base</h4>
         <p>Necesitamos gente que ayude a mantener actualizada la información de lo que falta en los diferentes centros de acopio. Si estás en uno, o puedes ir a uno cercano únete y que la ayuda sea efectiva. <b>Envía un SMS al <a href="sms:5529692068">5529692068</a>, <a href="sms:5545333530">5545333530</a>, <a href="sms:5534810377">5534810377</a>. Haremos 3 turnos mañana, tarde y noche</b>.</p>
           <a class="btn" href="https://docs.google.com/spreadsheets/d/1ijleBcHJH_3V2nbMeXTjH4hTDYsjcdodYvHqhTc8C8c/edit#gid=447869804" target="_blank">Agregar centros de acopio</a>
-        
-        <hr class="section-line" /> 
-
+   </div>
+   <hr class="section-line" /> 
+   <div class="column">
           <p>
             <a class="btn" href="https://docs.google.com/spreadsheets/d/1ijleBcHJH_3V2nbMeXTjH4hTDYsjcdodYvHqhTc8C8c/edit#gid=0" target="_blank">
               Reportar daños y derrumbes 
@@ -31,7 +31,6 @@ lang: es
               Reportar centros de acopio 
             </a>
           </p>
-          <hr class="section-line" /> 
       </div>
 
       <hr class="section-line" /> 
