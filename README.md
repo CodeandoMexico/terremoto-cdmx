@@ -49,35 +49,38 @@ Revisa los issues etiquetados para cada grupo de trabajo y únete a la conversac
 | QA | `#sismomx-qa` | Solicita y contribuye con tareas de testing |
 
 ## Proyectos abiertos
-| Herramienta | Descripción | Canal Slack | Tecnologias | Repositorio |
-| :--- | :--- | :--- | :--- | :---: |
-| [sismomexico.org](http://sismomexico.org) | Sitio web con la recopilación de recursos | #sismomx-website | Jekyll, HTML, CSS, Javascript | <center>[:octocat:](https://github.com/CodeandoMexico/terremoto-cdmx)</center> |
-| [comoayudar.mx](http://comoayudar.mx) | Encuentra una forma en la que puedas ayudar a los afectados | #sismomx-camx | Ruby on Rails | <center>[:octocat:](https://github.com/eldelentes/comoayudarmx)</center> |
-| [Ban Fake News](https://banfakenews.rzerocorp.com) | Reporta noticias falsas sobre el sismoMX | #sismomx-fakenews | PHP, Yii | <center>[:octocat:](https://github.com/RZEROSTERN/banfakenews)</center> |
-| [Mapa Colaborativo](http://mapa.sismomexico.org) | Herramienta para el reporte ciudadano | #sismomx-mapas | Javascript, Express, Socket.io | <center>[:octocat:](https://github.com/miguelsalazar/mapeo_colaborativo)</center>|
-| [Ayuda México](https://play.google.com/store/apps/details?id=io.github.erikcaffrey.ayudamexico) | App de Android para encontrar hospitales, bancos de sangre, centros de acopio y demás recursos de ayuda | #sismomx-app | Java | <center>[:octocat:](https://github.com/erikcaffrey/AyudaMexico)</center> |
-| Acopio API | API para conectarse a base de datos de centros de acopio | #sismomx-acopio-api | Javascript, Hapi | <center>[:octocat:](https://github.com/azubieta/hgathering-api)</center> |
-| Tweetbot desaparecidos, sismo 2017 | Bot inteligente en Twitter responde a busquedas de personas | #sismomx-bots | node.js | <center>[:octocat:](https://github.com/regenhans/earthquake-bot)</center> |
-| [SMS Alerts](https://sismomx-sms.herokuapp.com/) | Send SMS alerts for the earthquake in mexico | #sismomx-sms | Ruby on Rails 4.2 | <center>[:octocat:](https://github.com/denialtorres/SMS-ALERTS)</center> |
-| Información Valiosa de Twitter | Filtra información valiosa relacionada al terremoto | #sismomx-bots | Python | <center>[:octocat:](https://github.com/Garyi/Filtro-Informaci-n-Valiosa-Terremoto-Twitter)</center> |
-| [¿Qué Ayuda Necesita México?](https://quake-relief-cdmx.civicadesarrolla.me/) | Encontrar las necesidades más prioritarias por zona para enviar ayuda y notificar | #sismomx-realtime | Ruby on Rails 5 | <center>[:octocat:](https://github.com/civica-digital/quake-relief-cdmx)</center> |
-| [Verificado19s](https://www.coder.mx/) | Verificar reportes de ayuda necesitada y disponible, y mantener fuentes centrales+oficiales | #sismomx-verificado19s | Python | <center>[:octocat:](https://github.com/parismend/Temblor)</center> |
-| [Mi Policía (CDMX)](https://mipolicia.com) | Herramienta para conocer el número de tu cuadrante (SSPCDMX) | #emergencia-sspcdmx | Javascript, Vue.js, Python, GAE | <center>[:octocat:](https://github.com/ayouidaniel/MiPolicia)</center> |
-| Fake News Bot | Bot que distribuye/clasifica información en redes sociales sobre posibles noticias falsas. | #sismomx-fakenews | Python | <center>[:octocat:](https://github.com/tonmona2/twiiter_bot)</center> |
-| [Sismo CDMX](https://goo.gl/1oifAe) | App con BD de hospitalizados, desaparecidos y albergues, con info de bit.ly/rescatecdmx. |  |  | AppSheet |
-| Banco de ayuda | Banco de ayuda para quien se quedó sin casa, comida, etc. | #sismomx-banco-tiempo  | Ruby on Rails | <center>[:octocat:](https://github.com/Janee/sismomx-banco-tiempo)</center> |
-| Acopio API | Sitio de información sobre centros de Acopio en respuesta al sismo en Mexico | #sismomx-acopio-ui | React, Mapbox GL | <center>[:octocat:](https://github.com/Skycatch/acopio-ui)</center> |
-| [Revisa Mi Grieta API](http://digaresc.info/revisamigrieta-api-backend/) | API para solicitar ayuda para revisión de grietas | #sismomx-obras | Google App Engine/Datastore/Storage/Cloud Endpoints, Java 7, OpenApi | <center>[:octocat:](https://github.com/digaresc/revisamigrieta-api-backend)</center> |
-|[Revisa Mi Grieta Bot](http://www.twitter.com/RevisaMiGrieta) | Proyecto para atender alguna de las necesidades después del SismoMX. El bot está diseñado para trabajar con la API de Twitter. | #sismomx-obras | Python | <center>[:octocat:](https://github.com/codersmexico/revisa-mi-grieta-bot)</center> |
-| Verificado 19s | Creación y verificación de reportes de daño y otros metadatos | #sismomx-verificado19s | Python | <center>[:octocat:](https://github.com/parismend/Temblor)</center> |
-| SMS Brigadistas | Un sistema de comunicación con SMS | #sismo-sms-brigadistas | node.js | <center>[:octocat:](https://github.com/rbdr/sms-brigadistas)</center> |
-| Contribuye (Harvest) | | #sismomx-contribuye | | <center>[:octocat:](https://github.com/CodeandoMexico/contribuye-harvest)</center> |
-| Contribuye (Front) | | #sismomx-contribuye | | <center>[:octocat:](https://github.com/CodeandoMexico/contribuye-front)</center> |
-| [Fuerza México](https://play.google.com/store/apps/details?id=com.coders.fuerzamexico&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1) | Aplicación móvil de colaboración para la captura de puntos afectados por los sismos | #sismomx-fuerza-mexico | Android | <center>[:octocat:](https://github.com/kimetrics/add-fuerzamexico-android)</center> |
-| [Localizador de personas hospitalizadas](http://localizador.sismomexico.org) | | | | <center>[:octocat:](https://github.com/JuweTakeheshi/ajuda)</center> |
-| Ajuda | | | iOS, Swift | <center>[:octocat:](https://github.com/JuweTakeheshi/ajuda)</center> |
-| Promesas.mx | Concentramos la información sobre las promesas que se estan haciendo y acciones que se estan indicando por distintos sectores de Gobierno, iniciativas públicas y privadas, organizaciones civiles, fundaciones, etc. | promesasmx.slack.com   | AngularJS | <center>[:octocat:](https://github.com/jorandradefig/promesas.mx)</center> |
-| [471Servicios](https://twitter.com/471servicios) | Bot que informa sobre instituciones gubernamentales en mexico encargadas de servicios | #sismomx-bots | Python | <center>[:octocat:](https://github.com/nusspez/bot-servicios-471)</center> |
+| Proyecto | Descripción | Canal de Slack | Tecnologías | Repositorio |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------|---------------------------|:----------------------------------------------------------------------------------:|
+| [Ayuda México](https://play.google.com/store/apps/details?id=io.github.erikcaffrey.ayudamexico) | Cómo ayudar y buscar ayuda | `#sismomx-ayuda-mexico` | Android | [:octocat:](https://github.com/erikcaffrey/AyudaMexico) |
+| [Acopio API](https://hapi.balterbyte.com/explorer/) | Api para reunir información de los centros de acopio habilitados para apoyar a los damnificados por el sismo en México | `#sismomx-acopio-api` | Loopback, mongodb | [:octocat:](https://github.com/azubieta/hgathering-api) |
+| [Acopio UI](https://acopio.sismomexico.org/) | UI para centros de acopio | `#sismomx-acopio-ui` | React, Mapbox GL | [:octocat:](https://github.com/Skycatch/acopio-ui) |
+| Ajuda | n/a | `#sismomx-mobile` | iOS, | [:octocat:](https://github.com/JuweTakeheshi/ajuda) |
+| [Ban Fake News](https://banfakenews.rzerocorp.com/) | Reporta noticias falsas sobre el sismoMX | `#sismomx-fakenews` | PHP, Yii | [:octocat:](https://github.com/RZEROSTERN/banfakenews) |
+| Banco de tiempo | Herramienta útil para intercambiar servicios por algún tipo de asistencia para aquellos que se hayan quedado sin trabajo y sin hogar | `#sismomx-banco-tiempo` | Rails, React | [:octocat:](http://github.com/Janee/sismomx-banco-tiempo) |
+| [Bot inteligente de información](https://twitter.com/cdmxbot) | Bot para informacion sobre el sismo de cdmx | `#sismomx-bots` | Node | [:octocat:](https://github.com/carlosherrera/cdmxbot) |
+| [bot-471](https://twitter.com/471servicios) | Bot que informa sobre instituciones gubernamentales en mexico encargadas de servicios | `#sismomx-servicios-bot` | Python, tweepy | [:octocat:](https://github.com/nusspez/bot-servicios-471) |
+| [CómoAyudar.MX](http://comoayudar.mx) | Proyecto que ayuda a recopilar la información de asociaciones, entidades, organizaciones, centros de acopio o cualquier forma de ayuda en caso de desastres naturales. | `#sismomx-camx` | HTML5, CSS3 | [:octocat:](https://github.com/eldelentes/comoayudarmx) |
+| [Fake News Bot](https://twitter.com/fakesismo) | Busca tweets, responde a ellos y otorga una lista de tweets con un hashtag específico. | `#sismomx-fakenews` | Python | [:octocat:](https://github.com/tonmona2/twiiter_bot) |
+| [Fuerza Méxco](https://play.google.com/store/apps/details?id=com.coders.fuerzamexico&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1) | Aplicación móvil de colaboración para la captura de puntos afectados por los sismos del 2017 | `#sismomx-fuerza-mexico` | Android | [:octocat:](https://github.com/kimetrics/add-fuerzamexico-android) |
+| [infomME](http://inform-me.org) | Colección de reportes de personas, mascotas y centros de acopio. | n/a | Node, Angular | n/a |
+| Información valiosa de Twitter | Filtra información valiosa relacionada al terremoto 09-19-2017 | `#equipo-humanitario` | Python | [:octocat:](https://github.com/Garyi/Filtro-Informaci-n-Valiosa-Terremoto-Twitter) |
+| Limpieza, validación y georreferenciación de datos | Archivos para la limpieza de datos a partir de kml que fueron trasformados a CSV. | `` | R, Python | [:octocat:](https://github.com/FerDoranNie/geodataLimpiezaSismo) |
+| [Localizador de personas hospitalizadas](http://localizador.sismomexico.org/) | Sitio que recopila la información de personas hospitalizadas tras un desastre natural. | n/a | n/a | n/a |
+| [Mapa Colaborativo](http://mapa.sismomexico.org) | Herramientaque permite a ciudadanos reportar incidentes y los georeferencía. | `#equipo-humanitario` | n/a | [:octocat:](https://github.com/osm-mx/mapeo_colaborativo) |
+| Promesas.mx | Concentramos la información sobre las promesas que se estan haciendo y acciones que se estan indicando por distintos sectores de Gobierno, iniciativas públicas y privadas, organizaciones civiles, fundaciones, etc. | `promesasmx.slack.com` | Angular | [:octocat:](https://github.com/jorandradefig/promesas.mx) |
+| [Qué ayuda necesita México](https://quake-relief-cdmx.civicadesarrolla.me/) | Encontrar las necesidades más prioritarias por zona para enviar ayuda y notificar | `#sismomx-realtime` | Rails | [:octocat:](https://github.com/civica-digital/quake-relief-cdmx) |
+| Reconstruye | n/a | `#sismomx-reconstruye` | n/a | n/a |
+| [Revisa Mi Grieta API](http://digaresc.info/revisamigrieta-api-backend/) | Backend de la aplicación de Revisa Mi Grieta | `#sismomx-obras` | Google App Engine, Java 7 | [:octocat:](https://github.com/digaresc/revisamigrieta-api-backend) |
+| [Revisa Mi Grieta Bot](http://www.twitter.com/RevisaMiGrieta) | Bot para atender algunas de las necesidades después del SismoMX del 19 de Septiembre de 2017 | `#sismomx-obras` | Python | [:octocat:](https://github.com/codersmexico/revisa-mi-grieta-bot) |
+| Revisa Mi Grieta FrontEnd | Revisa Mi Grieta FrontEnd | `#sismomx-daños` | n/a | [:octocat:](http://github.com/digaresc/revisamigrieta-frontend) |
+| [SismoMX Contribuye (Front)](http://contribuye.sismomexico.org) | n/a | `#sismomx-contribuye` | Vue | [:octocat:](https://github.com/CodeandoMexico/contribuye-front) |
+| SismoMX Contribuye (Harvest) | Realtime API dedicada a conectar issues abiertos dentro de repositorios de CodeandoMexico | `#sismomx-contribuye` | Node | [:octocat:](https://github.com/CodeandoMexico/contribuye-harvest) |
+| [Sitio web](http://sismomexico.org) | Sitio web con la recopilación de recursos | `#sismomx-website` | Jekyll | [:octocat:](https://github.com/CodeandoMexico/terremoto-cdmx) |
+| [SMS Alerts](https://sismomx-sms.herokuapp.com/) | Informar y movilizar voluntarios y expertos a través de SMS. | `#equipo-humanitario` | Rails, Twilio | [:octocat:](https://github.com/denialtorres/SMS-ALERTS) |
+| SMS-Brigadistas | Un sistema de comunicación con SMS | `#sismo-sms-brigadistas` | n/a | [:octocat:](https://github.com/rbdr/sms-brigadistas) |
+| Tweetbot desaparecidos | Bot que busca personas desaparecidas durante el sismo y recopila la información en un CSV | `#sismomx-bots` | Node | [:octocat:](http://github.com/regenhans/earthquake-bot) |
+| [Verificado19s](http://verificado19s.org) | Herramienta de crowdsourcing para reportar y verificar los daños y necesidades en terreno. | `#sismomx-verificado19s` | n/a | [:octocat:](https://github.com/parismend/Temblor) |
+| [xAyuda Contáctame](http://xayudacontactame.rykardo.net/) | Sitio que reune gente con necesidades con gente que busca ayudar. | `#sismomx-xayuda` | Js | [:octocat:](https://github.com/Rykardo/xAyudaContactame) |
 
 ## Contribuye con este sitio
 
