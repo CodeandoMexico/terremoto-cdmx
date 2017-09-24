@@ -57,8 +57,10 @@ h6.categoria {
 }
 
 .en-linea {
-  padding-left: 10px;
-  border-left: lighten( $smx-pink-color, 30% ) 5px solid;
+  @media (min-width: 480px) {
+    padding-left: 10px;
+    border-left: lighten( $smx-pink-color, 30% ) 5px solid;
+  }
 }
 
 
