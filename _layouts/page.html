@@ -44,9 +44,15 @@
 
     {% include header.html %}
 
-    {{ content }}
+    <main class="smx-main-content">
+        <section class="container">
+            <h1>{{ page.title }}</h1>
+        </section>
 
-     {% include footer.html %}
+        {{ content }}
+    </main>
+
+    {% include footer.html %}
  <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha256-k2WSCIexGzOj3Euiig+TlR8gA0EmPjuc79OEeY5L45g=" crossorigin="anonymous"></script>
 </body>
 </html>
