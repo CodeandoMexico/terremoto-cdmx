@@ -13,22 +13,27 @@ lang: es
   <h6 class="categoria"> En línea </h6>
   <div class="en-linea">
 
+  <p>
+  <h2 class="subtitle pink">Localiza un Centro de Acopio</h2>
+  <a class="btn" href="https://docs.google.com/spreadsheets/d/1ijleBcHJH_3V2nbMeXTjH4hTDYsjcdodYvHqhTc8C8c/edit#gid=447869804" target="_blank">Centros de acopio</a>
+  </p>
       <h2 class="subtitle pink">Ayúdanos a tener más información</h2>
       <div class="column">
+
         <h4>Mapea con OpenStreetMap</h4>
-        <p>Ayuda al equipo de OpenStreetMap a mapear <a href="http://tasks.hotosm.org/project/3597" target="_blank">esta zona</a></p>
+        <p>Ayuda al equipo de OpenStreetMap a mapear <a href="http://tasks.hotosm.org/project/3597" target="_blank'> esta zona</a></p>
         <h4>Colabora agregando Centros de Acopio y ayuda a esta base</h4>
         <p>Necesitamos gente que ayude a mantener actualizada la información de lo que falta en los diferentes centros de acopio. Si estás en uno, o puedes ir a uno cercano únete y que la ayuda sea efectiva. <b>Envía un SMS al <a href="sms:5529692068">5529692068</a>, <a href="sms:5545333530">5545333530</a>, <a href="sms:5534810377">5534810377</a>. Haremos 3 turnos mañana, tarde y noche</b>.</p>
           <a class="btn" href="https://docs.google.com/spreadsheets/d/1ijleBcHJH_3V2nbMeXTjH4hTDYsjcdodYvHqhTc8C8c/edit#gid=447869804" target="_blank">Agregar centros de acopio</a>
-        
-        <hr class="section-line" /> 
+
+        <hr class="section-line" />
 
           <p>
             <a class="btn" href="https://docs.google.com/spreadsheets/d/1ijleBcHJH_3V2nbMeXTjH4hTDYsjcdodYvHqhTc8C8c/edit#gid=0" target="_blank">
-              Reportar daños y derrumbes 
+              Reportar daños y derrumbes
             </a>
             <a class="btn" href="https://docs.google.com/spreadsheets/d/1ijleBcHJH_3V2nbMeXTjH4hTDYsjcdodYvHqhTc8C8c/edit#gid=0" target="_blank">
-              Reportar centros de acopio 
+              Reportar centros de acopio
             </a>
           </p>
       </div>
@@ -38,7 +43,7 @@ lang: es
           <p>En <a href="http://comoayudar.mx" target="_blank">comoayudar.mx</a> podrás consultar un amplio listado de sitios y cuentas dónde donar.</p>
           <p><a href="http://www.animalpolitico.com/2017/09/grupos-topos-donaciones/" target="_blank">¿Los topos aceptan donaciones?</a></p>
       </div>
-        
+
       <h2 class="subtitle pink clearfix">Contribuye con código</h2>
         <p>Dona tus habilidades entrando al <a href="https://github.com/CodeandoMexico/terremoto-cdmx" target="_blank">github de CodeandoMexico</a> o al <a href="http://slack.codeandomexico.org" target="_blank">canal de Slack</a> y colabora en los siguientes proyectos.</p>
 
@@ -140,7 +145,7 @@ lang: es
       </ul>
       <p>Se sugiere no llevar comida preparada pues se echa a perder.</p>
     </div>
-    
+
     <h2 class="subtitle pink clearfix">Otras Formas de Ayudar</h2>
     <div class="column">
       <h4>Si eres Ingeniero Civil</h4>
@@ -153,4 +158,3 @@ lang: es
       </p>
     </div>
   </div>
-  
