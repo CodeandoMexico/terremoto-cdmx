@@ -1,0 +1,34 @@
+- label:
+    es: Bomberos
+    en: Fire Department
+  phoneNumbers:
+    - "(442) 212 0627"
+    - "(442) 212 3939"
+    - "(442) 218 1300"
+
+- label:
+    es: Cruz Roja
+    en: Red Cross
+  phoneNumbers:
+    - "(442) 229 0669"
+    - "(442) 229 0505066"
+
+- label:
+    es: Fugas de gas
+    en: Gas leaks
+  phoneNumbers:
+    - "(442) 217 0862"
+    - "(442) 210 1616"
+
+- label:
+    es: Locatel
+    en: Locatel (missing people)
+  phoneNumbers:
+    - "(442) 214 3311"
+
+- label:
+    es: Protección Civil
+    en: Civil Protection
+  phoneNumbers:
+    - "(442) 309 1400"
+    - "(442) 309 1405"

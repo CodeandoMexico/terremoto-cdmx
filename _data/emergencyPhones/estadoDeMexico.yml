@@ -1,0 +1,17 @@
+- label:
+    es: Emergencias
+    en: Emergencies
+  phoneNumbers:
+    - "066"
+
+- label:
+    es: Cruz Roja
+    en: Red Cross
+  phoneNumbers:
+    - "065"
+
+- label:
+    es: Atención del Gobierno del Estado
+    en: State Government
+  phoneNumbers:
+    - "01 800 696 9696"

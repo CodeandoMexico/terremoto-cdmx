@@ -1,0 +1,33 @@
+- label:
+    es: Bomberos
+    en: Fire Department
+  phoneNumbers:
+    - "(951) 549 2197"
+    - "(951) 506 0248"
+
+- label:
+    es: Cruz Roja
+    en: Red Cross
+  phoneNumbers:
+    - "(951) 516 4455"
+    - "(951) 516 4003"
+
+- label:
+    es: Fugas de gas
+    en: Gas leaks
+  phoneNumbers:
+    - "(951) 501 6600"
+    - "(951) 501 6611"
+    - "(951) 518 0094"
+
+- label:
+    es: Locatel
+    en: Locatel (missing people)
+  phoneNumbers:
+    - "(951) 516 2222"
+
+- label:
+    es: Protección Civil
+    en: Civil Protection
+  phoneNumbers:
+    - "066"

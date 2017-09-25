@@ -1,7 +1,9 @@
 
-*, h1, h2, h3, h4, h5, h6 {
-  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
-
+h1, h2, h3, h4, h5, h6 {
+  font-family: Roboto Mono, Helvetica, Arial, sans-serif;
+}
+*{
+    font-family: Roboto, Helvetica, Arial, sans-serif;
 }
 .title{
   line-height: 2em;
@@ -10,7 +12,8 @@
   color: black;
 }
 .pink{
-  color: #F3476D !important;
+    
+  color: $smx-pink-color !important;
 }
 .title{
   font-weight: 600;
@@ -21,6 +24,10 @@
   font-weight: 600;
   text-transform: uppercase;
   font-size: 28px;
+}
+
+h3 {
+  font-size: 26px
 }
 
 .lazy-button{
@@ -34,21 +41,82 @@
     color:#FFF;
     text-shadow: none;
     border: none;
-    background:#F3476D;
+    background:$smx-pink-color;
   }
 }
 
 .btn, a.btn {
-    padding: 10px 20px;
-    background-color: #222423;
-    color: #f3476d;
-    /* transition: all 1s; */
+    padding: 5px 20px;
+    background-color: $smx-dark-color;
+    color: $smx-pink-color;
+    transition: all .3s;
     border-radius: 0;
-    font-size: 24px;
+    font-size: 20px;
     font-weight: 500;
+    line-height: 45px;
     text-decoration: none;
     text-transform: uppercase;
+    text-align: center;
+    display: inline-block;
     &:hover{
-      color: #FFF;
+      background-color: $smx-pink-color;
+      color: $smx-dark-color;
     }
+}
+
+.call-to{
+  width: 30%;
+  padding: 13px 24px;
+  color: #ffffff;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 24px;
+  border: 0;
+  border-radius: 5px;
+  background-color: #7ec954;
+  transition-property: all;
+  transition-duration: 0.15s;
+  transition-timing-function: ease-in-out;
+  a{
+    text-decoration: none;
+  }
+  &:hover {
+    background-color: #9bd57b;
+  }
+}
+
+hr.section-line {
+  margin-top: 20px;
+}
+
+a[href^="sms:"],
+a[href^="tel:"] {
+    text-decoration-style: dotted;
+}
+
+.main-logo {
+  width: 200px;
+  margin: 0 auto;
+
+  @media screen and (max-width: 768px) {
+    width: 70px; 
+
+    position: absolute;
+    left: 0;
+
+  }
+
+  img {
+    width: 100%;
+  }
+}
+
+
+#section-botones {
+  .description {
+
+    max-width: 480px;
+    width: 100%;
+    margin: 0 auto 34px auto;
+  }
 }

@@ -4,7 +4,7 @@ safe: false
 
 
 ### site serving configuration ###
-exclude: [CNAME, README.md, .gitignore]
+exclude: [README.md, .gitignore, vendor, .circleci]
 permalink : /:year
 timezone: null
 lsi: false
@@ -12,9 +12,9 @@ markdown: kramdown
 
 
 ### content configuration ###
-title:       "Sismo CDMX - Información del sismo en la CDMX y el centro de Mexico."
-keywords:    "terremoto, cdmx, mexico, sismocdmx, bancos de sangre, hospital, albergues, zona de riesgo, donar, ciudad de mexico, proteccion civil"
-description: "Encuentra centros de acopio, hospitales, reportes ciudadanos y como ayudar la CDMX y zonas cercanas afectados por el sismo."
+title:       "SISMOMX - Información del sismo en la CDMX y el centro de Mexico."
+keywords:    "sismo, terremoto, cdmx, mexico, sismocdmx, bancos de sangre, hospital, albergues, zona de riesgo, donar, ciudad de mexico, proteccion civil"
+description: "Encuentra centros de acopio, hospitales, reportes ciudadanos y como ayudar a la CDMX y zonas cercanas afectadas por el sismo."
 source_link: "https://odd17.codeandomexico.org"
 favicon:     "favicon.ico"
 touch_icon:  "assets/img/apple-touch-icon.png"

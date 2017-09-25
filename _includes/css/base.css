@@ -121,8 +121,10 @@
 
 /* #Buttons
 ================================================== */
-
-	.button,
+    a.transition {
+        transition: .3s
+    }
+    .button,
 	button,
 	input[type="submit"],
 	input[type="reset"],

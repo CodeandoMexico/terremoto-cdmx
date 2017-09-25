@@ -14,6 +14,13 @@ h6 {
   font-family: $smx-font-family;
 }
 
+h6.categoria {
+    display: inline-block;
+    background: lighten( $smx-pink-color, 30% );
+    color: $smx-black-color;
+    padding: 5px 10px;
+  }
+
 // Main content
 .smx-main-content {
   h1 {
@@ -27,6 +34,9 @@ h6 {
 // Intro section
 .smx-intro {
   background: $smx-black-color;
+  background: url(../img/home-bg.png);
+  background-size: cover;
+  background-position: center;
   text-align: center;
   color: $smx-white-color;
 
@@ -37,6 +47,34 @@ h6 {
 
   p {
     font-size: 18px;
+  }
+}
+
+// Secciones
+
+.smx-necesito-ayuda, .smx-faq {
+  background-color: $smx-white-color;
+}
+
+.en-linea {
+  @media (min-width: 480px) {
+    padding-left: 10px;
+    border-left: lighten( $smx-pink-color, 30% ) 5px solid;
+  }
+}
+
+.en-persona {
+  @media (min-width: 480px) {
+    padding-left: 10px;
+    border-left: lighten( $smx-pink-color, 30% ) 5px solid;
+  }
+  .column.one-third {
+    @media (min-width: 768px) {
+      width: 229px;
+    }
+    @media (min-width: 960px) {
+      width: 295px;
+    }
   }
 }
 
@@ -74,7 +112,7 @@ h6 {
     display: inline-block;
     background-color: $smx-background-color;
     text-decoration: none;
-    padding: 24px 18px;
+    padding: 20px 25px;
     font-size: 24px;
     font-weight: $smx-font-bolder;
     margin-bottom: 20px;
@@ -86,10 +124,6 @@ h6 {
 
   @media only screen and (max-width: 540px) {
     padding: 60px 0 20px;
-
-    a[href^="#section-"] {
-      margin: 0 0 20px;
-    }
 
     h2 {
       margin-bottom: 30px;
@@ -106,6 +140,11 @@ h6 {
     }
   }
 
+  @media only screen and (max-width: 768px) {
+    a[href^="#section-"] {
+      margin: 0 0 20px;
+    }
+  }
 }
 
 // Phones section

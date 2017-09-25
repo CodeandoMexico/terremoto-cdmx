@@ -1,5 +1,6 @@
 ---
 ---
+{%- assign langSuffix = '-' | append: site.active_lang -%}
 <!DOCTYPE html>
 <html>
 <head>
@@ -20,14 +21,14 @@
     <meta property="og:locale" content="es_MX">
     <meta property="og:description" content="{{ site.description }}">
     <meta property="og:url" content="{{ site.url }}">
-    <meta property="og:image" content="{{ site.url }}/assets/img/home-bg.jpg">
+    <meta property="og:image" content="{{ site.url }}/assets/img/home-bg.png">
     <meta property="og:site_name" content="{{ site.title }}">
     <meta name="twitter:card" content="{{ site.description }}">
     <meta name="twitter:title" content="{{ site.title }}">
     <meta name="twitter:url" content="{{ site.url }}">
     <meta name="twitter:description" content="{{ site.description }}">
-    <meta name="twitter:image:src" content="{{ site.url }}/assets/img/home-bg.jpg">
-
+    <meta name="twitter:image:src" content="{{ site.url }}/assets/img/home-bg.png">
+    <link href="https://fonts.googleapis.com/css?family=Roboto+Mono|Roboto" rel="stylesheet" type="text/css">
     <link rel="stylesheet" href="{{ "main.css" | prepend: site.assets.css }}?{{site.time | date: '%s%N'}}"">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
@@ -47,13 +48,16 @@
     <a href="#" class="resToggle">☰</a>
     <nav class="smx-navigation">
         <ul>
-            <li class="active"><a href="#section-quiero_ayudar">Quiero ayudar</a></li>
             <li><a href="#section-necesito-ayuda">Necesito ayuda</a></li>
+            <li class="active"><a href="#section-quiero_ayudar">Quiero ayudar</a></li>
+
 
             <div class="nav-right">
                 <li><a href="#section-faq">Faq</a></li>
+                <!--
                 <li><a href="#">Agradecimientos</a></li>
                 <li><a href="#">Contacto</a></li>
+                -->
             </div>
         </ul>
     </nav>
@@ -61,7 +65,7 @@
 
 <main class="smx-main-content">
     {% for page in site.posts reversed %}
-    {% capture id %}{{ page.id | remove:'/' | downcase }}{% endcapture %}
+    {% capture id %}{{ page.id | remove: '/' | remove: langSuffix | downcase }}{% endcapture %}
     <section class="smx-{{ id }}" id="section-{{id}}">
         <div class="container">
             {{ page.content }}

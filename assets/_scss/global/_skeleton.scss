@@ -1,14 +1,14 @@
 // Global
 
-// Main content
-.smx-main-content {
-  h1 {
-  }
-}
-
 // Intro section
 .smx-intro {
   padding: 15px 0;
+
+  h1 {
+    @media screen and (max-width: 768px) { 
+      text-align: right;
+    }
+  }
 }
 
 // Phones section
