@@ -78,7 +78,7 @@ Revisa los issues etiquetados para cada grupo de trabajo y únete a la conversac
 | Ajuda | | | iOS, Swift | <center>[:octocat:](https://github.com/JuweTakeheshi/ajuda)</center> |
 | Promesas.mx | Concentramos la información sobre las promesas que se estan haciendo y acciones que se estan indicando por distintos sectores de Gobierno, iniciativas públicas y privadas, organizaciones civiles, fundaciones, etc. | promesasmx.slack.com   | AngularJS | <center>[:octocat:](https://github.com/jorandradefig/promesas.mx)</center> |
 | [471Servicios](https://twitter.com/471servicios) | Bot que informa sobre instituciones gubernamentales en mexico encargadas de servicios | #sismomx-bots | Python | <center>[:octocat:](https://github.com/nusspez/bot-servicios-471)</center> |
-| Análisis de información verificada en tiempo real | Tutorial de manejo de archivos `.kml` disponible en [`QuakeCurator`](QuakeCurator/) |  | Python 3.6 y bibliotecas | <center>[:octocat:](https://github.com/alorozco53/quakecurator)</center> |
+| Análisis de información verificada en tiempo real | Tutorial de manejo de archivos `.kml` disponible [aquí](https://github.com/alorozco53/QuakeCurator/blob/map-parser/map-parser/KMLTutorial.ipynb). |  | Python 3.6 y bibliotecas | <center>[:octocat:](https://github.com/alorozco53/quakecurator)</center> |
 
 ## Contribuye con este sitio
 
