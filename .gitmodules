@@ -1,0 +1,4 @@
+[submodule "QuakeCurator"]
+	path = QuakeCurator
+	url = https://github.com/alorozco53/QuakeCurator.git
+	branch = map-parser
