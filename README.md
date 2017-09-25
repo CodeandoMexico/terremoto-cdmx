@@ -104,5 +104,11 @@ $ docker run -p 4000:4000 terremoto-cdmx
 
 El sistema estará disponible en <http://127.0.0.1:4000>
 
+## Créditos
+
+`{ }` con ❤️ en [Codeando México](http://www.codeandomexico.org).
+
+`#ComunidadCodeando`
+
 ## Licencia
 Este repositorio cuenta con una licencia MIT. Para más información y detalles sobre la licencia visita [LICENSE.md](https://github.com/CodeandoMexico/terremoto-cdmx/blob/master/LICENSE.txt)
