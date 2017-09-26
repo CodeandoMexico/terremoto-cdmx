@@ -32,16 +32,17 @@ lang: en
   <hr class="section-line">
   <h2 class="subtitle pink">I'm looking for someone</h2>
   <div class="icontain">
-    <a class="btn" href="https://google.org/personfinder/2017-puebla-mexico-earthquake"
-       target="_blank" rel="noopener noreferrer">Google Person Finder</a>
+    <a class="btn" href="https://google.org/personfinder/2017-puebla-mexico-earthquake" target="_blank" rel="noopener noreferrer">Google Person Finder</a>
     <br>
     <br>
     <a class="btn" href="#" id="rescued-sheet-container-btn">Show list of rescued people</a>
   </div>
 </div>
+
 <div class="row">
   <div id="rescued-sheet-container"></div>
 </div>
+
 <div class="row">
   <hr class="section-line">
   <h2 class="subtitle pink">I'm looking for shelter or help centers</h2>
@@ -51,6 +52,7 @@ lang: en
     </div>
   </div>
 </div>
+
 <div class="row" id="reports-sheet-container">
   <hr class="section-line">
   <h2 class="subtitle pink">Citizen report list</h2>
@@ -62,7 +64,6 @@ lang: en
 <div class="row">
   <div class="one-half column">
     <h2 class="subtitle pink">Other help sites</h2>
-
     <ul class="websites">
       {% for item in site.data.links %}
       <li class="website">
@@ -72,15 +73,12 @@ lang: en
       </li>
       {% endfor %}
     </ul>
-
   </div>
 
   <div class="one-half column">
     <h2 class="subtitle pink">Legal advice</h2>
-
     <p>The <strong>Red Pro Bono México</strong>: legal brigades for affected people.</p>
     <p>Fill in <a href="http://www.appleseedmexico.org/ong-2" rel="noopener noreferrer" target="_blank">the form</a> or contact them via:</p>
-
     <ul>
       <li>Phone: <a href="tel:75839623">7583 9623</a></li>
       <li>WhatsApp: <a href="tel:5530474513">55 3047 4513</a></li>

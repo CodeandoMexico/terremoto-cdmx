@@ -55,6 +55,7 @@ lang: es
     </div>
   </div>
 </div>
+
 <div class="row" id="reports-sheet-container">
   <hr class="section-line">
 	<h2 class="subtitle pink">Lsta de reportes ciudadanos</h2>
@@ -66,7 +67,6 @@ lang: es
 <div class="row">
   <div class="one-half column">
 		<h2 class="subtitle pink">Otros sitios de ayuda</h2>
-
     <ul class="websites">
       {% for item in site.data.links %}
       <li class="website">
@@ -76,15 +76,12 @@ lang: es
       </li>
       {% endfor %}
     </ul>
-
 	</div>
 
 	<div class="one-half column">
 		<h2 class="subtitle pink">Asesoría Jurídica</h2>
-
 		<p>La <strong>Red Pro Bono de México,</strong> brigadas jurídicas para las personas afectadas.</p>
     <p>Llena <a href="http://www.appleseedmexico.org/ong-2" rel="noopener noreferrer" target="_blank">el formato</a> ó contáctalos via:</p>
-
     <ul>
 			<li>Teléfono: <a href="tel:75839623">7583 9623</a></li>
       <li>WhatsApp: <a href="tel:5530474513">55 3047 4513</a></li>
