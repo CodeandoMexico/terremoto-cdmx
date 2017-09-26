@@ -70,3 +70,48 @@ $(document).ready(function() {
 		event();
 	});
 });
+
+
+
+// Obtener Entidad Federal
+$(function obtenerEntidad(){
+	$(".cdmx,.mor,.quer,.pue,.edo,.oax" ).css('display','none');
+	$.getJSON("http://www.geoplugin.net/json.gp?jsoncallback=?", function(data) {
+
+	var entidad = "";
+	entidad += data.geoplugin_region;
+
+	// Mostrar/ocultar teléfonos de emergencia de mi entidad
+		 $("#shownear-list").click(function(event){
+			 if (entidad == "The Federal District") {
+				 $('.mor,.quer,.pue,.edo,.oax').css('display','none');
+				 $(".cdmx").slideToggle();
+			 }
+			 else if (entidad == "Morelos") {
+				 $('.cdmx,.quer,.pue,.edo,.oax').css('display','none');
+				 $(".mor").slideToggle();
+			 }
+			 else if (entidad == "Querétaro") {
+				 $('.cdmx,.mor,.pue,.edo,.oax').css('display','none');
+				 $(".quer").slideToggle();
+			 }
+			 else if (entidad == "Puebla") {
+				 $('.cdmx,.mor,.quer,.edo,.oax').css('display','none');
+				 $(".pue").slideToggle();
+			 }
+			 else if (entidad == "México") {
+				 $('.cdmx,.mor,.quer,.pue,.oax').css('display','none');
+				 $(".edo").slideToggle();
+			 }
+			 else if (entidad == "Oaxaca") {
+				 $('.cdmx,.mor,.quer,.pue,.edo').css('display','none');
+				 $(".oax").slideToggle();
+			 }
+		 });
+
+	// Mostrar/ocultar teléfonos de emergencia de otras entidades
+	 $("#showfull-list").click(function(event){
+			 $(".cdmx,.mor,.quer,.pue,.edo,.oax").slideToggle();
+		});
+	});
+});
