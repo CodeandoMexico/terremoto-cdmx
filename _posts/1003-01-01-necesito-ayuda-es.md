@@ -1,10 +1,11 @@
 ---
-title: "Recursos"
+title: Recursos
 bg: map
 color: white
 style: center
 lang: es
 ---
+
 <div class="row">
   <h1 class="title">Necesito <span class="black">Ayuda</span></h1>
 </div>
@@ -13,42 +14,21 @@ lang: es
   En estos momentos cualquier reporte puede marcar la diferencia. Reporta fugas de gas y agua, personas
   desaparecidas, incendios, entre otros, a los teléfonos de emergencia de tu ciudad:
 </div>
-<div class="row">
-  <div class="column one-half">
-    <h3>Ciudad de México</h3>
 
-    {% include phoneList.html phoneList=site.data.emergencyPhones.ciudadDeMexico language="es" %}
+<!-- Idea de https://stackoverflow.com/a/45340994/88311 -->
+{% assign rows = site.data.emergencyPhones.index.size | divided_by: 2.0 | ceil %}
+{% for i in (1..rows) %}
+  {% assign offset = forloop.index0 | times: 2 %}
+  <div class="row">
+    {% for place in site.data.emergencyPhones.index limit:2 offset:offset %}
+      <div class="column one-half">
+        <h3>{{ place.label.es }}</h3>
+        {% assign data = site.data.emergencyPhones[place.file] %}
+        {% include phoneList.html phoneList=data %}
+      </div>
+    {% endfor %}
   </div>
-  <div class="column one-half">
-    <h3>Estado de México</h3>
-
-    {% include phoneList.html phoneList=site.data.emergencyPhones.estadoDeMexico language="es" %}
-  </div>
-</div>
-<div class="row">
-  <div class="column one-half">
-    <h3>Morelos</h3>
-
-    {% include phoneList.html phoneList=site.data.emergencyPhones.morelos language="es" %}
-  </div>
-  <div class="column one-half">
-    <h3>Puebla</h3>
-
-    {% include phoneList.html phoneList=site.data.emergencyPhones.puebla language="es" %}
-  </div>
-</div>
-<div class="row">
-  <div class="column one-half">
-    <h3>Querétaro</h3>
-
-    {% include phoneList.html phoneList=site.data.emergencyPhones.queretaro language="es" %}
-  </div>
-  <div class="column one-half">
-    <h3>Oaxaca</h3>
-
-    {% include phoneList.html phoneList=site.data.emergencyPhones.oaxaca language="es" %}
-  </div>
-</div>
+{% endfor %}
 
 <div class="row">
   <hr class="section-line">
@@ -61,9 +41,11 @@ lang: es
 		<a class="btn" href="#" id="rescued-sheet-container-btn">Mostrar lista de rescatados</a>
 	</div>
 </div>
+
 <div class="row">
 	<div id="rescued-sheet-container"></div>
 </div>
+
 <div class="row">
   <hr class="section-line">
   <h2 class="subtitle pink">Busco albergues o centros de ayuda</h2>
@@ -75,29 +57,38 @@ lang: es
 </div>
 <div class="row" id="reports-sheet-container">
   <hr class="section-line">
-	<h2 class="subtitle pink">Lista de reportes ciudadanos</h2>
+	<h2 class="subtitle pink">Lsta de reportes ciudadanos</h2>
 	<a class="btn" href="#" id="reports-sheet-container-btn">Mostrar lista</a>
 </div>
+
 <hr class="section-line">
+
 <div class="row">
   <div class="one-half column">
 		<h2 class="subtitle pink">Otros sitios de ayuda</h2>
-		+ Guía de Emergencia<br>
-		<a target="_blank" rel="noopener noreferrer" href="http://www.guiaemergencias.com/">http://www.guiaemergencias.com/</a><br>
-		+ Sismo México | Información y ligas del sismo de Septiembre 19, 2017<br>
-		<a target="_blank" rel="noopener noreferrer" href="https://pliny-sismo-mx.firebaseapp.com">https://pliny-sismo-mx.firebaseapp.com</a><br>
-		+ SISMOMX<br>
-		<a target="_blank" rel="noopener noreferrer" href="http://sismomexico.org/">http://sismomexico.org/</a><br>
+
+    <ul class="websites">
+      {% for item in site.data.links %}
+      <li class="website">
+        <a target="_blank" rel="noopener noreferrer" href="{{ item.url }}">
+          {{ item.label[site.active_lang] }}
+        </a>
+      </li>
+      {% endfor %}
+    </ul>
+
 	</div>
 
 	<div class="one-half column">
 		<h2 class="subtitle pink">Asesoría Jurídica</h2>
-		<p>En <a href="http://www.pequenocerdocapitalista.com/guia-reclamar-seguros-terremoto/" target="_blank"><strong>Pequeño cerdo capitalista</strong></a> crearon una <a href="https://www.dropbox.com/s/pedizh9i2jivh3c/Guía%20para%20reclamar%20seguros%20por%20terremoto%20%202017.09.22.pdf?dl=1" target="_blank">guía colaborativa para reclamar seguros por terremoto</a>.
-		</p>
-		<p> La <strong>Red Pro Bono de México,</strong> brigadas jurídicas para las personas afectadas.</p>
-    <p> Llenar formato en <a href="http://www.appleseedmexico.org/ong-2" rel="noopener noreferrer" target="_blank">http://www.appleseedmexico.org/ong-2</a><br>
-			Teléfono: <a href="tel:75839623">7583 9623</a>, WhatsApp: <a href="tel:5530474513">55 3047 4513</a> <br>
-      Correo: <a href="mailto:mvazquez@appleseedmexico.org">mvazquez@appleseedmexico.org</a>
-		</p>
+
+		<p>La <strong>Red Pro Bono de México,</strong> brigadas jurídicas para las personas afectadas.</p>
+    <p>Llena <a href="http://www.appleseedmexico.org/ong-2" rel="noopener noreferrer" target="_blank">el formato</a> ó contáctalos via:</p>
+
+    <ul>
+			<li>Teléfono: <a href="tel:75839623">7583 9623</a></li>
+      <li>WhatsApp: <a href="tel:5530474513">55 3047 4513</a></li>
+      <li>Correo: <a href="mailto:mvazquez@appleseedmexico.org">mvazquez@appleseedmexico.org</a></li>
+		</ul>
 	</div>
 </div>

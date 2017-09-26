@@ -1,7 +1,12 @@
 {% for service in include.phoneList %}
-{{ service.label[include.language] }}:
+{{ service.label[site.active_lang] }}:
   {% for phoneNumber in service.phoneNumbers %}
-  <a href="tel:{{ phoneNumber | replace: " ", "" | replace: "(", "" | replace: ")", "" }}">{{ phoneNumber }}</a>
+  <a
+    class="emergency-phone-number"
+    href="tel:{{ phoneNumber | replace: " ", "" | replace: "(", "" | replace: ")", "" }}"
+  >
+    {{ phoneNumber }}
+  </a>
   {% if forloop.last != true %} / {% endif %}
   {% endfor %}
 <br />

@@ -1,0 +1,24 @@
+- label:
+    es: Ciudad de México
+    en: Mexico City
+  file: ciudad-de-mexico
+- label:
+    es: Estado de México
+    en: Mexico State
+  file: estado-de-mexico
+- label:
+    es: Morelos
+    en: Morelos
+  file: morelos
+- label:
+    es: Puebla
+    en: Puebla
+  file: puebla
+- label:
+    es: Oaxaca
+    en: Oaxaca
+  file: oaxaca
+- label:
+    es: Querétaro
+    en: Querétaro
+  file: queretaro

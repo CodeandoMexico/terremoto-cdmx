@@ -1,0 +1,21 @@
+- label:
+    es: Guía de Emergencia
+    en: Emergency Guide
+  description:
+    es:
+    en:
+  url: http://www.guiaemergencias.com
+- label:
+    es: Sismo México
+    en: Sismo México
+  description:
+    es: Información y ligas del sismo de Septiembre 19, 2017
+    en:
+  url: https://pliny-sismo-mx.firebaseapp.com
+- label:
+    es: Guía para reclamar seguros por terremoto (PDF)
+    en: How to claim earthquake damage insurance (PDF)
+  description:
+    es: Guía creada por "Pequeño Cerdo Capitalista"
+    en: Guide created by "Pequeño Cerdo Capitalista"
+  url: https://www.dropbox.com/s/pedizh9i2jivh3c/Guía%20para%20reclamar%20seguros%20por%20terremoto%20%202017.09.22.pdf?dl=1
