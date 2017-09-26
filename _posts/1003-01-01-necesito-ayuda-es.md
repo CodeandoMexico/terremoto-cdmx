@@ -13,39 +13,44 @@ lang: es
   En estos momentos cualquier reporte puede marcar la diferencia. Reporta fugas de gas y agua, personas
   desaparecidas, incendios, entre otros, a los teléfonos de emergencia de tu ciudad:
 </div>
-<div class="row">
-  <div class="column one-half">
-    <h3>Ciudad de México</h3>
 
+<div class="column">
+     <a class="btn" id="shownear-list">
+       Mostrar Teléfonos de mi entidad
+     </a>
+     <a class="btn" id="showfull-list">
+       Mostrar Teléfonos de otras entidades
+     </a>
+</div>
+<br>
+<br>
+<div class="row emergency-phones">
+  <div class="column one-half cdmx">
+    <h3 id="cdmx">Ciudad de México</h3>
     {% include phoneList.html phoneList=site.data.emergencyPhones.ciudadDeMexico language="es" %}
   </div>
-  <div class="column one-half">
+  <div class="column one-half edo">
     <h3>Estado de México</h3>
-
     {% include phoneList.html phoneList=site.data.emergencyPhones.estadoDeMexico language="es" %}
   </div>
 </div>
 <div class="row">
-  <div class="column one-half">
+  <div class="column one-half mor">
     <h3>Morelos</h3>
-
     {% include phoneList.html phoneList=site.data.emergencyPhones.morelos language="es" %}
   </div>
-  <div class="column one-half">
+  <div class="column one-half pue">
     <h3>Puebla</h3>
-
     {% include phoneList.html phoneList=site.data.emergencyPhones.puebla language="es" %}
   </div>
 </div>
-<div class="row">
-  <div class="column one-half">
+<div class="row ">
+  <div class="column one-half quer">
     <h3>Querétaro</h3>
-
     {% include phoneList.html phoneList=site.data.emergencyPhones.queretaro language="es" %}
   </div>
-  <div class="column one-half">
+  <div class="column one-half oax">
     <h3>Oaxaca</h3>
-
     {% include phoneList.html phoneList=site.data.emergencyPhones.oaxaca language="es" %}
   </div>
 </div>
