@@ -81,6 +81,9 @@ Revisa los issues etiquetados para cada grupo de trabajo y únete a la conversac
 | Tweetbot desaparecidos | Bot que busca personas desaparecidas durante el sismo y recopila la información en un CSV | `#sismomx-bots` | Node | [:octocat:](http://github.com/regenhans/earthquake-bot) |
 | [Verificado19s](http://verificado19s.org) | Herramienta de crowdsourcing para reportar y verificar los daños y necesidades en terreno. | `#sismomx-verificado19s` | n/a | [:octocat:](https://github.com/parismend/Temblor) |
 | [xAyuda Contáctame](http://xayudacontactame.rykardo.net/) | Sitio que reune gente con necesidades con gente que busca ayudar. | `#sismomx-xayuda` | Js | [:octocat:](https://github.com/Rykardo/xAyudaContactame) |
+| [juridica19s](http://juridica19s.org/) | Sitio de gestión de casos y asesoría jurídica gratuita. | `` | Node | [:octocat:](https://github.com/dataquito/juridica19s) |
+
+
 
 ## Contribuye con este sitio
 
