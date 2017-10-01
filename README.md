@@ -60,6 +60,7 @@ Revisa los issues etiquetados para cada grupo de trabajo y únete a la conversac
 | [Bot inteligente de información](https://twitter.com/cdmxbot) | Bot para informacion sobre el sismo de cdmx | `#sismomx-bots` | Node | [:octocat:](https://github.com/carlosherrera/cdmxbot) |
 | [bot-471](https://twitter.com/471servicios) | Bot que informa sobre instituciones gubernamentales en mexico encargadas de servicios | `#sismomx-servicios-bot` | Python, tweepy | [:octocat:](https://github.com/nusspez/bot-servicios-471) |
 | [CómoAyudar.MX](http://comoayudar.mx) | Proyecto que ayuda a recopilar la información de asociaciones, entidades, organizaciones, centros de acopio o cualquier forma de ayuda en caso de desastres naturales. | `#sismomx-camx` | HTML5, CSS3 | [:octocat:](https://github.com/eldelentes/comoayudarmx) |
+| CVOED API | API Proxy para consultar BD de CVOED del IMSS (hospitalizados). | `#sismomx-data` | PHP | [:octocat:](https://github.com/lesmo/cvoed-api) |
 | [Fake News Bot](https://twitter.com/fakesismo) | Busca tweets, responde a ellos y otorga una lista de tweets con un hashtag específico. | `#sismomx-fakenews` | Python | [:octocat:](https://github.com/tonmona2/twiiter_bot) |
 | [Fuerza Méxco](https://play.google.com/store/apps/details?id=com.coders.fuerzamexico&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1) | Aplicación móvil de colaboración para la captura de puntos afectados por los sismos del 2017 | `#sismomx-fuerza-mexico` | Android | [:octocat:](https://github.com/kimetrics/add-fuerzamexico-android) |
 | [infomME](http://inform-me.org) | Colección de reportes de personas, mascotas y centros de acopio. | n/a | Node, Angular | n/a |
@@ -73,6 +74,7 @@ Revisa los issues etiquetados para cada grupo de trabajo y únete a la conversac
 | [Revisa Mi Grieta API](http://digaresc.info/revisamigrieta-api-backend/) | Backend de la aplicación de Revisa Mi Grieta | `#sismomx-obras` | Google App Engine, Java 7 | [:octocat:](https://github.com/digaresc/revisamigrieta-api-backend) |
 | [Revisa Mi Grieta Bot](http://www.twitter.com/RevisaMiGrieta) | Bot para atender algunas de las necesidades después del SismoMX del 19 de Septiembre de 2017 | `#sismomx-obras` | Python | [:octocat:](https://github.com/codersmexico/revisa-mi-grieta-bot) |
 | Revisa Mi Grieta FrontEnd | Revisa Mi Grieta FrontEnd | `#sismomx-daños` | n/a | [:octocat:](http://github.com/digaresc/revisamigrieta-frontend) |
+| [RescateCDMX](http://app.rescatecdmx.org) | Base de datos de hospitalizados y desaparecidos. | `#sismomx-data` | Google Sheets + AppSheet | [:clipboard:](http://rescatecdmx.org) |
 | [SismoMX Contribuye (Front)](http://contribuye.sismomexico.org) | n/a | `#sismomx-contribuye` | Vue | [:octocat:](https://github.com/CodeandoMexico/contribuye-front) |
 | SismoMX Contribuye (Harvest) | Realtime API dedicada a conectar issues abiertos dentro de repositorios de CodeandoMexico | `#sismomx-contribuye` | Node | [:octocat:](https://github.com/CodeandoMexico/contribuye-harvest) |
 | [Sitio web](http://sismomexico.org) | Sitio web con la recopilación de recursos | `#sismomx-website` | Jekyll | [:octocat:](https://github.com/CodeandoMexico/terremoto-cdmx) |
@@ -82,7 +84,6 @@ Revisa los issues etiquetados para cada grupo de trabajo y únete a la conversac
 | [Verificado19s](http://verificado19s.org) | Herramienta de crowdsourcing para reportar y verificar los daños y necesidades en terreno. | `#sismomx-verificado19s` | n/a | [:octocat:](https://github.com/parismend/Temblor) |
 | [xAyuda Contáctame](http://xayudacontactame.rykardo.net/) | Sitio que reune gente con necesidades con gente que busca ayudar. | `#sismomx-xayuda` | Js | [:octocat:](https://github.com/Rykardo/xAyudaContactame) |
 | [juridica19s](http://juridica19s.org/) | Sitio de gestión de casos y asesoría jurídica gratuita. | `` | Node | [:octocat:](https://github.com/dataquito/juridica19s) |
-
 
 
 ## Contribuye con este sitio
