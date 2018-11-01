@@ -120,3 +120,12 @@ a[href^="tel:"] {
     margin: 0 auto 34px auto;
   }
 }
+
+.icontain--adjust {
+  display: inline-block;
+  width: auto;
+}
+
+.icontain--adjust > .btn {
+  width: 100%;
+}
